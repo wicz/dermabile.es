@@ -1,2 +1,35 @@
+$headings-font-weight: 600
+$font-family-sans-serif: "HKGrotesk", sans-serif
+$font-size-base: 20 / 16 * 1rem
+$small-font-size: 80%
+$font-size-lg: $font-size-base * 1.294
+$font-size-sm: $font-size-base * .8
+$line-height-base: 1.6
+$h1-font-size: $font-size-base * 2.094
+$h2-font-size: $font-size-base * 1.618
+$h3-font-size: $font-size-lg
+$h4-font-size: $font-size-base
+$h5-font-size: $font-size-base
+$h6-font-size: $font-size-base
+$body-bg: #fff
+$body-color: #333
+
+// https://www.modularscale.com/?20,16&px&1.618
+
+@font-face
+  font-family: "HKGrotesk"
+  font-style: normal
+  font-weight: 400
+  src: url("../fonts/HKGrotesk-Regular.woff2") format("woff2"), url("../fonts/HKGrotesk-Regular.woff") format("woff")
+
+@font-face
+  font-family: "HKGrotesk"
+  font-style: normal
+  font-weight: 600
+  src: url("../fonts/HKGrotesk-Medium.woff2") format("woff2"), url("../fonts/HKGrotesk-Medium.woff") format("woff")
+
 body
-  font-size: 40px
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  font-feature-settings: "kern" 1
+  font-kerning: normal

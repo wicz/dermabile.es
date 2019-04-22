@@ -8,4 +8,5 @@
   </title>
   {{ $styles := resources.Get "stylesheets/main.sass" |  toCSS  | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+  <link rel="icon" type="image/png" href="/images/dermabile-logo.png" sizes="32x32">
 </head>

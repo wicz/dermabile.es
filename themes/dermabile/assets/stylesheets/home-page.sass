@@ -1,0 +1,80 @@
+.home-page
+  .greeting
+    text-align: center
+    margin-bottom: 1.5em
+
+    .name
+      color: darken(saturate($salmon, 10%), 5%)
+      font-size: $display1-size
+      letter-spacing: -.025em
+      font-weight: $font-weight-normal
+      line-height: 1.2
+
+    .specialty
+      color: $gray
+      font-weight: $font-weight-normal
+
+  .about
+    margin: 1em auto
+
+    .picture
+      margin-bottom: 1em
+      text-align: center
+
+      +media-breakpoint-up(lg)
+        box-shadow: 10px 10px 80px -25px $salmon
+
+    .summary
+      +media-breakpoint-up(lg)
+        padding: 1em
+
+      +media-breakpoint-up(xl)
+        padding: 3em 2em
+
+  .services
+    padding: 1em 0
+    margin: 1em 0
+
+    li
+      padding: .5em 0
+
+    li:not(:last-child)
+      border-bottom: 1px dashed #aaa
+
+  .section-title
+    border-bottom: 2px solid var(--primary)
+    color: var(--primary)
+    display: inline-block
+    padding-bottom: .5em
+    text-transform: uppercase
+    margin-bottom: 1.25em
+
+  .contact
+    background-color: $salmon
+    color: $white
+    padding: 1em 0
+
+    a
+      color: $white
+
+    .contact-links
+      font-size: $small-font-size
+
+    .contact-title
+      font-weight: $font-weight-bold
+      color: $salmon-dark
+      text-transform: uppercase
+      margin-top: 1em
+
+    .brand
+      margin-top: .8em
+      max-width: 150px
+
+    .section-title
+      border-bottom-color: $white
+
+    .phone
+      background-color: $white
+      color: $salmon
+      margin-top: 1em
+      font-weight: $font-weight-bold

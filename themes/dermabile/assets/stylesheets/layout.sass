@@ -1,10 +1,17 @@
+html
+  @extend .h-100
+
 header
   margin-bottom: 2em
 
 body
+  @extend .h-100
+  @extend .d-flex
+  @extend .flex-column
+
   +media-breakpoint-up(xl)
     background-image: url("/images/dermabile-logo-alt.svg")
-    background-position: top -15% right -55%
+    background-position: top 4em right -55%
     background-repeat: no-repeat
     background-size: 50%
     background-attachment: fixed
@@ -23,3 +30,15 @@ body
     left: -.75px
     right: -.75px
     width: 100%
+
+main.container
+  margin-top: 6em
+
+.btn-cta
+  color: $white
+  font-size: $h2-font-size
+  margin-top: 1em
+  padding: .5em 2em
+
+  +hover
+    color: $white

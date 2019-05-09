@@ -3,11 +3,10 @@
   {{- partial "head.html" . -}}
   <body>
     {{- partial "header.html" . -}}
-    <main class="container {{ .Param "id" }}">
-      <div class="row justify-content-center">
-        <div class="col-md-8">
-          {{ .Content }}
-        </div>
+    <main class="container treatments">
+      <div class="row">
+        {{ .Content }}
+      </div>
       </div>
     </main>
     {{- partial "footer.html" . -}}

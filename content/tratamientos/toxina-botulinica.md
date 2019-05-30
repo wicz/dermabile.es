@@ -42,6 +42,34 @@ Se puede utilizar toxina botulínica asociada a otros tratamientos.  La
 asociación es importante en muchos casos para abordar las necesidades
 individuales, mejorando los resultados y aumentando su durabilidad.
 
+
+## Resultados
+
+<div class="botox-results">
+  <div class="tab-content">
+    <div class="tab-pane active" id="forehead" role="tabpanel">
+      <div class="cocoen">
+        <img src="/images/l-antes.jpg" class="img-fluid">
+        <img src="/images/l-depois.jpg" class="img-fluid">
+      </div>
+    </div>
+    <div class="tab-pane active" id="crowfeet" role="tabpanel">
+      <div class="cocoen">
+        <img src="/images/v-antes.jpg" class="img-fluid">
+        <img src="/images/v-depois.jpg" class="img-fluid">
+      </div>
+    </div>
+  </div>
+  <ul class="nav nav-pills mt-3" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" id="forehead" data-toggle="pill" href="#forehead" role="tab" aria-controls="home" aria-selected="true">Frente</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" id="crowfeet" data-toggle="pill" href="#crowfeet" role="tab" aria-controls="profile" aria-selected="false">Patas de gallo</a>
+    </li>
+  </ul>
+</div>
+
 <div class="cta text-center">
   <button
     onclick="$crisp.push(['do', 'chat:open'])"

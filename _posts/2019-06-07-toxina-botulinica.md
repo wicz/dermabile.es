@@ -5,13 +5,12 @@ slug: preguntas-frecuentes-toxina-botulinica-botox
 title: "Preguntas Frecuentes: Toxina Botulínica"
 ---
 
-## ¿Que es la toxina botulínica?
+## ¿Qué es la toxina botulínica?
 
 La toxina botulínica es una medicación que consiste en una proteína que
 temporalmente relaja la musculatura, suavizando las arrugas causadas por el
 movimiento de estos músculos. Hay várias marcas aprobadas en España que son
-consideradas igualmente eficaces: Botox, Dysport, Azzalure, Vistabel y
-Bocouture. 
+consideradas igualmente eficaces: Botox, Azzalure, Vistabel y Bocouture. 
 
 Puede ser inyectada en el músculo y la piel en pequeñas cantidades para bloquear
 la acción de los nervios que activan el músculo tratado. Es considerada muy

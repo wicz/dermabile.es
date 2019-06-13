@@ -32,13 +32,13 @@ gingival, entre otras.
 <div class="botox-results">
   <div class="tab-content">
     <div class="tab-pane active" id="forehead" role="tabpanel">
-      <div class="cocoen">
+      <div class="compare">
         <img src="/assets/images/l-antes.jpg" class="img-fluid">
         <img src="/assets/images/l-depois.jpg" class="img-fluid">
       </div>
     </div>
     <div class="tab-pane active" id="crowfeet" role="tabpanel">
-      <div class="cocoen">
+      <div class="compare">
         <img src="/assets/images/v-antes.jpg" class="img-fluid">
         <img src="/assets/images/v-depois.jpg" class="img-fluid">
       </div>
@@ -98,12 +98,13 @@ utilicen productos reconocidos y aprobados.
 </div>
 
 {% contentfor js %}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cocoen@2.0.5/dist/css/cocoen.min.css" integrity="sha256-IlCbyd7d41CiPXAa2n+59AKsk3odech9FYukGzMoQGY=" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/cocoen@2.0.5/dist/js/cocoen.min.js" integrity="sha256-RQkGm3tzkAvrJszYHJHEa5riLOOjGmWj3gAmlVb+SOQ=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/cocoen@2.0.5/dist/js/cocoen-jquery.min.js" integrity="sha256-mdf7yRICkmEXLoxW8Qo+xGk76mKXBgbVN9To2dbqBMw=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/css/twentytwenty-no-compass.css" integrity="sha256-phfq+jxnlB1x8Vlrz2Fn4qNgWUx38C6DX1KHN45VXbA=" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.event.move.js" integrity="sha256-49TebjYQ4JFj6zEhpTP8StkE0uOguKgf3i9lazHHyKg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.twentytwenty.js" integrity="sha256-WTv5K8b2ynIPbLpq9wvfT56hr2Xi3CUvJSRt46CvRbg=" crossorigin="anonymous"></script>
+
   <script>
     $(function() {
-      $(".cocoen").cocoen();
+      $(".compare").twentytwenty({ no_overlay: true, click_to_move: true });
       $(".botox-results .tab-pane").toggleClass("active");
       $(".botox-results #forehead").tab("show");
     });

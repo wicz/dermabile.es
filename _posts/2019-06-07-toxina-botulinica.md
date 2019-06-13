@@ -31,25 +31,25 @@ gingival, entre otras.
 
 <div class="botox-results">
   <div class="tab-content">
-    <div class="tab-pane active" id="forehead" role="tabpanel">
+    <div class="tab-pane active" id="forehead-tab" role="tabpanel">
       <div class="compare">
         <img src="/assets/images/l-antes.jpg" class="img-fluid">
         <img src="/assets/images/l-depois.jpg" class="img-fluid">
       </div>
     </div>
-    <div class="tab-pane active" id="crowfeet" role="tabpanel">
+    <div class="tab-pane" id="crowfeet-tab" role="tabpanel">
       <div class="compare">
         <img src="/assets/images/v-antes.jpg" class="img-fluid">
         <img src="/assets/images/v-depois.jpg" class="img-fluid">
       </div>
     </div>
   </div>
-  <ul class="nav nav-pills mt-3" role="tablist">
+  <ul id="tabs" class="nav nav-pills mt-3" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" id="forehead" data-toggle="pill" href="#forehead" role="tab" aria-controls="home" aria-selected="true">Frente</a>
+      <a class="nav-link active" data-toggle="pill" id="forehead" href="#forehead-tab" role="tab" aria-controls="home" aria-selected="true">Frente</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" id="crowfeet" data-toggle="pill" href="#crowfeet" role="tab" aria-controls="profile" aria-selected="false">Patas de gallo</a>
+      <a class="nav-link" data-toggle="pill" id="crowfeet" href="#crowfeet-tab" role="tab" aria-controls="profile" aria-selected="false">Patas de gallo</a>
     </li>
   </ul>
 </div>
@@ -98,15 +98,20 @@ utilicen productos reconocidos y aprobados.
 </div>
 
 {% contentfor js %}
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/css/twentytwenty-no-compass.css" integrity="sha256-phfq+jxnlB1x8Vlrz2Fn4qNgWUx38C6DX1KHN45VXbA=" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.event.move.js" integrity="sha256-49TebjYQ4JFj6zEhpTP8StkE0uOguKgf3i9lazHHyKg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.twentytwenty.js" integrity="sha256-WTv5K8b2ynIPbLpq9wvfT56hr2Xi3CUvJSRt46CvRbg=" crossorigin="anonymous"></script>
 
   <script>
     $(function() {
-      $(".compare").twentytwenty({ no_overlay: true, click_to_move: true });
-      $(".botox-results .tab-pane").toggleClass("active");
-      $(".botox-results #forehead").tab("show");
+      $(".botox-results").imagesLoaded(function() {
+        $(".compare").twentytwenty({ no_overlay: true, click_to_move: true });
+      });
+
+      $("#tabs a").on("shown.bs.tab", function() {
+        $(".twentytwenty-container").trigger("resize");
+      })
     });
   </script>
 {% endcontentfor %}

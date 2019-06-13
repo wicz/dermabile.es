@@ -90,12 +90,7 @@ aplicarlo, idealmente con formación en medicina estética.  Es importante poner
 la salud y belleza de su piel en manos de expertos, con formación adecuada y que
 utilicen productos reconocidos y aprobados. 
 
-<div class="cta text-center">
-  <button
-    class="btn btn-primary btn-lg rounded-pill btn-cta">
-      Pide Cita
-    </button>
-</div>
+{% include form.html %}
 
 {% contentfor js %}
   <script src="https://cdn.jsdelivr.net/npm/imagesloaded@4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>

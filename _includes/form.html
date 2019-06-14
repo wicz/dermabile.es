@@ -48,13 +48,10 @@
 
         <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/g1j8o9" data-code="g1j8o9" method="post" target="_blank">
           <input type="hidden" name="ml-submit" value="1">
+          <input type="hidden" id="form_email" name="fields[email]">
           <div class="form-group ml-validate-required">
             <input type="text" class="form-control" id="form_name"
             name="fields[name]" placeholder="Nombre">
-          </div>
-          <div class="form-group ml-validate-required">
-            <input type="text" class="form-control" id="form_email"
-            name="fields[email]" placeholder="Email">
           </div>
           <div class="form-group ml-validate-required">
             <input type="text" id="form_phone" class="form-control"
@@ -77,6 +74,15 @@
     </div>
   </div>
 </div>
+
+{% contentfor js %}
+  <script>
+    $(function() {
+      var email = "" + Date.now() + Math.random() + "@dermabile.es"
+      $("#form_email").val(email);
+    });
+  </script>
+{% endcontentfor %}
 
 <script>
   function ml_webform_success_1357982() {

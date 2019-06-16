@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="/assets/css/main.css?1560449882797426000" />
+    <link rel="stylesheet" href="/assets/css/main.css?1560714955810271000" />
     <link rel="icon" type="image/png" href="/assets/images/dermabile-logo.png" sizes="32x32">
   </head>
   <body>
@@ -110,11 +110,90 @@ aplicarlo, idealmente con formación en medicina estética.  Es importante poner
 la salud y belleza de su piel en manos de expertos, con formación adecuada y que
 utilicen productos reconocidos y aprobados.</p>
 
-<div class="cta text-center">
-  <button class="btn btn-primary btn-lg rounded-pill btn-cta">
-      Pide Cita
-    </button>
+<style type="text/css">
+  .ml-form-embedSubmitLoad {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+  }
+  .ml-form-embedSubmitLoad:after {
+    content: " ";
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    border-color: #ffffff #ffffff #ffffff transparent;
+    animation: ml-form-embedSubmitLoad 1.2s linear infinite;
+  }
+  @keyframes ml-form-embedSubmitLoad {
+    0% {
+    transform: rotate(0deg);
+    }
+    100% {
+    transform: rotate(360deg);
+    }
+  }
+  .ml-error input {
+    background: url(https://bucket.mlcdn.com/images/default/error-icon.png) 98% center no-repeat #ffffff !important;
+    background-size: 24px 24px !important;
+  }
+  .row-success {
+    background-color: #ee9890;
+    border-radius: 5px;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  .form-container {
+    margin-top: 3em;
+  }
+</style>
+
+<div class="row justify-content-center form-container">
+  <div class="col-md-8 col-xl-6">
+    <div id="mlb2-1357982" class="ml-subscribe-form ml-subscribe-form-1357982">
+      <div class="row-form">
+        <h2>Pide cita. Le llamamos!</h2>
+        <p>Diganos sus datos de contacto y cuando le saldría bien la visita, por ejemplo, Lunes 10am.</p>
+
+        <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/g1j8o9" data-code="g1j8o9" method="post" target="_blank">
+          <input type="hidden" name="ml-submit" value="1" />
+          <input type="hidden" id="form_email" name="fields[email]" />
+          <div class="form-group ml-validate-required">
+            <input type="text" class="form-control" id="form_name" name="fields[name]" placeholder="Nombre" />
+          </div>
+          <div class="form-group ml-validate-required">
+            <input type="text" id="form_phone" class="form-control" name="fields[phone]" placeholder="Número de teléfono" />
+          </div>
+          <div class="form-group ml-validate-required">
+            <input type="text" id="form_visit_date" class="form-control" name="fields[visit_date]" placeholder="Día y hora preferida" />
+          </div>
+          <button type="submit" class="primary btn btn-primary btn-block btn-cta rounded-pill">Pide cita</button>
+          <button disabled="disabled" style="display: none;" type="button" class="loading btn btn-primary btn-block btn-cta rounded-pill">
+            <div class="ml-form-embedSubmitLoad"></div>
+          </button>
+        </form>
+      </div>
+      <div class="row-success" style="display: none;">
+        <h3 class="text-white">Gracias por su petición!</h3>
+        <div>Nos pondremos en contacto en menos de 24 horas.</div>
+      </div>
+    </div>
+  </div>
 </div>
+
+<script>
+  function ml_webform_success_1357982() {
+    var $ = ml_jQuery || jQuery;
+    $('.ml-subscribe-form-1357982 .row-success').show();
+    $('.ml-subscribe-form-1357982 .row-form').hide();
+  }
+</script>
+
+<p><img src="https://track.mailerlite.com/webforms/o/1357982/g1j8o9?vd890ed88b3a28c805acc70e1a88fa27c" width="1" height="1" style="max-width: 1px; max-height: 1px; visibility: hidden; padding: 0; margin: 0; display: block;" border="0" />
+<script src="https://static.mailerlite.com/js/w/webforms.min.js?vd890ed88b3a28c805acc70e1a88fa27c" type="text/javascript"></script></p>
 
 
   </div>
@@ -177,6 +256,13 @@ utilicen productos reconocidos y aprobados.</p>
     <script defer src="https://pro.fontawesome.com/releases/v5.8.1/js/brands.js" integrity="sha384-b4zU5X+9uCyU5wpeWBsEIFph6tTD8ERLbUs93uYGQGNqzbcfPDeY6c4jMhTAfBri" crossorigin="anonymous"></script>
     <script defer src="https://pro.fontawesome.com/releases/v5.8.1/js/fontawesome.js" integrity="sha384-w6QYwIdCVqcYkHtaFutVu3VlDeu+pBFvlp7e0/tygMFwnWTl13KuVYfsp0ediPpA" crossorigin="anonymous"></script>
     
+<script>
+    $(function() {
+      var email = "" + Date.now() + Math.random() + "@dermabile.es"
+      $("#form_email").val(email);
+    });
+  </script>
+
 <script src="https://cdn.jsdelivr.net/npm/imagesloaded@4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/css/twentytwenty-no-compass.css" integrity="sha256-phfq+jxnlB1x8Vlrz2Fn4qNgWUx38C6DX1KHN45VXbA=" crossorigin="anonymous" />

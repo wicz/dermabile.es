@@ -1,4 +1,4 @@
-@font-face{font-family:"HKGrotesk";font-style:normal;font-weight:400;src:url("../fonts/HKGrotesk-Regular.woff2") format("woff2"),url("../fonts/HKGrotesk-Regular.woff") format("woff")}@font-face{font-family:"HKGrotesk";font-style:normal;font-weight:600;src:url("../fonts/HKGrotesk-SemiBold.woff2") format("woff2"),url("../fonts/HKGrotesk-SemiBold.woff") format("woff")}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-feature-settings:"kern" 1;font-kerning:normal}/*!
+@font-face{font-family:"HKGrotesk";font-style:normal;font-weight:400;font-display:auto;src:url("../fonts/HKGrotesk-Regular.woff2") format("woff2"),url("../fonts/HKGrotesk-Regular.woff") format("woff")}@font-face{font-family:"HKGrotesk";font-style:normal;font-weight:600;font-display:auto;src:url("../fonts/HKGrotesk-SemiBold.woff2") format("woff2"),url("../fonts/HKGrotesk-SemiBold.woff") format("woff")}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-feature-settings:"kern" 1;font-kerning:normal}/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.

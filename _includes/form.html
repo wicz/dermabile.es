@@ -78,8 +78,10 @@
 {% contentfor js %}
   <script>
     $(function() {
-      var email = "" + Date.now() + Math.random() + "@dermabile.es"
-      $("#form_email").val(email);
+      $("form.ml-block-form").on("submit", function() {
+        var email = "" + Date.now() + Math.random() + "@dermabile.es";
+        $("#form_email").val(email);
+      })
     });
   </script>
 {% endcontentfor %}

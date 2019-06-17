@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Tratamientos
 ---
 
 <div class="row">

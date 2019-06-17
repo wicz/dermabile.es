@@ -3,6 +3,9 @@ categories: [tratamientos]
 layout: post
 slug: preguntas-frecuentes-toxina-botulinica-botox
 title: "Preguntas Frecuentes: Toxina Botulínica"
+description: |
+  Preguntas frecuentes a cerca del uso de la toxina botulínica
+  (botox) en la medicina estética para el rejuvenecimiento facial.
 ---
 
 ## ¿Qué es la toxina botulínica?
@@ -136,7 +139,7 @@ utilicen productos reconocidos y aprobados.
           "name": "¿Qué es la toxina botulínica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "<p>La toxina botulínica es una medicación que consiste en una proteína que temporalmente relaja la musculatura, suavizando las arrugas causadas por el movimiento de estos músculos. Hay várias marcas aprobadas en España que son consideradas igualmente eficaces: Botox, Azzalure, Vistabel y Bocouture.</p> <p>Puede ser inyectada en el músculo y la piel en pequeñas cantidades para bloquear la acción de los nervios que activan el músculo tratado. Es considerada muy segura y ampliamente utilizada en todo el mundo por décadas.</p> <p>El uso cosmético funciona muy bien, tiene niveles de satisfacción muy altos observados en múltiples estudios científicos y ayuda a retrasar la necesidad de cirugía plástica.</p>"
+            "text": "La toxina botulínica es una medicación que consiste en una proteína que temporalmente relaja la musculatura, suavizando las arrugas causadas por el movimiento de estos músculos. Puede ser inyectada en el músculo y la piel en pequeñas cantidades para bloquear la acción de los nervios que activan el músculo tratado. El uso cosmético tiene niveles de satisfacción muy altos y ayuda a retrasar la necesidad de cirugía plástica."
           }
         },
         {

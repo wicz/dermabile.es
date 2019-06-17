@@ -113,26 +113,23 @@ utilicen productos reconocidos y aprobados.
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Tratamientos",
-        "item": "https://www.dermabile.es/tratamientos"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Toxina botulínica (Botox)",
-        "item": "https://www.dermabile.es/tratamientos/preguntas-frecuentes-toxina-botulinica-botox"
-      }]
-    }
-  </script>
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
       "@type": "FAQPage",
+      "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Tratamientos",
+          "item": "https://www.dermabile.es/tratamientos"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Toxina botulínica (Botox)",
+          "item": "https://www.dermabile.es/tratamientos/preguntas-frecuentes-toxina-botulinica-botox"
+        }]
+      },
       "mainEntity": [
         {
           "@type": "Question",

@@ -10,6 +10,7 @@ markdown: kramdown
 plugins:
   - jekyll-contentblocks
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 sass:
   style: compressed

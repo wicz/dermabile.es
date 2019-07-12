@@ -6,6 +6,8 @@ title: "Preguntas Frecuentes: Toxina Botulínica"
 description: |
   Preguntas frecuentes sobre el uso de la toxina botulínica
   (botox) en la medicina estética para el rejuvenecimiento facial.
+image:
+  path: /assets/images/botox-before-after-4.jpg
 ---
 
 ## ¿Qué es la toxina botulínica?

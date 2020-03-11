@@ -42,9 +42,15 @@ title: Dra Vanessa Martins
                   Hospital Clinic de Barcelona
                 </div>
                 <i class="fal fa-calendar-day"></i>
-                <span class="mx-2">En andamiento</span>
+                <span class="mx-2">2019</span>
                 <i class="fal fa-map-pin"></i>
                 <span class="mx-2">Barcelona, España</span>
+                <div>
+                  <em>
+                   Mención de Doctor Internacional y Cum laude (puntuación
+                   sobresaliente 10/10).
+                  </em>
+                </div>
               </small>
             </li>
 

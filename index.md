@@ -19,7 +19,7 @@ title: Dra Vanessa Martins
           <p class="summary">
           Médica con formación en Dermatología y Medicina Estética en grandes
           centros en Brasil, Barcelona y Londres, busca una medicina pro-activa,
-          de prevención y diagnóstico precoz. Aboga por la manutención de la
+          de prevención y diagnóstico precoz. Aboga por el mantenimiento de la
           piel sana y cuidada, como de la salud en general, buscando resultados
           naturales para reflejar y amplificar lo que naturalmente de bello haya
           en cada persona.

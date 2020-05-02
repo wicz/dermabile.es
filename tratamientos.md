@@ -12,6 +12,7 @@ title: Tratamientos
     <ul>
       <li><a href="{% post_url 2019-06-07-toxina-botulinica %}">Toxina Botulínica (Botox)</a></li>
       <li><a href="{% post_url 2019-07-30-ultherapy %}">Ultherapy (Lifting facial)</a></li>
+      <li><a href="{% post_url 2020-04-29-contorno-mandibular %}">Redefinición del Contorno Facial</a></li>
       <li>Rellenos</li>
       <li>Mesoterapia facial, capilar y corporal</li>
       <li>Microagujamiento</li>

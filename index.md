@@ -24,6 +24,9 @@ title: Dra Vanessa Martins
           naturales para reflejar y amplificar lo que naturalmente de bello haya
           en cada persona.
           </p>
+          <a href="/tratamientos" class="btn btn-primary text-white btn-block mx-auto w-50 text-center">
+            Ver tratamientos
+          </a>
         </div>
       </div>
     </div>

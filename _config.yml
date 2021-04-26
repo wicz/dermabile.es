@@ -15,7 +15,7 @@ plugins:
 sass:
   style: compressed
 
-permalink: /:categories/:slug
+permalink: /blog/:slug
 
 exclude:
   - Gemfile*

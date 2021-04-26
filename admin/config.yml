@@ -5,7 +5,7 @@ media_folder: "assets/images"
 slug:
   encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: "_"
+  sanitize_replacement: "-"
 editor:
   preview: false
 collections:

@@ -3,7 +3,7 @@ layout: post
 title: 5 hábitos daniños para el pelo
 date: 2021-04-27T10:09:55.575Z
 ---
-![](/images/7fce09cc-8af8-452e-92d9-78cc60604f55.jpg)
+![](/assets/images/7fce09cc-8af8-452e-92d9-78cc60604f55.jpg)
 
 # 5 hábitos comunes que son dañinos a tu cabello
 

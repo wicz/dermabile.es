@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Lato", sans-serif;
+  @apply bg-white
+}
+
+.font-quincy {
+  font-family: "Quincy", serif;
+}
+
+.bg-rose {
+  background-color: #f09491;
+}
+
+.bg-black {
+  background-color: #25282a;
+}
+
+.bg-apricot {
+  background-color: #ffbe9f;
+}
+
+.bg-cool-gray {
+  background-color: #d9d9d6;
+}
+
+.border-rose {
+  border-color: #f09491;
+}
+
+.text-rose {
+  color: #f09491;
+}
+
+.text-apricot {
+  color: #ffbe9f;
+}
+
+.border-apricot {
+  border-color: #ffbe9f;
+}
+
+@layer utilities {
+  @variants responsive {
+    .h-200 {
+      height: 40rem;
+    }
+
+    .font-quincy {
+      font-family: "Quincy", serif;
+    }
+  }
+}
+
+.cat-treatment {
+  @apply bg-pink-100 text-pink-800
+}
+
+.w-1280 {
+  width: 80rem;
+}
+
+.bg-graphic {
+  margin-right: -50rem;
+  margin-bottom: -56rem;
+}
+
+.klaro {
+  --notice-right: auto;
+  --notice-left: 20px;
+  --green1: #f09491;
+  --blue1: #f09491;
+}
+
+.legal h1,
+.legal h2 {
+  @apply
+    font-quincy
+}

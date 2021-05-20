@@ -2,10 +2,8 @@
 layout: post
 title: 5 hábitos daniños para el pelo
 date: 2021-04-27T10:09:55.575Z
+image: /assets/images/7fce09cc-8af8-452e-92d9-78cc60604f55.jpg
 ---
-![](/assets/images/7fce09cc-8af8-452e-92d9-78cc60604f55.jpg)
-
-# 5 hábitos comunes que son dañinos a tu cabello
 
 ¡La salud de tu cabello puede estar en juego! Cuidar el cabello es una tarea que forma parte de la vida de todos, pero ¿estás cometiendo algunos errores que pueden dañarlos a mediano y largo plazo? Puede que ni siquiera te des cuenta de que estos hábitos pueden ser peligrosos, echa un vistazo a lo que hemos destacado para ti:
 

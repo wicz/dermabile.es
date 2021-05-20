@@ -1,16 +1,13 @@
 ---
-categories: [tratamientos]
+category: treatment
 layout: post
 slug: ultherapy-que-es-como-funciona-vs-otros
 title: "Ultherapy, el lifting facial sin cirugía"
 description: |
   Preguntas frecuentes sobre Ultherapy, que es, como funciona y comparativo con
   otros tratamientos como Thermage, Fraxel y láseres.
-image:
-  path: /assets/images/ultherapy-cover.jpg
+image: /assets/images/ultherapy-cover.jpg
 ---
-
-<img src="/assets/images/ultherapy-cover.jpg" class="img-fluid mb-3">
 
 ## ¿Qué es el Ultherapy?
 
@@ -61,8 +58,6 @@ contraindicación a cirugía.
 Se puede realizar durante todo el año ya que no deja la piel sensible al sol ni
 produce daño a la capa superficial (epidermis). No hay necesidad de dejar las
 actividades habituales después del tratamiento. Sí, se puede hacer en el verano.
-
-{% include form.html %}
 
 {% contentfor js %}
   <script type="application/ld+json">

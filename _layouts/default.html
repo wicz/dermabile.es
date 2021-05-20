@@ -1,17 +1,17 @@
 <!doctype html>
-<html lang="es">
+<html lang="{{ site.lang }}">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?{{ site.time | date: '%s%N' }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/css/quincy.css" />
     <link rel="icon" type="image/png" href="/assets/images/dermabile-logo.png" sizes="32x32">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/compiled.css' | relative_url }}?{{ site.time | date: '%s%N' }}" />
     {% seo %}
   </head>
   <body>
     {{ content }}
-
-    {% include footer.html %}
-    {% include js.html %}
-    {% contentblock js %}
+    {% include tail.html %}
   </body>
 </html>

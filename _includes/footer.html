@@ -1,44 +1,113 @@
-<footer class="mt-auto">
-  <div class="shape-container">
-    <div class="shape shape-bottom shape-fluid-x svg-shim text-primary">
-      <svg viewBox="0 0 1440 24" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-        <path d="M0 24H1440V0C722.5 52 0 0 0 0V24Z" fill="currentColor"></path>
-      </svg>
-    </div>
-  </div>
-  <div class="contact">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <ul class="list-unstyled contact-links">
-            <li class="contact-title">DRA VANESSA MARTINS</li>
-            <li><a href="/">Sobre Vanessa</a></li>
-            <li><a href="/tratamientos">Tratamientos</a></li>
-            <li class="contact-title">REDES SOCIALES</li>
+<footer class="bg-black antialiased xl:text-lg text-white">
+  <div class="max-w-md mx-auto pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8">
+    <div class="lg:flex">
+      <div class="mr-8 lg:mr-16">
+        <img class="h-10" src="/assets/images/dermabile-logo.svg" alt="Dermábile">
+        <p class="text-gray-50 uppercase font-light my-8">
+          MEDICAL AESTHETIC CLINIC
+        </p>
+        <div class="flex space-x-6">
+          <a href="https://www.facebook.com/dermabile" class="text-gray-50">
+            <i class="fab fa-lg fa-facebook"></i>
+          </a>
+
+          <a href="https://instagram.com/dra_vanessa_martins" class="text-gray-50">
+            <i class="fab fa-lg fa-instagram"></i>
+          </a>
+
+          <a href="https://www.researchgate.net/profile/Vanessa_Martins_Da_Silva" class="text-gray-50 ">
+            <i class="fab fa-lg fa-researchgate"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="sm:grid sm:grid-cols-3 lg:flex-grow">
+        <div class="mt-12 lg:mt-0">
+          <h3 class="font-semibold text-rose tracking-wider uppercase">
+            Dermábile
+          </h3>
+          <ul class="mt-4 space-y-4">
             <li>
-              <a href="https://instagram.com/dra_vanessa_martins" class="mx-1"><i class="fab fa-lg fa-instagram"></i></a>
-              <a href="https://www.facebook.com/dermabile" class="mx-1"><i class="fab fa-lg fa-facebook"></i></a>
-              <a href="https://www.researchgate.net/profile/Vanessa_Martins_Da_Silva" class="mx-1"><i class="fab fa-lg fa-researchgate"></i></a>
+              <a href="/la-clinica" class="text-gray-50">
+                La clínica
+              </a>
+            </li>
+
+            <li>
+              <a href="/vanessa-martins" class="text-gray-50">
+                Dra Vanessa Martins
+              </a>
+            </li>
+
+            <li>
+              <a href="/tratamientos" class="text-gray-50">
+                Tratamientos
+              </a>
+            </li>
+
+            <li>
+              <a href="/blog" class="text-gray-50">
+                Blog
+              </a>
             </li>
           </ul>
         </div>
-        <div class="col-md-6">
-          <h3 class="text-white section-title mt-3">Contáctame</h3>
-          <p>
-          <em>
-            Tiene alguna duda o quiere concertar una cita conmigo?
-          </em>
-          </p>
-          <div><strong>Clínica Tufet</strong></div>
-          <div>Passeig de Gràcia, 86</div>
-          <div>08008 Barcelona</div>
-          <div class="mt-1">
-            <a href="tel:931770530" class="btn rounded phone">
-              <i class="fal fa-phone"></i>
-              931 770 530
-            </a>
-          </div>
+
+        <div class="mt-12 lg:mt-0">
+          <h3 class="font-semibold text-rose tracking-wider uppercase">
+            Legal
+          </h3>
+          <ul class="mt-4 space-y-4">
+            <li>
+              <a href="/legal/aviso-legal" class="text-gray-50">
+                Aviso legal
+              </a>
+            </li>
+
+            <li>
+              <a href="/legal/politica-de-privacidad" class="text-gray-50">
+                Politica de privacidad
+              </a>
+            </li>
+          </ul>
         </div>
+
+        <div class="mt-12 lg:mt-0">
+          <h3 class="font-semibold text-rose tracking-wider uppercase">
+            Contacto
+          </h3>
+          <ul class="mt-4 space-y-4">
+            <li class="text-gray-900">
+              <a href="https://g.page/Dermabile" class="text-gray-50">
+                <i class="fal fa-map-marker mr-2"></i>
+                Calle Laforja, 55, 08021 Barcelona
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="text-gray-50">
+                <i class="fab fa-whatsapp mr-2"></i> 931 071 835
+                <span>(WhatsApp)</span>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="text-gray-50">
+                <i class="fal fa-phone-office mr-2"></i> 931 770 530
+                <span>(Llamadas)</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gray-200 py-8 text-base">
+      <p class="text-gray-100">
+        &copy; {{ site.time | date: "%Y" }} Dermábile. Todos los derechos reservados.
+      </p>
+      <div class="mt-4 text-gray-100">
+        La información disponible en este sitio web se proporciona únicamente con fines informativos. Esta información no está destinada a reemplazar una consulta médica donde el juicio de un médico puede aconsejarle acerca de trastornos específicos, condiciones y / o opciones de tratamiento.
       </div>
     </div>
   </div>

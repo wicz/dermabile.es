@@ -2,8 +2,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 url: "https://www.dermabile.es"
-lang: es_ES
-name: "Dermabile"
+lang: es
+name: "Dermábile"
 author: vanessa
 markdown: kramdown
 
@@ -11,9 +11,6 @@ plugins:
   - jekyll-contentblocks
   - jekyll-seo-tag
   - jekyll-sitemap
-
-sass:
-  style: compressed
 
 permalink: /blog/:slug
 
@@ -23,3 +20,5 @@ exclude:
   - vendor
   - bin
   - package*
+  - .tags
+  - "*.config.js"

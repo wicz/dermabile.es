@@ -6,7 +6,7 @@ title: "Ultherapy, el lifting facial sin cirugía"
 description: |
   Preguntas frecuentes sobre Ultherapy, que es, como funciona y comparativo con
   otros tratamientos como Thermage, Fraxel y láseres.
-image: /assets/images/ultherapy-cover.jpg
+image: /assets/images/uploads/ultherapy-cover.jpg
 ---
 
 ## ¿Qué es el Ultherapy?

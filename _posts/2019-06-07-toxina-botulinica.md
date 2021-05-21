@@ -1,13 +1,12 @@
 ---
-categories: [tratamientos]
+category: treatment
 layout: post
 slug: preguntas-frecuentes-toxina-botulinica-botox
 title: "Preguntas Frecuentes: Toxina Botulínica"
 description: |
   Preguntas frecuentes sobre el uso de la toxina botulínica
   (botox) en la medicina estética para el rejuvenecimiento facial.
-image:
-  path: /assets/images/botox-before-after-5.jpg
+image: /assets/images/uploads/botox-before-after-5.jpg
 ---
 
 ## ¿Qué es la toxina botulínica?
@@ -34,30 +33,10 @@ gingival, entre otras.
 
 ## Resultados (Antes y Después)
 
-<div class="botox-results">
-  <div class="tab-content">
-    <div class="tab-pane active" id="forehead-tab" role="tabpanel">
-      <div class="compare">
-        <img src="/assets/images/l-antes.jpg" class="img-fluid">
-        <img src="/assets/images/l-depois.jpg" class="img-fluid">
-      </div>
-    </div>
-    <div class="tab-pane" id="crowfeet-tab" role="tabpanel">
-      <div class="compare">
-        <img src="/assets/images/v-antes.jpg" class="img-fluid">
-        <img src="/assets/images/v-depois.jpg" class="img-fluid">
-      </div>
-    </div>
-  </div>
-  <ul id="tabs" class="nav nav-pills mt-3" role="tablist">
-    <li class="nav-item">
-      <a class="nav-link active" data-toggle="pill" id="forehead" href="#forehead-tab" role="tab" aria-controls="home" aria-selected="true">Frente</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" data-toggle="pill" id="crowfeet" href="#crowfeet-tab" role="tab" aria-controls="profile" aria-selected="false">Patas de gallo</a>
-    </li>
-  </ul>
-</div>
+![Botox frente antes](/assets/images/uploads/l-antes.jpg)
+![Botox frente despues](/assets/images/uploads/l-depois.jpg)
+![Botox patas gallo antes](/assets/images/uploads/v-antes.jpg)
+![Botox patas gallos despues](/assets/images/uploads/v-depois.jpg)
 
 ## ¿Cómo se aplica?
 
@@ -95,26 +74,7 @@ aplicarlo, idealmente con formación en medicina estética.  Es importante poner
 la salud y belleza de su piel en manos de expertos, con formación adecuada y que
 utilicen productos reconocidos y aprobados. 
 
-{% include form.html %}
-
 {% contentfor js %}
-  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/css/twentytwenty-no-compass.css" integrity="sha256-phfq+jxnlB1x8Vlrz2Fn4qNgWUx38C6DX1KHN45VXbA=" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.event.move.js" integrity="sha256-49TebjYQ4JFj6zEhpTP8StkE0uOguKgf3i9lazHHyKg=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/zurb-twentytwenty@0.1.0/js/jquery.twentytwenty.js" integrity="sha256-WTv5K8b2ynIPbLpq9wvfT56hr2Xi3CUvJSRt46CvRbg=" crossorigin="anonymous"></script>
-
-  <script>
-    $(function() {
-      $(".botox-results").imagesLoaded(function() {
-        $(".compare").twentytwenty({ no_overlay: true, click_to_move: true });
-      });
-
-      $("#tabs a").on("shown.bs.tab", function() {
-        $(".twentytwenty-container").trigger("resize");
-      })
-    });
-  </script>
-
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",

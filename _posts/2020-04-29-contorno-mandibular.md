@@ -2,7 +2,7 @@
 layout: post
 slug: redefinicion-del-contorno-mandibular
 title: "Redefinición del Contorno Mandibular"
-image: /assets/images/girl-blue-eyes.jpg
+image: /assets/images/uploads/girl-blue-eyes.jpg
 ---
 
 ## ¿Por qué perdemos la definición del contorno mandibular?

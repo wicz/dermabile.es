@@ -16,7 +16,7 @@ title: Blog
         {% for post in site.posts limit: 3 %}
           <div class="flex flex-col rounded-lg shadow overflow-hidden">
             <div class="flex-shrink-0">
-              <img class="h-48 w-full object-cover" src="{{ post.image }}" alt="">
+              <img class="h-48 w-full object-cover" src="{{ post.image | default: "/assets/images/women-glowing-skin.jpg" }}" alt="">
             </div>
             <div class="flex-1 bg-white p-6 flex flex-col justify-between">
               <div class="flex-1">

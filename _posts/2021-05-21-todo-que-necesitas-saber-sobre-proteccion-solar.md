@@ -3,7 +3,7 @@ layout: post
 title: Todo que necesitas saber sobre protección solar
 image: /assets/images/uploads/black-woman-yellow-shirt-sunny-day.jpg
 date: 2020-06-15T15:09:25.839Z
-published: false
+published: true
 ---
 ## ¿Por qué insistimos tanto en el uso de protector solar?
 

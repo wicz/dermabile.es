@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-contentblocks"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
+  gem "jekyll-paginate", "~> 1.1"
 end

@@ -6,11 +6,14 @@ lang: es
 name: "Dermábile"
 author: vanessa
 markdown: kramdown
+paginate: 6
+paginate_path: "/blog/:num"
 
 plugins:
   - jekyll-contentblocks
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 permalink: /blog/:slug
 

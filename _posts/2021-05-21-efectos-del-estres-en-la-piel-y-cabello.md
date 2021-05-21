@@ -2,7 +2,7 @@
 layout: post
 title: Efectos del estrés en la piel y cabello
 image: /assets/images/uploads/stressed-woman.jpg
-date: 02-06-2021
+date: 10-05-2021
 published: true
 ---
 **¿Cómo el estrés afecta a la piel y el pelo?** 

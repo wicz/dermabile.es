@@ -80,3 +80,25 @@ body {
   @apply
     font-quincy
 }
+
+article.prose {
+  @apply
+    text-gray-900
+}
+
+article.prose a {
+  color: #dc807d;
+  border-color: #f09491;
+  @apply
+    border-b-2
+    no-underline
+}
+
+article.prose em {
+  background-color: #ffdad7;
+  @apply
+    py-1
+    px-2
+    not-italic
+    text-black
+}

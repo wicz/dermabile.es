@@ -13,7 +13,7 @@ title: Dra. Vanessa Martins
   </div>
   <div class="lg:mx-auto lg:max-w-screen-2xl lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-12 xl:gap-16 lg:items-start">
     <div class="max-w-xl mx-auto lg:-mb-24 lg:max-w-none">
-      <img src="/assets/images/vanessa.jpg" alt="Dra Vanessa Martins">
+      <img src="/assets/images/vanessa.jpg" alt="Dra. Vanessa Martins">
     </div>
     <div class="px-8 pb-12 md:px-12 lg:pl-0 mt-12 lg:mt-0 h-full">
       <div class="lg:mt-12 lg:relative lg:h-full">
@@ -24,7 +24,7 @@ title: Dra. Vanessa Martins
           <p>
             Médica con formación en Dermatología y Medicina Estética en grandes
             centros en Brasil, Barcelona y Londres, busca una medicina
-            pro-activa, de prevención y diagnóstico precoz. 
+            proactiva, de prevención y diagnóstico precoz. 
           </p>
           <p>
             Aboga por el mantenimiento de la piel sana y cuidada, como de la
@@ -44,7 +44,7 @@ title: Dra. Vanessa Martins
   <div class="lg:grid lg:grid-cols-2 lg:gap-10">
     <div class="prose prose-lg xl:prose-xl antialiased">
       <p>
-        Dra Martins se dedica a evaluar cuidadosamente la piel y el pelo,
+        Dra. Martins se dedica a evaluar cuidadosamente la piel y el cabello,
         orientando cuidados diarios a cada paciente.
       </p>
       <p>
@@ -56,8 +56,8 @@ title: Dra. Vanessa Martins
     </div>
     <div class="prose prose-lg xl:prose-xl antialiased">
       <p>
-        Su formación también abarca la terapia del pelo como pierda abrupta,
-        perdida de brillo y fuerza y calvicie.
+        Su formación también abarca la terapia del cabello como pierda abrupta,
+        pérdida de brillo y fuerza y calvicie.
       </p>
       <p>
         Presenta extensa formación en rejuvenecimiento y armonización facial,
@@ -116,33 +116,34 @@ title: Dra. Vanessa Martins
   </div>
 </div>
 
-<div class="bg-white mb-12">
-  <div class="max-w-7xl mx-auto lg:px-4">
-    <div class="grid md:grid-cols-2 lg:grid-cols-4">
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/sbd.jpg" alt="SBD">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/ids.jpg" alt="IDS">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/cilad.jpg" alt="CILAD">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/eado.jpg" alt="EADO">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/ace.jpg" alt="ACE">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/eadv.jpg" alt="EADV">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/comb.jpg" alt="COMB">
-      </div>
-      <div class="flex justify-center">
-        <img class="h-64" src="/assets/images/logos/cfm.jpg" alt="CFM">
-      </div>
+<div class="bg-white max-w-7xl mx-auto px-8 mb-12 xl:mb-24 md:px-12">
+  <h2 class="text-4xl font-semibold font-quincy text-gray-900 mt-12 mb-12">
+    Miembro de Sociedades Médicas y Científicas
+  </h2>
+  <div class="grid md:grid-cols-2 lg:grid-cols-4 md:-ml-20 lg:-ml-8 xl:-ml-20">
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/sbd.jpg" alt="SBD">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/ids.jpg" alt="IDS">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/cilad.jpg" alt="CILAD">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/eado.jpg" alt="EADO">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/ace.jpg" alt="ACE">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/eadv.jpg" alt="EADV">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/comb.jpg" alt="COMB">
+    </div>
+    <div class="flex justify-center">
+      <img class="h-64" src="/assets/images/logos/cfm.jpg" alt="CFM">
     </div>
   </div>
 </div>

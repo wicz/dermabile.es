@@ -32,15 +32,12 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-                  Toxina Botulínica
+                  Toxina botulínica
                 </p>
                 <div class="prose prose-lg mt-4">
-    Arrugas de la frente y del entrecejo
-    Patas de gallo
-    Sonrisa gingival
-    Cicatrizes
-    Bruxismo
-    Hiperhidrosis
+                  Tratamiento y prevención de arrugas y lineas de expresión en
+                  la frente, entrecejo y patas de gallo. Bien como la sonrisa
+                  gingival y sudor excesivo.
                 </div>
               </a>
             </div>
@@ -55,14 +52,12 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-                  Rellenos
+                  Rellenos con ácido hialurónico
                 </p>
                 <div class="prose prose-lg mt-4">
-      Líneas de marioneta
-      Ojeras
-      Labios finos
-      Arrugas labio superior (código de barras)
-      Pérdida de volumen en las mejillas
+                  Reposición de volumen y contorno facial. Tratamiento de
+                  ojeras, pómulos y arrugas profundas. Hidratación y
+                  redensificación sin voluminizar
                 </div>
               </a>
             </div>
@@ -80,11 +75,9 @@ title: Tratamientos
                   Lifting facial
                 </p>
                 <div class="prose prose-lg mt-4">
-      Jowls (mejillas de buldog)
-      Papada
-      Flacidez
-      Mirada cansada
-      Redefinición del contorno mandibular
+                  Tratamiento de la flacidez, papada y mejilla de buldog.
+                  Redefinición de contorno y mirada cansada sin agujas.
+                  Infiltración de bioestimuladores de colágeno
                 </div>
               </a>
             </div>
@@ -99,11 +92,11 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-      Tratamiento capilar
+                  Tratamiento capilar
                 </p>
                 <div class="prose prose-lg mt-4">
-      Tratamiento de caída del pelo y calvicie
-
+                  Tratamiento médico para calvicie y pérdida de pelo, y
+                  infiltración de medicación y vitaminas.
                 </div>
               </a>
             </div>
@@ -118,11 +111,11 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-      Mesoterapia facial y corporal
+                  Mesoterapia facial y corporal
                 </p>
                 <div class="prose prose-lg mt-4">
-      Tratamiento de caída del pelo y calvicie
-
+                  Aplicación de vitaminas facial, y de sustancias lipolíticas y
+                  drenantes para grasa localizada y celulitis.
                 </div>
               </a>
             </div>
@@ -140,10 +133,8 @@ title: Tratamientos
                   Limpieza facial
                 </p>
                 <div class="prose prose-lg mt-4">
-                Acne
-                Manchas
-                ZO
-                Cremas
+                  Limpieza profunda por hidrodermabrasión, asociada con serum
+                  antioxidantes para rejuvenecimiento, acné, rosácea, y manchas.
                 </div>
               </a>
             </div>
@@ -158,13 +149,11 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-                  Asesoriamento skin care 
+                  Asesoriamento Skincare 
                 </p>
                 <div class="prose prose-lg mt-4">
-                Acne
-                Manchas
-                ZO
-                Cremas
+                  Evaluación dermatológica y planificación de pauta cosmética
+                  médica personalizada. Línea de prodctos ZO Skin Health.
                 </div>
               </a>
             </div>
@@ -182,10 +171,8 @@ title: Tratamientos
                   Microagujamiento
                 </p>
                 <div class="prose prose-lg mt-4">
-                Acné
-                Melasma
-                Rosácea
-                Manchas
+                  Inducción percutánea de colágeno, aplicación de vitaminas y
+                  minerales, y tratamiento de cicatrizes de acné y estrias.
                 </div>
               </a>
             </div>
@@ -203,10 +190,8 @@ title: Tratamientos
                   Peelings químicos
                 </p>
                 <div class="prose prose-lg mt-4">
-                Acné
-                Melasma
-                Rosácea
-                Manchas
+                  Tratamiento de acné, rosácea, melasma y otras manchas. Mejora
+                  apariencia de poros, textura y arrugas finas.
                 </div>
               </a>
             </div>
@@ -221,11 +206,11 @@ title: Tratamientos
             <div class="flex-1">
               <a href="#" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-      Laser y Luz intensa pulsada (IPL)
+                  Laser y Luz Intensa Pulsada (IPL)
                 </p>
                 <div class="prose prose-lg mt-4">
-      Manchas en la piel
-      Venas faciales
+                  Tratamiento de manchas, acné, cicatrices, rojeces y venas
+                  faciales. Rejuvenecimiento de la piel.
                 </div>
               </a>
             </div>
@@ -243,9 +228,9 @@ title: Tratamientos
                 Dermatología
                 </p>
                 <div class="prose prose-lg mt-4">
-                Dermatoscopia
-                Cancer de piel
-                Lunares
+                  Dermatoscopia y cáncer de piel. Pequeñas
+                  cirurgías de verrugas, lunares, quistes y abscesos.
+                  Tratamiento de dermatitis y eccemas.
                 </div>
               </a>
             </div>

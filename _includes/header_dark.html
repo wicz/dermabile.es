@@ -1,4 +1,4 @@
-<div class="relative bg-black">
+<div class="relative bg-black" x-data="{ open: false }">
   <div class="max-w-7xl mx-auto px-4 sm:px-6">
     <div class="flex justify-between items-center lg:items-end py-8 lg:py-12 lg:justify-start lg:space-x-16">
       <div class="flex justify-start lg:flex-shrink-0">
@@ -9,15 +9,17 @@
         </a>
       </div>
       <div class="-mr-2 -my-2 lg:hidden">
-        <button type="button" class="bg-black rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+        <button type="button" class="bg-black rounded-md p-2 inline-flex
+          items-center justify-center text-gray-400 focus:outline-none"
+          aria-expanded="false" x-on:click="open = true">
           <span class="sr-only">Open menu</span>
-          <!-- Heroicon name: outline/menu -->
           <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </button>
       </div>
-      <nav class="hidden lg:flex lg:flex-grow lg:space-x-16 font-medium font-quincy">
+      <nav class="hidden lg:flex lg:flex-grow lg:space-x-16 font-medium
+        font-quincy">
         <a href="/la-clinica" class="text-xl text-gray-100">
           La clínica
         </a>
@@ -37,17 +39,8 @@
     </div>
   </div>
 
-  <!--
-    Mobile menu, show/hide based on mobile menu state.
-
-    Entering: "duration-200 ease-out"
-      From: "opacity-0 scale-95"
-      To: "opacity-100 scale-100"
-    Leaving: "duration-100 ease-in"
-      From: "opacity-100 scale-100"
-      To: "opacity-0 scale-95"
-  -->
-  <div class="opacity-0 absolute top-0 inset-x-0 p-2 transition transform origin-top-right lg:hidden">
+  <div class="absolute top-0 inset-x-0 p-2 transition transform origin-top-right
+    lg:hidden z-50" x-show="open">
     <div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-black divide-y-2 divide-gray-50">
       <div class="pt-5 pb-6 px-5">
         <div class="flex items-center justify-between">
@@ -58,9 +51,10 @@
             </a>
           </div>
           <div class="-mr-2">
-            <button type="button" class="bg-black rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+            <button type="button" class="bg-black rounded-md p-2 inline-flex
+              items-center justify-center text-gray-400 focus:outline-none"
+              x-on:click="open = false">
               <span class="sr-only">Close menu</span>
-              <!-- Heroicon name: outline/x -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
               </svg>
@@ -69,26 +63,26 @@
         </div>
         <div class="mt-6">
           <nav class="grid gap-y-8">
-            <a href="/la-clinica" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
-              <span class="ml-3 text-base font-medium text-gray-900">
+            <a href="/la-clinica" class="-m-3 p-3 flex items-center">
+              <span class="ml-3 text-base font-medium text-gray-100">
                 La clínica
               </span>
             </a>
 
-            <a href="/tratamientos" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
-              <span class="ml-3 text-base font-medium text-gray-900">
+            <a href="/tratamientos" class="-m-3 p-3 flex items-center">
+              <span class="ml-3 text-base font-medium text-gray-100">
                 Tratamientos
               </span>
             </a>
 
-            <a href="/blog" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
-              <span class="ml-3 text-base font-medium text-gray-900">
+            <a href="/blog" class="-m-3 p-3 flex items-center">
+              <span class="ml-3 text-base font-medium text-gray-100">
                 Blog
               </span>
             </a>
 
-            <a href="#" class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50">
-              <span class="ml-3 text-base font-medium text-gray-900">
+            <a href="/contacto" class="-m-3 p-3 flex items-center">
+              <span class="ml-3 text-base font-medium text-gray-100">
                 Contacto
               </span>
             </a>

@@ -13,10 +13,10 @@ layout: page
       src="/assets/images/graphic-white-rose.svg" alt="">
       <div class="lg:absolute lg:bottom-0 bg-white lg:w-3/4 px-12 py-24">
         <h1 class="text-4xl tracking-tight sm:text-5xl md:text-6xl lg:text-4xl xl:text-6xl font-quincy">
-          <span class="block xl:inline">Conozca<br> Dermábile</span>
+          <span class="block xl:inline">Conoce<br> Dermábile</span>
         </h1>
         <p class="mt-3 max-w-md mx-auto text-lg antialiased text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-          La Dermábile es un sueño antiguo de crear una clínica que mantuviera
+          Dermábile es un sueño antiguo de crear una clínica que mantuviera
           la esencia de cuidar de los pacientes y tratarlos como personas que
           son.
         </p>
@@ -29,7 +29,7 @@ layout: page
   <div class="md:grid md:grid-cols-2 md:grid-flow-col-dense md:gap-12 lg:block">
     <div class="relative lg:hidden">
       <h2 class="text-2xl mb-4 md:text-5xl tracking-tight font-quincy">
-        Conozca Dermábile
+        Conoce Dermábile
       </h2>
       <div class="hidden md:block absolute bottom-0 pb-0.5 border-b-4 border-rose">
         <a href="/la-clinica" class="font-quincy text-lg">
@@ -40,7 +40,7 @@ layout: page
     </div>
     <div class="lg:my-8 prose prose-lg antialiased lg:text-2xl lg:leading-relaxed lg:max-w-4xl lg:mx-auto">
       <div class="lg:hidden">
-        La Dermábile es un sueño antiguo de crear una clínica que mantuviera la
+        Dermábile es un sueño antiguo de crear una clínica que mantuviera la
         esencia de cuidar de los pacientes y tratarlos como personas que son.
       </div>
       <div class="mt-4 lg:mt-0">
@@ -102,7 +102,7 @@ layout: page
           <p>
             Médica con formación en Dermatología y Medicina Estética en grandes
             centros en Brasil, Barcelona y Londres, busca una medicina
-            pro-activa, de prevención y diagnóstico precoz. 
+            proactiva, de prevención y diagnóstico precoz. 
           </p>
           <p>
             Aboga por el mantenimiento de la piel sana y cuidada, como de la
@@ -113,7 +113,7 @@ layout: page
         <div class="xl:max-w-md mx-auto md:text-right mt-8 md:mt-4">
           <div class="mt-4 pb-0.5 border-b-4 border-rose inline-block">
             <a href="/vanessa-martins" class="font-quincy text-lg">
-              Más sobre Dra. Vanessa
+              Más sobre la Dra. Martins
               <i class="fal fa-arrow-right ml-4 md:ml-12"></i>
             </a>
           </div>

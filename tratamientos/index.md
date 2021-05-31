@@ -30,7 +30,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Toxina botulínica
                 </p>
@@ -50,7 +50,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Rellenos con ácido hialurónico
                 </p>
@@ -70,7 +70,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Lifting facial
                 </p>
@@ -90,7 +90,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Tratamiento capilar
                 </p>
@@ -109,7 +109,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Mesoterapia facial y corporal
                 </p>
@@ -128,7 +128,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos/limpieza-facial-profunda-aquapure" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Limpieza facial
                 </p>
@@ -147,7 +147,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Asesoriamento Skincare 
                 </p>
@@ -166,7 +166,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Microagujamiento
                 </p>
@@ -185,7 +185,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Peelings químicos
                 </p>
@@ -204,7 +204,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Laser y Luz Intensa Pulsada (IPL)
                 </p>
@@ -223,7 +223,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="#" class="block mt-2">
+              <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                 Dermatología
                 </p>
@@ -253,44 +253,3 @@ title: Tratamientos
     </div>
   </div>
 </div>
-
-<div class="hidden">
-  <div class="col-md-6">
-    <ul>
-      <li><a href="{% post_url 2019-06-07-toxina-botulinica %}">Toxina Botulínica (Botox)</a></li>
-      <li><a href="{% post_url 2019-07-30-ultherapy %}">Ultherapy (Lifting facial)</a></li>
-      <li><a href="{% post_url 2020-04-29-contorno-mandibular %}">Redefinición del Contorno Facial</a></li>
-      <li>Rellenos</li>
-      <li>Mesoterapia facial, capilar y corporal</li>
-      <li>Microagujamiento</li>
-      <li>Peelings químicos</li>
-      <li>Laser y Luz intensa pulsada (IPL)</li>
-      <li>Tratamiento de melasma, acne y rosacea</li>
-      <li>Tratamiento de caída del pelo y calvicie</li>
-    </ul>
-  </div>
-
-  <div class="col-md-6">
-    <h2>
-      Condiciones
-    </h2>
-
-    <ul>
-      <li>Arrugas de la frente y del entrecejo</li>
-      <li>Patas de gallo</li>
-      <li>Manchas en la piel</li>
-      <li>Líneas de marioneta</li>
-      <li>Ojeras</li>
-      <li>Sonrisa gingival</li>
-      <li>Venas faciales</li>
-      <li>Jowls (mejillas de buldog)</li>
-      <li>Papada</li>
-      <li>Cicatrizes</li>
-      <li>Labios finos</li>
-      <li>Bruxismo</li>
-      <li>Arrugas labio superior (código de barras)</li>
-      <li>Pérdida de volumen en las mejillas</li>
-    </ul>
-  </div>
-</div>
-

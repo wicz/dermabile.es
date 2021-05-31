@@ -27,6 +27,10 @@ body {
   background-color: #d9d9d6;
 }
 
+.bg-coal {
+  background-color: #25282a;
+}
+
 .border-rose {
   border-color: #f09491;
 }
@@ -37,6 +41,18 @@ body {
 
 .text-apricot {
   color: #ffbe9f;
+}
+
+.text-peach {
+  color: #ffb3ab;
+}
+
+.text-cool-gray {
+  color: #d9d9d6;
+}
+
+.text-iron {
+  color: #53565a;
 }
 
 .border-apricot {

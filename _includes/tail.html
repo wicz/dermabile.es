@@ -13,7 +13,6 @@
   type="text/plain"
   data-type="application/javascript"
   data-name="facebook"
-  defer
 >
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -25,6 +24,23 @@
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '657764977967723');
   fbq('track', 'PageView');
+</script>
+
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-PLQX5K74V4"
+></script>
+
+<script
+  type="text/plain"
+  data-type="application/javascript"
+  data-name="google-analytics"
+>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PLQX5K74V4');
 </script>
 
 <script type="text/javascript">
@@ -39,7 +55,12 @@
         name: "facebook",
         onlyOnce: true,
         purposes: ["analytics"]
-      }
+      },
+      {
+        name: "google-analytics",
+        onlyOnce: true,
+        purposes: ["analytics"]
+      },
     ],
   }
 </script>

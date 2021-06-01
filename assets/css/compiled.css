@@ -4040,6 +4040,24 @@ body {
   --blue1: #f09491;
 }
 
+#klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-ok {
+  justify-content: left;
+}
+
+#klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-learn-more {
+  flex-grow: 0;
+}
+
+@media (min-width: 1024px) {
+  #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-ok {
+    justify-content: right;
+  }
+
+  #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-learn-more {
+    flex-grow: 1;
+  }
+}
+
 .legal h1, .legal h2 {
   font-family: "Quincy", serif;
   font-family: "Quincy", serif;

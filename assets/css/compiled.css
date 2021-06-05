@@ -5471,6 +5471,11 @@ article.prose em {
     padding-bottom: 1rem;
   }
 
+  .md\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
   .md\:px-10 {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
@@ -6655,6 +6660,10 @@ article.prose em {
 
   .xl\:max-w-2xl {
     max-width: 42rem;
+  }
+
+  .xl\:max-w-3xl {
+    max-width: 48rem;
   }
 
   .xl\:max-w-screen-lg {

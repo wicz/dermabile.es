@@ -197,7 +197,7 @@ layout: default
     </div>
     <dl class="lg:grid lg:grid-cols-2 lg:gap-24">
       <div>
-        <img class="w-full xl:h-1/2 object-cover object-top shadow-lg rounded-lg mb-8" src="https://www.dermabile.es/vanessa.jpg" alt="">
+        <img class="w-full xl:h-1/2 object-cover object-top shadow-lg rounded-lg mb-8" src="/assets/images/vanessa.jpg" alt="">
         <div class="prose md:prose-lg">
           <p class="text-gray-600 mb-4">
             En Dermábile todos los protocolos médicos son diseñados y

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Acné: ¿Cuándo debo consultar al médico?"
-date: 01-06-2021
-published: false
+image: /assets/images/uploads/stethoscope-calendar.jpg
+date: 07-06-2021
+published: true
 ---
 Muchos pacientes con acné pueden beneficiarse de un tratamiento prescrito por el médico, especialmente en estos casos:
 

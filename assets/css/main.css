@@ -89,10 +89,28 @@ body {
   --notice-left: 20px;
   --green1: #f09491;
   --blue1: #f09491;
+  --font-size: 1rem;
+}
+
+#klaro .klaro .cookie-modal .cm-btn.cm-btn-info {
+  background-color: transparent;
+  color: #333;
+}
+
+#klaro .klaro .cookie-modal .cm-bg {
+  background: #000e;
+}
+
+#klaro .klaro .cookie-modal .cm-modal .cm-footer .cm-powered-by {
+  display: none;
 }
 
 #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-ok {
   justify-content: left;
+}
+
+#klaro .klaro .cookie-modal .cm-modal .cm-header {
+  padding: 2em;
 }
 
 #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-learn-more {

@@ -22,3 +22,5 @@ predisposición genética a padecer acné.
 _El acné del adulto tiene tratamiento y en algunos casos cuanto antes tratamos
 menos riesgo a dejar marcas._ ¿Tienes acné? Contacta con nosotros para conocer
 nuestros planes de tratamientos médicos.
+
+{% include cta.html %}

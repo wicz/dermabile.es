@@ -364,15 +364,22 @@ layout: default
         <a href="https://wa.me/34931071835" class="px-6 py-3 border
                  border-transparent text-lg font-medium
           rounded-md shadow-sm text-white bg-green-500 
-          focus:outline-none my-4 md:my-0">
+          focus:outline-none my-4 md:my-0"
+          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
+        >
           <i class="fab fa-whatsapp mr-2"></i> 931 071 835
         </a>
         <a href="tel:931770530" class="px-6 py-3
-          border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none">
+          border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none"
+          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
+        >
           <i class="fal fa-phone-office mr-2"></i> 931 770 530
         </a>
         <button class="px-6 py-3
-          border border-transparent text-lg font-medium rounded-md shadow-sm text-white bg-rose focus:outline-none" onclick="$crisp.push(['do', 'chat:open'])">
+          border border-transparent text-lg font-medium rounded-md shadow-sm
+          text-white bg-rose focus:outline-none"
+          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] }, true)"
+        >
           <i class="fas fa-comments mr-2"></i> Chat
         </button>
       </div>

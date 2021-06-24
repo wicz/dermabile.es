@@ -50,3 +50,7 @@ luminosa.
 Si ya incluyes algunos de estos hábitos en tu rutina,  ya vas por buen camino
 para mantener tu piel bonita y sana. Contácteme si quieres saber más sobre
 cómo podemos mejorar y personalizar aún más esta rutina.
+
+<a href="/tratamientos/limpieza-facial-profunda-aquapure" onclick="cta({ content_name: 'aquapure' })">
+  ![](/assets/images/aquapure-cta.jpg)
+</a>

@@ -6664,6 +6664,10 @@ article.prose em {
     margin-left: -5rem;
   }
 
+  .xl\:max-w-none {
+    max-width: none;
+  }
+
   .xl\:max-w-sm {
     max-width: 24rem;
   }
@@ -6678,10 +6682,6 @@ article.prose em {
 
   .xl\:max-w-2xl {
     max-width: 42rem;
-  }
-
-  .xl\:max-w-3xl {
-    max-width: 48rem;
   }
 
   .xl\:max-w-screen-lg {

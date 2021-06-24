@@ -12,3 +12,7 @@ Usar productos adecuados que no obstruyan los poros, cuidados de rutina con limp
 Contacta con nosotros para conocer nuestro asesoramiento skincare con evaluación
 dermatológica y planificación de pauta cosmética medica, y la limpieza facial
 profunda por hidrodermabrasión asociada con antioxidantes.
+
+<a href="/tratamientos/limpieza-facial-profunda-aquapure" onclick="cta({ content_name: 'aquapure' })">
+  ![](/assets/images/aquapure-cta.jpg)
+</a>

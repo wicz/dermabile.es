@@ -2,9 +2,18 @@
   type="text/javascript"
   defer
 >
-  function cta() {
-    if (typeof fbq !== "undefined") { fbq('track', 'CTAClicked'); }
+  function contact() {
+    if (typeof fbq !== "undefined") { fbq("track", "Contact"); }
     $crisp.push(['do', 'chat:open'])
+  }
+
+  function cta(params = {}) {
+    if (typeof fbq !== "undefined") { fbq("track", "ViewContent", params); }
+  }
+
+  function checkout(params = {}, chat = false) {
+    if (typeof fbq !== "undefined") { fbq("track", "InitiateCheckout", params); }
+    if (chat) { $crisp.push(['do', 'chat:open']) }
   }
 </script>
 

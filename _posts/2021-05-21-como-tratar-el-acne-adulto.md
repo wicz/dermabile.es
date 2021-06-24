@@ -54,3 +54,7 @@ saludables](/blog/8-habitos-para-lucir-una-piel-joven-y-bonita), una piel
 hidratada, y una rutina de [limpieza profunda con
 exfoliación](/tratamientos/limpieza-facial-profunda-aquapure), tendrás una piel
 sana y limpia de impurezas.
+
+<a href="/tratamientos/limpieza-facial-profunda-aquapure" onclick="cta({ content_name: 'aquapure' })">
+  ![](/assets/images/aquapure-cta.jpg)
+</a>

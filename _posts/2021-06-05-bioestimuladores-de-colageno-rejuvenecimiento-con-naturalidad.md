@@ -3,7 +3,7 @@ layout: post
 title: "Bioestimuladores de colágeno: Rejuvenecimiento con naturalidad"
 image: /assets/images/uploads/age-collagen.jpg
 date: 07-06-2021
-published: false
+published: true
 ---
 Bioestimuladores son sustancias inyectables que estimulan tu propria producción
 de colágeno, cómo puede ser el ácido L poli láctico o la hidroxiapatita cálcica.

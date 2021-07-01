@@ -2,8 +2,9 @@
 layout: post
 title: "Botox: los mitos y verdades del tratamiento para arrugas de expresión
   más popular del mundo"
+image: /assets/images/uploads/botox.jpg
 date: 23-06-2021
-published: false
+published: true
 ---
 Botox es apenas una de las marcas comerciales de la sustancia toxina botulínica y fue la primera a ser comercializada, por eso tan conocido mundialmente. Es una medicación regulada para tal y aprobada para su uso estético, con indicación en su ficha técnica para el tratamiento que amamos: la suavización de las arrugas de expresión. El uso del botox para fines estéticos de esta sustancia es uno de los procedimientos estéticos más realizados en la actualidad.
 
@@ -13,22 +14,23 @@ La toxina también se puede usar para tratar la sudoración excesiva llamada hip
 
 En algunas personas que presentan asimetría, como los pacientes con parálisis facial , también es posible aportar mayor armonía al rostro del paciente.
 
-Pero, ¿cómo actúa la toxina?
+## Pero, ¿cómo actúa la toxina?
 
 Las arrugas de expresión se forman con el tiempo debido al uso de ciertos músculos. Con el paso de los años, estas marcas se hacen mas profundas y evidentes, incluso cuando el músculo está relajado. Idealmente  el tratamiento deberá empezar antes de que se forme esta arruga permanente, relajando el músculo, pero manteniendo la expresividad facial y, por supuesto, evitando el efecto máscara.   En las arrugas más profundas se consiguen suavizar y producir mejoría, especialmente tras múltiples sesiones.
 
-¿Qué esperar del post-tratamiento?
+## ¿Qué esperar del post-tratamiento?
+
 Es un procedimiento rápido, realizado con anestesia tópica, con pocas molestias y que no afecta en absoluto la actividad del paciente.
 
 Después del procedimiento, las precauciones son: no masajear la zona tratada en las primeras horas, evitar la actividad física vigorosa en el día del procedimiento y no apretar la zona en las siguientes 4 horas. Está contraindicado en mujeres embarazadas y personas con un tipo raro de enfermedad que causa debilidad muscular llamada miastenia gravis. En algunos casos, pueden aparecer algunos pequeños hematomas inmediatamente después del procedimiento, pero serán reabsorbidos por el cuerpo en unos días, sin necesidad de ningún tratamiento.
 
-¿A qué edad debo empezar a aplicar la toxina?
+## ¿A qué edad debo empezar a aplicar la toxina?
 
 No hay una edad establecida para comenzar a usar la toxina. Su médico estético evaluará su piel y musculatura para ver si es adecuado para usted.
 
 Las arrugas generalmente comienzan a formarse alrededor de los 30 años. La aplicación durante el inicio de la formación de arrugas estáticas (cuando se nota una marca incluso cuando el músculo está relajado) sería ideal para evitar que la arruga se marque de forma permanente.
 
-¿Es posible mejorar cualquier arruga con el uso de Botox?
+## ¿Es posible mejorar cualquier arruga con el uso de Botox?
 
 La toxina tiene como objetivo mejorar las arrugas disminuyendo la actividad de los músculos tratados o de algunas de sus fibras. Hay algunas arrugas para las que el tratamiento no se realiza con una toxina sino con otros tratamientos como puede ser  un relleno. ¡La toxina botulínica es diferente del relleno!
 

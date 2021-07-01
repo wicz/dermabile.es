@@ -1,8 +1,9 @@
 ---
 layout: post
 title: ¿Proteges los labios del sol?
+image: /assets/images/uploads/lips-shadow-close-up.jpg
 date: 20-06-2021
-published: false
+published: true
 ---
 La fotoprotección de los labios es la gran olvidada durante las vacaciones.
 

@@ -248,141 +248,200 @@ layout: default
 </div>
 
 <div class="py-12 relative overflow-hidden mt-8 bg-coal mb-24" id="pricing">
-  <div class="hidden md:block section-bottom"></div>
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="relative">
-      <div class="mt-10 max-w-md mx-auto">
-        <div class="relative z-10 rounded-lg shadow-xl">
-          <div class="pointer-events-none absolute inset-0 rounded-lg
-            border-2 border-rose" aria-hidden="true"></div>
-          <div class="absolute inset-x-0 top-0 transform translate-y-px">
-            <div class="flex justify-center transform -translate-y-1/2">
-              <span class="inline-flex rounded-full bg-rose px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white">
-                ★★★★★
-              </span>
+  <div class="relative z-0">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="relative lg:grid lg:grid-cols-4">
+        <div class="mx-auto max-w-md lg:mx-0 lg:max-w-none lg:col-start-1 lg:col-end-3 lg:row-start-2 lg:row-end-3">
+          <div class="h-full flex flex-col rounded-lg shadow-lg overflow-hidden lg:rounded-none lg:rounded-l-lg">
+            <div class="flex-1 flex flex-col">
+              <div class="bg-white px-6 py-10">
+                <div>
+                  <h3 class="text-center text-2xl font-medium text-gray-900" id="tier-hobby">
+                    Express 30&rsquo;
+                  </h3>
+                  <div class="mt-4 flex items-center justify-center">
+                    <span class="px-3 flex items-start text-6xl tracking-tight text-gray-900">
+                      <span class="font-extrabold">
+                        90
+                      </span>
+                      <span class="mt-2 mr-2 text-4xl font-medium">
+                       €
+                      </span>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="flex-1 flex flex-col justify-between border-t-2 border-gray-100 p-6 bg-gray-50 sm:p-10 lg:p-6 xl:p-10">
+                <ul class="space-y-4">
+                  <li class="flex items-start">
+                    <div class="flex-shrink-0">
+                      <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                    <p class="ml-3 text-base font-medium text-gray-500">
+                      Hidrodermabrasión
+                    </p>
+                  </li>
+
+                  <li class="flex items-start">
+                    <div class="flex-shrink-0">
+                      <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                    <p class="ml-3 text-base font-medium text-gray-500">
+                      Electroporación
+                    </p>
+                  </li>
+                  <li class="flex items-start">
+                    <div class="flex-shrink-0">
+                      <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                    <p class="ml-3 text-base font-medium text-gray-500">
+                      Avaliación dermatológica
+                    </p>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
-          <div class="bg-white rounded-t-lg px-6 pt-12 pb-10">
-            <div>
-              <h3 class="text-center text-3xl font-semibold text-gray-900 sm:-mx-6" id="tier-growth">
-                Piel Radiante
-              </h3>
-              <div class="mt-4 flex items-center justify-center">
-                <span class="px-3 flex items-start text-6xl tracking-tight text-gray-900 sm:text-6xl">
-                  <span class="font-extrabold">
-                    150
-                  </span>
-                  <span class="mt-2 mr-2 text-4xl font-medium">
-                   €
-                  </span>
+        </div>
+        <div class="mt-10 max-w-lg mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-start-3 lg:col-end-5 lg:row-start-1 lg:row-end-4">
+          <div class="relative z-10 rounded-lg shadow-xl">
+            <div class="pointer-events-none absolute inset-0 rounded-lg border-2 border-rose" aria-hidden="true"></div>
+            <div class="absolute inset-x-0 top-0 transform translate-y-px">
+              <div class="flex justify-center transform -translate-y-1/2">
+                <span class="inline-flex rounded-full bg-rose px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white">
+                  ★★★★★
                 </span>
               </div>
-              <div class="text-sm mt-2 mx-8 md:mx-12">
-                * por sessión en pack de 3 sessiones (total 450€). Sessión
-                única sin pack por 180€.
+            </div>
+            <div class="bg-white rounded-t-lg px-6 pt-12 pb-10">
+              <div>
+                <h3 class="text-center text-3xl font-semibold text-gray-900 sm:-mx-6" id="tier-growth">
+                  Piel Radiante
+                </h3>
+                <div class="mt-4 flex items-center justify-center">
+                  <span class="px-3 flex items-start text-6xl tracking-tight text-gray-900 sm:text-6xl">
+                    <span class="font-extrabold">
+                      120
+                    </span>
+                    <span class="mt-2 mr-2 text-4xl font-medium">
+                     €
+                    </span>
+                  </span>
+                </div>
+                <div class="text-sm mt-2 mx-8 md:mx-12">
+                  * por sesión en pack de 3 sesiones (total 360€). Sesión
+                  única sin pack por 150€.
+                </div>
               </div>
             </div>
-          </div>
-          <div class="border-t-2 border-gray-100 rounded-b-lg pt-10 pb-8 px-6 bg-gray-50 sm:px-10 sm:py-10">
-            <ul class="space-y-4">
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Hidrodermabrasión
-                </p>
-              </li>
+            <div class="border-t-2 border-gray-100 rounded-b-lg pt-10 pb-8 px-6 bg-gray-50 sm:px-10 sm:py-10">
+              <ul class="space-y-4">
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Hidrodermabrasión
+                  </p>
+                </li>
 
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Electroporación
-                </p>
-              </li>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Electroporación
+                  </p>
+                </li>
 
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Microcorrientes
-                </p>
-              </li>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Microcorrientes
+                  </p>
+                </li>
 
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Avaliación dermatológica
-                </p>
-              </li>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Avaliación dermatológica
+                  </p>
+                </li>
 
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Peeling enzimático
-                </p>
-              </li>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Peeling enzimático
+                  </p>
+                </li>
 
-              <li class="flex items-start">
-                <div class="flex-shrink-0">
-                  <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <p class="ml-3 text-base font-medium text-gray-500">
-                  Fototerapia
-                </p>
-              </li>
-            </ul>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="flex-shrink-0 h-6 w-6 text-peach" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base font-medium text-gray-500">
+                    Fototerapia
+                  </p>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="text-white font-medium text-lg lg:text-3xl leading-relaxed mt-8 max-w-2xl mx-auto">
-      <div class="text-center">
-        Para saber más, contacta con nosotros:
-      </div>
+  </div>
 
-      <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4">
-        <a href="https://wa.me/34931071835" class="px-6 py-3 border
-                 border-transparent text-lg font-medium
-          rounded-md shadow-sm text-white bg-green-500 
-          focus:outline-none my-4 md:my-0"
-          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
-        >
-          <i class="fab fa-whatsapp mr-2"></i> 931 071 835
-        </a>
-        <a href="tel:931770530" class="px-6 py-3
-          border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none"
-          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
-        >
-          <i class="fal fa-phone-office mr-2"></i> 931 770 530
-        </a>
-        <button class="px-6 py-3
-          border border-transparent text-lg font-medium rounded-md shadow-sm
-          text-white bg-rose focus:outline-none"
-          onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] }, true)"
-        >
-          <i class="fas fa-comments mr-2"></i> Chat
-        </button>
-      </div>
+  <div class="text-white font-medium text-lg lg:text-3xl leading-relaxed mt-8 max-w-2xl mx-auto px-4">
+    <div class="text-center">
+      Para saber más, contacta con nosotros:
+    </div>
+
+    <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4">
+      <a href="https://wa.me/34931071835" class="px-6 py-3 border
+               border-transparent text-lg font-medium text-center
+        rounded-md shadow-sm text-white bg-green-500 
+        focus:outline-none my-2 md:my-0"
+        onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
+      >
+        <i class="fab fa-whatsapp mr-2"></i> 931 071 835
+      </a>
+      <a href="tel:931770530" class="px-6 py-3 text-center
+        border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none my-2 md:my-0"
+        onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] })"
+      >
+        <i class="fal fa-phone-office mr-2"></i> 931 770 530
+      </a>
+      <button class="px-6 py-3
+        border border-transparent text-lg font-medium rounded-md shadow-sm
+        text-white bg-rose focus:outline-none my-2 md:my-0"
+        onclick="checkout({ contents: [{ id: 'aquapure', quantity: 1 }] }, true)"
+      >
+        <i class="fas fa-comments mr-2"></i> Chat
+      </button>
     </div>
   </div>
 </div>

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: ¿Por qué es mejor tratar las arrugas de expresión pronto?
+image: /assets/images/uploads/young-man-making-face.jpg
 date: 23-06-2021
-published: false
+published: true
 ---
 La piel sobre el músculo es como una hoja de papel, va marcando con las dobraduras y movimientos hasta que, una vez bien marcado, ni planchando el papel quitamos la marca. 
 

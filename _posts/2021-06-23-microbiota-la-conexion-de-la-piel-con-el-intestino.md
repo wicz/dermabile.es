@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Microbiota: la conexión de la piel con el intestino"
+image: /assets/images/uploads/healthy-food.jpg
 date: 31-03-2020
-published: false
+published: true
 ---
 Sabes que es el microbioma humano? Y que su desequilibrio puede prejudicarnos?
 

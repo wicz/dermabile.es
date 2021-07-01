@@ -1,8 +1,9 @@
 ---
 layout: post
 title: ¿Cómo y por qué tratar las ojeras?
+image: /assets/images/uploads/eyes-dark-circles.jpg
 date: 14-05-2021
-published: false
+published: true
 ---
 Las ojeras son producidas por diferentes causas, en general por una COMBINACIÓN de estos factores: genética, hábitos de vida, pigmentación, presencia de vasitos, depresión del lacrimal.
 

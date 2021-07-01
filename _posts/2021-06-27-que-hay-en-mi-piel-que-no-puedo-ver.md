@@ -1,8 +1,9 @@
 ---
 layout: post
 title: ¿Qué hay en mi piel que no puedo ver?
+image: /assets/images/uploads/skin-close-up.jpg
 date: 27-06-2021
-published: false
+published: true
 ---
 La epidermis contiene aproximadamente 50 mil células/mm2 que bajo las condiciones normales se renuevan a cada 28 días. 
 

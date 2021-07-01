@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Ansiedad y sus daños en la piel
+image: /assets/images/uploads/anxious-woman.jpg
 date: 09-04-2021
-published: false
+published: true
 ---
 La piel puede reflejar lo que pasa dentro. El stress y ansiedad pueden afectar a tu salud, por la constante liberación de hormonas como adrenalina y cortisol. Eso es lo que vemos en la piel:
 

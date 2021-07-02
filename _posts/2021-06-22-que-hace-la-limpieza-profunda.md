@@ -20,7 +20,7 @@ La limpieza profunda que realizamos utiliza una secuencia de pasos con productos
 * Mantiene un nivel saludable de hidratación;
 * Proporciona resultados inmediatos.
 
-*Este tratamiento es agradable, no invasivo, con resultados inmediatos, apto para todos los tipos y tonos de piel* y no incluye sustancias nocivas como colorantes artificiales o parabenos. *Es ideal antes de eventos para lucir una piel fresca y cuidada* y también como mantenimiento de la salud de la piel. Para una piel sana normalmente se recomiendan sesiones a cada 4 semanas y puede ser combinada con otros tratamientos.
+*Este tratamiento es agradable, no invasivo, con resultados inmediatos, apto para todos los tipos y tonos de piel y no incluye sustancias nocivas como colorantes artificiales o parabenos.* Es ideal antes de eventos para lucir una piel fresca y cuidada y también como mantenimiento de la salud de la piel. Para una piel sana normalmente se recomiendan sesiones a cada 4 semanas y puede ser combinada con otros tratamientos.
 
 <a href="/tratamientos/limpieza-facial-profunda-aquapure" onclick="cta({ content_name: 'aquapure' })">
   ![](/assets/images/aquapure-cta.jpg)

@@ -19,4 +19,4 @@ caso, 2-3 normalmente.
 
 El cambio es sutil, progresivo y con resultados naturales.
 
-Empieza a prevenir la flacidez y el envejecimiento de la piel. ¿Tienes dudas?
+Empieza a prevenir la flacidez y el envejecimiento de la piel. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mesoterapia facia: ¿Cómo funciona la aplicación de vitaminas en la piel
+title: "Mesoterapia facial: ¿Cómo funciona la aplicación de vitaminas en la piel
   del rostro?"
 date: 10-08-2021
 published: false

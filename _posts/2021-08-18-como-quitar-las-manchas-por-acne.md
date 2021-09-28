@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Cómo quitar las manchas por acné
-date: 18-08-2021
-published: false
+title: ¿Cómo quitar las manchas por acné?
+image: /assets/images/uploads/face-acne.jpg
+date: 11-08-2021
+published: true
 ---
 El acné puede dejar marcas oscuras tras la inflamación como también en casos más severos dejar marcas en la textura - las cicatrices. 
 

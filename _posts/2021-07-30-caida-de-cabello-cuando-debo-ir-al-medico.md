@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Caída de cabello: ¿Cuándo debo ir al médico?"
-date: 19-07-2021
-published: false
+image: /assets/images/uploads/girl-holding-hair.jpg
+date: 05-07-2021
+published: true
 ---
 La pérdida de cabello es un síntoma y no una enfermedad. Puede ocurrir de forma más acentuada y transitoria en el otoño, tras una enfermedad importante, tras el parto, en periodos de mucho estrés, etc. 
 
-Es importante saber que esas quedas transitorias suelen durar de 2-3 meses. Hay enfermadades del pelo y del cuero cabelludo y también problemas internos que pueden manifestarse como pérdida de cabello y por lo tanto requieren atención médica. 
+Es importante saber que esas quedas transitorias suelen durar de 2-3 meses. Hay enfermedades del pelo y del cuero cabelludo y también problemas internos que pueden manifestarse como pérdida de cabello y por lo tanto requieren atención médica. 
 
 Busca una evaluación médica si:
 - si notas zonas más claras en la cabeza o con menos pelo con el pasar del tiempo;

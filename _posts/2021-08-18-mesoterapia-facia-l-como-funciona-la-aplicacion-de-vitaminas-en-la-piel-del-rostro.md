@@ -2,10 +2,11 @@
 layout: post
 title: "Mesoterapia facial: ¿Cómo funciona la aplicación de vitaminas en la piel
   del rostro?"
-date: 10-08-2021
-published: false
+image: /assets/images/uploads/mesotherapy.jpg
+date: 19-07-2021
+published: true
 ---
-La aplicación de vitaminas es un tratamiento muy demandado durante todo el año, especialmente trás las vacaciones, para la biorevitalización del rostro, la hidratación de pieles apagadas, para mantenimiento y tratamiento de flacidez y arrugas. 
+La aplicación de vitaminas es un tratamiento muy demandado durante todo el año, especialmente tras las vacaciones, para la biorevitalización del rostro, la hidratación de pieles apagadas, para mantenimiento y tratamiento de flacidez y arrugas. 
 
 Bajo anestésica tópica con crema anestésica y uso de agujas muy pequeñas de mesoterapia, se realiza la aplicación de mezclas estériles, que incluyen ácido hialurónico, vitaminas, aminoácidos, coenzimas y minerales.
 

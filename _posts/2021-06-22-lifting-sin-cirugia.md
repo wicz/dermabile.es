@@ -2,7 +2,7 @@
 layout: post
 title: ¿Lifting sin cirugía?
 image: /assets/images/uploads/ultraformer.jpg
-date: 22-06-2021
+date: 30-06-2021
 published: true
 ---
 Para flacidez leve a moderada existen tratamientos que tratan la flacidez como puede ser el Hifu Ultraformer y el uso de bioestimuladores como Sculptra o  Radiesse. En muchos pacientes recomiendo combinar las dos cosas para potencializar el resultado.

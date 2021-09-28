@@ -2,7 +2,7 @@
 layout: post
 title: ¿Cómo suavizar las líneas del bigote chino?
 image: /assets/images/uploads/bigode-chines.jpg
-date: 30-06-2021
+date: 02-07-2021
 published: true
 ---
 ¿Te molesta la línea del bigote chino? 

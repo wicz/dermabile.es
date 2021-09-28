@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Microagujamiento: un tratamiento para cicatrices de acné y estrías"
-date: 10-09-2021
-published: false
+image: /assets/images/uploads/microneedling.jpg
+date: 23-07-2021
+published: true
 ---
 El microagujamiento es una técnica que utiliza un instrumento con múltiples agujas muy finas para producir microcanales en la piel y estimular la reparación.\
 \

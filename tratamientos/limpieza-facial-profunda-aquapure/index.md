@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Limpieza facial profunda
 ---
 
 <div class="relative bg-white overflow-hidden">
@@ -25,7 +26,7 @@ layout: default
               profunda</span>
             <span class="block xl:inline">para quitar los puntos negros</span>
           </h1>
-          <p class="prose md:prose-lg mt-3 text-gray-500 sm:mt-5 sm:max-w-xl sm:mx-auto lg:max-w-none md:mt-5">
+          <p class="prose md:prose-lg mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
             Doble limpieza de la cara para eliminar puntos negros de la
             nariz, mejorar el acné, y rosácea. Tecnología coreana sumada al
             expertise dermatológico, para crear un plan de tratamiento
@@ -129,8 +130,8 @@ layout: default
     controls
     preload="auto"
   >
-    <source src="https://dermabile.s3.amazonaws.com/assets/aquapure.mp4" type="video/mp4" />
     <source src="https://dermabile.s3.amazonaws.com/assets/aquapure.webm" type="video/webm" />
+    <source src="https://dermabile.s3.amazonaws.com/assets/aquapure.mp4" type="video/mp4" />
   </video>
 </div>
 

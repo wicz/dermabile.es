@@ -70,7 +70,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
+              <a href="/tratamientos/lifting-facial" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
                   Lifting facial
                 </p>

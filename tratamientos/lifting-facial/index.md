@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lifting facial sin cirugía con Ultraformer
+description: Lifting facial sin cirugía con Ultraformer en Barcelona
 ---
 
 <div class="relative bg-white overflow-hidden">

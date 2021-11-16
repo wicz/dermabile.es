@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tratamientos médico estéticos con resultados a corto plazo y largo
-  plazo:  cuáles son y sus ventajas"
+  plazo:  las ventajas de cada uno"
 date: 16-11-2021
 published: false
 ---

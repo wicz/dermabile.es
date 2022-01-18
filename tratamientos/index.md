@@ -26,6 +26,64 @@ title: Tratamientos
 
         <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
           <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/laser.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
+              <a href="/tratamientos/luz-intensa-pulsada-ipl-m22-stellar" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Laser y Luz Intensa Pulsada (IPL)
+                </p>
+                <div class="prose prose-lg mt-4">
+                  Tratamiento de manchas, acné, cicatrices, rojeces y venas
+                  faciales. Rejuvenecimiento de la piel.
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/lifting.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
+              <a href="/tratamientos/lifting-facial" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Lifting facial
+                </p>
+                <div class="prose prose-lg mt-4">
+                  Tratamiento de la flacidez, papada y mejilla de buldog.
+                  Redefinición de contorno y mirada cansada sin agujas.
+                  Infiltración de bioestimuladores de colágeno
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/cleaning.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
+              <a href="/tratamientos/limpieza-facial-profunda-aquapure" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Limpieza facial
+                </p>
+                <div class="prose prose-lg mt-4">
+                  Limpieza profunda por hidrodermabrasión, asociada con serum
+                  antioxidantes para rejuvenecimiento, acné, rosácea, y manchas.
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/botox.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -64,25 +122,6 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
-          <div class="flex-shrink-0 py-8">
-            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/lifting.svg" alt="">
-          </div>
-          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-            <div class="flex-1">
-              <a href="/tratamientos/lifting-facial" class="block mt-2">
-                <p class="text-2xl font-semibold font-quincy">
-                  Lifting facial
-                </p>
-                <div class="prose prose-lg mt-4">
-                  Tratamiento de la flacidez, papada y mejilla de buldog.
-                  Redefinición de contorno y mirada cansada sin agujas.
-                  Infiltración de bioestimuladores de colágeno
-                </div>
-              </a>
-            </div>
-          </div>
-        </div>
 
         <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
           <div class="flex-shrink-0 py-8">
@@ -116,25 +155,6 @@ title: Tratamientos
                 <div class="prose prose-lg mt-4">
                   Aplicación de vitaminas facial, y de sustancias lipolíticas y
                   drenantes para grasa localizada y celulitis.
-                </div>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
-          <div class="flex-shrink-0 py-8">
-            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/cleaning.svg" alt="">
-          </div>
-          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-            <div class="flex-1">
-              <a href="/tratamientos/limpieza-facial-profunda-aquapure" class="block mt-2">
-                <p class="text-2xl font-semibold font-quincy">
-                  Limpieza facial
-                </p>
-                <div class="prose prose-lg mt-4">
-                  Limpieza profunda por hidrodermabrasión, asociada con serum
-                  antioxidantes para rejuvenecimiento, acné, rosácea, y manchas.
                 </div>
               </a>
             </div>
@@ -192,25 +212,6 @@ title: Tratamientos
                 <div class="prose prose-lg mt-4">
                   Tratamiento de acné, rosácea, melasma y otras manchas. Mejora
                   apariencia de poros, textura y arrugas finas.
-                </div>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
-          <div class="flex-shrink-0 py-8">
-            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/laser.svg" alt="">
-          </div>
-          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-            <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
-                <p class="text-2xl font-semibold font-quincy">
-                  Laser y Luz Intensa Pulsada (IPL)
-                </p>
-                <div class="prose prose-lg mt-4">
-                  Tratamiento de manchas, acné, cicatrices, rojeces y venas
-                  faciales. Rejuvenecimiento de la piel.
                 </div>
               </a>
             </div>

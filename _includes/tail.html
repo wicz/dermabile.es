@@ -3,6 +3,13 @@
   defer
 >
   function contact() {
+    if (typeof gtag !== "undefined") {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-10902499971/1GaTCLfhuMADEIPl284o',
+        'value': 80.0,
+        'currency': 'EUR'
+      });
+    }
     if (typeof fbq !== "undefined") { fbq("track", "Contact"); }
     $crisp.push(['do', 'chat:open'])
   }
@@ -12,6 +19,13 @@
   }
 
   function checkout(params = {}, chat = false) {
+    if (typeof gtag !== "undefined") {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-10902499971/1GaTCLfhuMADEIPl284o',
+        'value': 80.0,
+        'currency': 'EUR'
+      });
+    }
     if (typeof fbq !== "undefined") { fbq("track", "InitiateCheckout", params); }
     if (chat) { $crisp.push(['do', 'chat:open']) }
   }
@@ -60,6 +74,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-PLQX5K74V4');
+  gtag('config', 'AW-10902499971');
 </script>
 
 <script type="text/javascript">

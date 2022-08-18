@@ -263,7 +263,7 @@ title: Limpieza facial profunda
                   <div class="mt-4 flex items-center justify-center">
                     <span class="px-3 flex items-start text-6xl tracking-tight text-gray-900">
                       <span class="font-extrabold">
-                        90
+                        100
                       </span>
                       <span class="mt-2 mr-2 text-4xl font-medium">
                        €
@@ -328,7 +328,7 @@ title: Limpieza facial profunda
                 <div class="mt-4 flex items-center justify-center">
                   <span class="px-3 flex items-start text-6xl tracking-tight text-gray-900 sm:text-6xl">
                     <span class="font-extrabold">
-                      120
+                      130
                     </span>
                     <span class="mt-2 mr-2 text-4xl font-medium">
                      €
@@ -336,8 +336,8 @@ title: Limpieza facial profunda
                   </span>
                 </div>
                 <div class="text-sm mt-2 mx-8 md:mx-12">
-                  * por sesión en pack de 3 sesiones (total 360€). Sesión
-                  única sin pack por 150€.
+                  * por sesión en pack de 3 sesiones (total 390€). Sesión
+                  única sin pack por 160€.
                 </div>
               </div>
             </div>

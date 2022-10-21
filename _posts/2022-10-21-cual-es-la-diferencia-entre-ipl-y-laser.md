@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Cuál es la diferencia entre IPL y láser?
+image: /assets/images/uploads/img_0784.jpg
 date: 21-10-2022
 published: false
 ---

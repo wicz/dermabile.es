@@ -34,7 +34,7 @@ Todo ello **sin agujas y sin dolor**. Lo único, que para someterte al tratamien
 
 Una vez puestas sobre la mesa las características de IPL y el láser, es posible que ya te plantees qué opción es mejor según tú caso. 
 
-La **IPL** suele ser muy **eficaz a la hora de tratar el fotodaño y para mantenimiento de acné** (incluso en acné activo) y **piel rosácea**, ya que actúa en dianas diferentes a la vez, no requiere uso de anestesia y no hay necesidad de baja social.  
+La **IPL** suele ser muy **eficaz a la hora de tratar el fotodaño y para mantenimiento de acné** (incluso en acné activo) y **rosácea**, ya que actúa en dianas diferentes a la vez, no requiere uso de anestesia y no hay necesidad de baja social.  
 
 Si presentas fotodaño, quieres **mejorar tono, textura y reducir la rojez**, puede ser que la IPL sea el tratamiento más indicado para ti. 
 

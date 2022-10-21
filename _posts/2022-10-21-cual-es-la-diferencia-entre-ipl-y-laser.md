@@ -25,7 +25,7 @@ Es importante tener un **correcto diagnóstico** y un plan de tratamiento optimi
 
 La tecnología IPL puede provocar una **clara mejoría de la calidad de la piel desde la primera sesión.** Contribuye a mantener la piel sana y eliminar posibles manchas o imperfecciones de la piel, aumentando su calidad, elasticidad y producción de colágeno. Es ideal para un correcto mantenimiento de la piel.
 
-Se recomienda para tratar imperfecciones que nos acompañan con el paso del tiempo como las quemaduras del sol, marcas a causa de espinillas, etc. Así como combatir el **envejecimiento prematuro de la piel**. De hecho, ya se puede aplicar **a partir de los 30 años** de edad.
+Se recomienda para tratar imperfecciones que nos acompañan con el paso del tiempo como las quemaduras del sol, marcas a causa de espinillas, etc. Así como combatir el **envejecimiento prematuro de la piel**. De hecho, ya se suele aplicar **a partir de los 30 años** de edad.
 
 Todo ello **sin agujas y sin dolor**. Lo único, que para someterte al tratamiento necesitas evitar tomar el sol en la zona afectada unos días antes y después.
 

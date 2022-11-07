@@ -5,8 +5,6 @@ image: /assets/images/uploads/img_6648.jpg
 date: 07-11-2022
 published: true
 ---
-# **Cuidados antes y después de la IPL**
-
 Si estás pensando en realizar un **tratamiento de fotorejuvenecimiento con IPL**, en la siguiente guía te compartimos los **cuidados que debes seguir antes y después de cada sesión**.Claro que, a pesar de que es un **tratamiento prácticamente indoloro y seguro**, es importante seguir unas recomendaciones de seguridad previas y a posteriori para conseguir los mejores resultados posibles para tu piel.
 
 **Antes**
@@ -25,6 +23,8 @@ Es muy importante que tras la sesión utilices crema solar con protección 50 y 
 
 Por este motivo, aunque se puede hacer en pleno verano, es más recomendable si no hay sol. Es más cómodo para que no tengas que preocuparnos tanto con eso.
 
+
+
 ## **Preparación para la sesión IPL**
 
 Aparte de estas recomendaciones de seguridad previas a la realización del tratamiento de fotorejuvenecimiento con luz intensa pulsada, también es importante que trates de llevar la zona a tratar **perfectamente limpia, libre de maquillaje o cremas**. No debes tener infecciones activas ni la piel irritada en la zonas que se va aplicar. No se debe haber realizado tratamientos que puedan producir alguna agresión superficial en la piel (como microagujamiento, aplicación de vitaminas, peelings químicos,  láser etc) en los 7 días previos a la sesión. 
@@ -35,7 +35,7 @@ Es importantísimo porque la luz se guía por el color. Si la piel está broncea
 
 
 
-**IPL en Dermábile** 
+## **IPL en Dermábile** 
 
 \
 Esperamos que estos consejos te sean de gran ayuda cuando acudas a realizar las sesiones de rejuvenecimiento con IPL, ya sea en rostro, manos, cuello o escote. Uno de nuestros [tratamientos](https://www.dermabile.es/tratamientos/) estrella.

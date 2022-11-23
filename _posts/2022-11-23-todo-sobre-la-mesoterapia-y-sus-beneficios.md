@@ -3,7 +3,7 @@ layout: post
 title: Todo sobre la mesoterapia y sus beneficios
 image: /assets/images/uploads/nctf-fillmed.jpeg
 date: 23-11-2022
-published: false
+published: true
 ---
 Mesoterapia es una técnica que utiliza la aplicación de sustancias como vitaminas, enzimas y antioxidantes en la piel **a través de pequeños y superficiales puntos de inyección**.  El objetivo de su uso es estimular y mejorar la calidad de la piel, **aportando nutrición, luminosidad e hidratación**.  También puede ser realizada **en cuero cabelludo**, con activos que estimulen el crecimiento capilar, como coadyuvante en tratamiento de la caída del pelo, la calvicie y también del envejecimiento del cabello.  Por fin también está indicada en **tratamientos corporales** para ayudar a tratar la grasa localizada, la retención y la celulitis, como apoyo a pacientes que realizan dieta y actividad física. 
 

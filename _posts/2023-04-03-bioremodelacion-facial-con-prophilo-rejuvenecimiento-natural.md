@@ -3,7 +3,7 @@ layout: post
 title: "Bioremodelación facial con Prophilo: rejuvenecimiento natural"
 image: /assets/images/uploads/img_5760.jpg
 date: 28-03-2023
-published: false
+published: true
 ---
 Prophilo es un nuevo tratamiento **revolucionario** que puede ayudarte a lograr una piel tersa y de apariencia más joven sin la necesidad de procedimientos invasivos. Este innovador tratamiento implica el uso de un gel de ácido hialurónico único que se inyecta en la piel, proporcionando una **hidratación duradera** y aumentando la **producción de colágeno**.
 

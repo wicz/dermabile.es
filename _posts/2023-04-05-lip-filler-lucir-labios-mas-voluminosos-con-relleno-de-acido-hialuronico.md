@@ -11,15 +11,15 @@ published: true
 
 La técnica lip filler o el relleno de labios es un procedimiento cosmético que consiste en inyectar ácido hialurónico en el labio. El objetivo de este procedimiento es brindarte **labios más llenos y voluminosos** y que a la vez **se vean naturales**. Los rellenos labiales se pueden usar para corregir asimetrías en la boca, como cuando un lado del labio es más delgado que el otro o si el tamaño del labio inferior no está en proporción con el superior. También se pueden usar **como parte de un procedimiento de rejuvenecimiento facial** completo  para crear una apariencia juvenil general al agregar volumen y definición en áreas como mejillas  o debajo de los ojos donde se ha perdido grasa facial con el tiempo debido al proceso de envejecimiento. Muchas veces puede ser indicado aplicar ácido hialurónico también alrededor de la boca, para dar soporte perioral para que los labios aparezcan más o para mejorar la apariencia de una  sonrisa gingival.
 
+
+
 ## ¿Cuáles son los beneficios del relleno de labios?
-
-
 
 ### Labios llenos
 
 Los rellenos de labios son una excelente manera de darles a tus labios una apariencia más completa. Esto se puede lograr agregando volumen o rellenando el tejido existente, según el tipo de relleno que se utilice. El resultado es una mejor simetría y forma de los labios, lo que te hará sentir más segura de tu apariencia.
 
-### Labios más simétricos 
+### Labios más simétricos
 
 Una razón común por la que las personas buscan inyecciones en los labios es porque un lado de la boca está menos lleno que el otro. Esto puede ocurrir debido a la genética o cambios en la estructura facial con el tiempo. Los rellenos de labios pueden ayudar **a restaurar el equilibrio** al rellenar esta área para que ambos lados coincidan. Podrá ver y sentir una mejora inmediata después de recibir su tratamiento en Dermábile.
 
@@ -28,11 +28,10 @@ Una razón común por la que las personas buscan inyecciones en los labios es po
 A medida que envejecemos, nuestra piel pierde elasticidad y causa arrugas alrededor de la área de la boca, como el codigo de barra, lo que nos hace envejece la zona perioral - pero no te preocupes! Tenemos soluciones disponibles aquí en la Clínica Dermábile. Se puede recomendar tratar en etapas o combinar con el tratamiento de labios. Muchas veces el tratamiento de labio ayuda de manera indirecta a mejorar este problema.
 
 ### \
+
 Labios hidratados
 
 Muchas veces el paciente tiene un labio con una forma bonita y lo desea apenas mantener con la apariencia hidratada y joven. También es posible con tipos de ácido hilurónico más suaves hidratar estos labios  sin aumentar el volumen o cambiar la forma. 
-
-
 
 ## Hay diferentes tipos y técnicas de relleno labial
 

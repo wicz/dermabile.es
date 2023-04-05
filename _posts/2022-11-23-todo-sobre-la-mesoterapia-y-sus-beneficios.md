@@ -35,7 +35,7 @@ Mesoterapia es una técnica que utiliza la aplicación de sustancias como vitami
 
 \* grasa localizada
 
-Existen diferentes combinaciones de activos que se pueden usadas en conjunto, siendo útiles también para patologías como acné y melasma.  **Para un resultado satisfactorio es esencial un correcto diagnóstico y personalizar los tratamientos - comenta la dra Vanessa Martins, médica experta en tratamientos médico-estéticos y responsable por los protocolos personalizados en Dermábile**. La mesoterapia es una técnica que permite individualizar mucho, incluso usar diferentes activos en cada sesión para el mismo paciente. Hay que destacar también que **los productos utilizados deben ser indicados y aprobados para uso inyectable**, ya que serán depositados dentro de la piel. 
+Existen diferentes combinaciones de activos que pueden ser usadas en conjunto, siendo útiles también para patologías como acné y melasma.  **Para un resultado satisfactorio, es esencial tener un correcto diagnóstico y personalizar los tratamientos - comenta la dra Vanessa Martins, médica experta en tratamientos médico-estéticos y responsable por los protocolos personalizados en Dermábile**. La mesoterapia es una técnica que permite individualizar mucho, incluso usar diferentes activos en cada sesión para el mismo paciente. Hay que destacar también que **los productos utilizados deben ser indicados y aprobados para uso inyectable**, ya que serán depositados dentro de la piel. 
 
 ## Su piel obtiene un alto concentrado de vitaminas y otros ingredientes
 
@@ -55,7 +55,7 @@ Los cócteles vitamínicos de mesoterapia pueden **estimular las células de fib
 
 De manera general recomendamos un curso de 3-4 tratamiento (1 vez a cada 2-4 semanas) para mejorar la calidad de su piel.
 
-En Dermábile brindamos tratamientos de mesoterapia a medida combinando las mejores ampollas para reafirmar, iluminar, rejuvenecer, acné, como  Filorga Paris Institute y Mesoestetic. 
+En Dermábile brindamos tratamientos de mesoterapia a medida combinando las mejores ampollas para reafirmar, iluminar, rejuvenecer, acné, como  Filorga Paris Institute,  Mesoestetic e IBSA. 
 
 ## ¿Qué es el NCTF 135HA de Fillorga?
 

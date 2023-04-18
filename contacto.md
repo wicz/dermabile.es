@@ -29,8 +29,8 @@ title: Contacto
           <i class="fab fa-whatsapp fa-2x text-rose"></i>
         </div>
         <div class="flex-1 min-w-0 text-lg">
-          <a href="https://wa.me/34931071835" class="focus:outline-none">
-            931 071 835
+          <a href="https://wa.me/34931770530" class="focus:outline-none">
+            931 770 530
             <span class="text-sm text-gray-500">(WhatsApp)</span>
           </a>
         </div>

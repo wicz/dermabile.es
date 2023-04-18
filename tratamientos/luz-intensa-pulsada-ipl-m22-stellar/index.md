@@ -251,13 +251,13 @@ title: Limpieza facial profunda
   </div>
 
   <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4">
-    <a href="https://wa.me/34931071834" class="px-6 py-3 border
+    <a href="https://wa.me/34931770530" class="px-6 py-3 border
              border-transparent text-lg font-medium text-center
       rounded-md shadow-sm text-white bg-green-500 
       focus:outline-none my-2 md:my-0"
       onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] })"
     >
-      <i class="fab fa-whatsapp mr-2"></i> 931 071 835
+      <i class="fab fa-whatsapp mr-2"></i> 931 770 530
     </a>
     <a href="tel:931770530" class="px-6 py-3 text-center
       border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none my-2 md:my-0"

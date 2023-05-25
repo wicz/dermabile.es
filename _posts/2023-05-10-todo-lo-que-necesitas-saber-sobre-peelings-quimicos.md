@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todo lo que necesitas saber sobre peelings químicos í
+title: Todo lo que necesitas saber sobre peelings químicos
 date: 10-05-2023
 published: true
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: ¿Cuánto dura el efecto del Botox en la cara? 
+title: ¿Cuánto dura el efecto del tratamiento de arrugas de expresión? 
 image: /assets/images/uploads/photo-2021-08-04-15-47-20.jpg
 date: 27-07-2021
 published: true
 ---
-Podemos decir de una manera general que la durabilidad del efecto de la toxina botulinica es **alrededor de los 4 meses** (entre 3 y 6 meses), pero **va a depender de factores** como estilo de vida y con el uso de los músculos de la mímica facial: por ejemplo, pacientes que realizan deporte normalmente les dura un poco menos. 
+Podemos decir de una manera general que la durabilidad del efecto del neuromodulador es **alrededor de los 4 meses** (entre 3 y 6 meses), pero **va a depender de factores** como estilo de vida y con el uso de los músculos de la mímica facial: por ejemplo, pacientes que realizan deporte o que gesticulan mucho normalmente les dura un poco menos. 
 
-Uma vez aplicado el producto, su efecto **empieza a ser notado a partir de 3 días** (o sea, inmediatamente tras la aplicación sales igual de la consulta), alcanzando su **efecto máximo a los 15 días**.
+Uma vez aplicado el producto, su efecto **empieza a ser notado a partir de 3 días** (o sea, inmediatamente tras la aplicación no se nota nada), alcanzando su **efecto máximo a los 15 días**.
 
 Con la gráfica lo que quería enseñar es que **la acción va a disminuir de una manera gradual a partir del mes y poco a poco la musculatura vuelve a moverse**. Muchos pacientes piensan que estarán iguales hasta que pase el efecto completo y no es así. El cambio es dinámico y paulatino.
 

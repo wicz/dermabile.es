@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "¿Qué puedo hacer para mejorar las ojeras? "
+image: /assets/images/uploads/eyes-dark-circles.jpg
 date: 25-05-2023
 published: true
 ---

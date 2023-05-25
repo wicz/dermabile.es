@@ -12,7 +12,7 @@ category: treatment
 ---
 ## ¿Qué son los neuromoduladores?
 
-el neuromodulador usado para tratar arrugas de expresión es una  medicación que consiste en una proteína que temporalmente relaja la musculatura, suavizando las arrugas causadas por el movimiento de estos músculos. Hay várias marcas aprobadas en España que son consideradas igualmente eficaces.
+El neuromodulador usado para tratar arrugas de expresión es una  medicación que consiste en una proteína que temporalmente relaja la musculatura, suavizando las arrugas causadas por el movimiento de estos músculos. Hay várias marcas aprobadas en España que son consideradas igualmente eficaces.
 
 Puede ser inyectada en el músculo y la piel en pequeñas cantidades para bloquear
 la acción de los nervios que activan el músculo tratado. Es considerada muy

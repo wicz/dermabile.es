@@ -2,6 +2,7 @@
 layout: post
 title: "Entendiendo las cicatrices hipertróficas y queloides: causas, síntomas y
   tratamientos "
+image: /assets/images/uploads/hypertrophic-scar.jpg.webp
 date: 14-05-2023
 published: true
 ---

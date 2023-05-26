@@ -11,8 +11,7 @@ La hiperhidrosis es una **condición médica** en la que una persona **suda exce
 
  Puede ser **localizada** (por ejemplo, hiperhidrosis axilar, palmar y plantar) o **generalizada** (que afecta a toda la piel).  A menudo, esta sudoración excesiva **puede afectar la calidad de vida** de una persona, ya que puede ser incómodo y restringir su vida social y profesional. En este artículo, exploraremos las causas de la hiperhidrosis, así como los tratamientos disponibles.
 
-## \
-**Causas de la hiperhidrosis**
+## **Causas de la hiperhidrosis**
 
 La hiperhidrosis puede ser causada por una variedad de factores. En algunos casos, puede ser hereditaria. En otros casos, puede ser causada por una afección médica subyacente, como feocromocitoma o la tiroides hiperactiva. También puede ser causada por ciertos medicamentos o por el consumo de alcohol o drogas.
 
@@ -26,8 +25,9 @@ Para la hiperhidrosis palmoplantar el tratactamiento de elección es la **iontof
 
  La simpatectomía, un tratamiento quirúrgico, logra una resolución del problema a largo plazo, pero solo se considera en casos bien justificados debido al carácter invasivo del procedimiento.
 
-## \
-Neuromodulares para hiperidrosis axilar
+
+
+## Neuromodulares para hiperidrosis axilar
 
 Uno de los tratamientos que más usamos para el exceso de sudoración axilar es la aplicación de medicación neuromoduladora. Es un tratamiento **mínimamente invasivo** que se aplica bajo **anestesia con crema**, y en puntos muy superficiales en la piel, repartidos por toda la zona que suda en exceso. 
 

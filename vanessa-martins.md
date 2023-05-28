@@ -134,7 +134,7 @@ title: Dra. Vanessa Martins
       <img class="h-64" src="/assets/images/logos/eado.jpg" alt="EADO">
     </div>
     <div class="flex justify-center">
-      <img class="h-64" src="/assets/images/logos/ace.jpg" alt="ACE">
+      <img class="h-64" src="/assets/images/logos/seme.jpg" alt="SEME">
     </div>
     <div class="flex justify-center">
       <img class="h-64" src="/assets/images/logos/eadv.jpg" alt="EADV">

@@ -30,9 +30,27 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
+              <a href="/tratamientos" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Láser fraccionado
+                </p>
+                <div class="prose prose-lg mt-4">
+                   Láser fraccionado ablativo y no ablativo. Tratamiento de estrías, cicatrices y queloides. Retirada de tumores benignos.
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/ipl.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
               <a href="/tratamientos/luz-intensa-pulsada-ipl-m22-stellar" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-                  Laser y Luz Intensa Pulsada (IPL)
+                  Luz Intensa Pulsada (IPL)
                 </p>
                 <div class="prose prose-lg mt-4">
                   Tratamiento de manchas, acné, cicatrices, rojeces y venas
@@ -54,14 +72,36 @@ title: Tratamientos
                   Lifting facial
                 </p>
                 <div class="prose prose-lg mt-4">
-                  Tratamiento de la flacidez, papada y mejilla de buldog.
+                  Tratamiento de la flacidez, papada y mejilla de bulldog con
+                  Ultraformer.
                   Redefinición de contorno y mirada cansada sin agujas.
-                  Infiltración de bioestimuladores de colágeno
                 </div>
               </a>
             </div>
           </div>
         </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/bio.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
+              <a href="/tratamientos" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Bioestimuladores de colágeno
+                </p>
+                <div class="prose prose-lg mt-4">
+                  Tratamiento y prevención de flacidez a través de la
+                  estimulación de la producción de colágeno
+                  con Sculptra®, Radiesse®, Prophilo® facial y
+                  corporal.
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
 
         <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
           <div class="flex-shrink-0 py-8">
@@ -114,8 +154,8 @@ title: Tratamientos
                 </p>
                 <div class="prose prose-lg mt-4">
                   Reposición de volumen y contorno facial. Tratamiento de
-                  ojeras, pómulos y arrugas profundas. Hidratación y
-                  redensificación sin voluminizar
+                  ojeras, pómulos, lábios,  arrugas profundas y rinomodelación. Hidratación y
+                  redensificación sin voluminizar.
                 </div>
               </a>
             </div>
@@ -135,7 +175,7 @@ title: Tratamientos
                 </p>
                 <div class="prose prose-lg mt-4">
                   Tratamiento médico para calvicie y pérdida de pelo, y
-                  infiltración de medicación y vitaminas.
+                  infiltración de medicación, vitaminas y terapia láser.
                 </div>
               </a>
             </div>
@@ -229,9 +269,27 @@ title: Tratamientos
                 Dermatología
                 </p>
                 <div class="prose prose-lg mt-4">
-                  Dermatoscopia y cáncer de piel. Pequeñas
-                  cirurgías de verrugas, lunares, quistes y abscesos.
-                  Tratamiento de dermatitis y eccemas.
+                  Dermatoscopia y chequeo de lunares. Pequeñas
+                  cirurgías de verrugas, lunares, quistes y abscesos. Retirada
+                  de lesiones con láser.
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+          <div class="flex-shrink-0 py-8">
+            <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/help.svg" alt="">
+          </div>
+          <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+            <div class="flex-1">
+              <a href="/tratamientos" class="block mt-2">
+                <p class="text-2xl font-semibold font-quincy">
+                  Tratamiento de complicaciones
+                </p>
+                <div class="prose prose-lg mt-4">
+                  Corrección de asimetrias y sobrellenado de ácido hialurónico con hialuronidasa. Tratamiento de hiper e hipopigmentación posinflamatoria y quemaduras.
                 </div>
               </a>
             </div>

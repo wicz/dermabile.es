@@ -61,10 +61,10 @@ title: Dra. Vanessa Martins
       </p>
       <p>
         Presenta extensa formación en rejuvenecimiento y armonización facial,
-        aplicando tratamientos inyectables como toxina botulínica, rellenos,
-        microagujamiento y mesoterapia. También utiliza distintos tipos de
-        peelings químicos y tecnologías como laser, luz pulsada, LED y terapia
-        biofotónica.
+        aplicando tratamientos inyectables como neuromoduladores para arrugas
+        de expresión, rellenos, microagujamiento y mesoterapia. También 
+        utiliza distintos tipos de peelings químicos y tecnologías como laser, 
+        luz pulsada, LED y terapia biofotónica.
       </p>
     </div>
   </div>

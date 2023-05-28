@@ -74,7 +74,7 @@ layout: page
     Tratamientos
   </h2>
   <div class="prose prose-lg md:prose-2xl antialiased text-white max-w-4xl mx-auto md:font-quincy md:tracking-wide">
-    Toxina Botulínica / Rellenos / Peelings químicos / Laser y IPL /
+    Neuromoduladores para arrugas de expresión / Rellenos / Peelings químicos / Laser y IPL /
     Microagujamiento / Evaluación Dermatológica / Manchas y Melasma / Acné /
     Flacidez y Rejuvenecimiento Facial
   </div>

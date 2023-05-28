@@ -90,7 +90,7 @@ title: Tratamientos
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
                 <p class="text-2xl font-semibold font-quincy">
-                  Toxina botulínica
+                  Neuromoduladores
                 </p>
                 <div class="prose prose-lg mt-4">
                   Tratamiento y prevención de arrugas y lineas de expresión en

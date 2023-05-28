@@ -2,7 +2,7 @@
 layout: post
 title: Trés curiosidades sobre el ácido hialurónico
 date: 18-05-2022
-published: false
+published: true
 ---
 ¿Sabías que el **ácido hialurónico** es la molécula estrella de los rellenos modernos? \
 \

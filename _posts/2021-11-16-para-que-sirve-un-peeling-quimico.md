@@ -2,7 +2,7 @@
 layout: post
 title: ¿Para qué sirve un peeling químico?
 date: 16-11-2021
-published: false
+published: true
 ---
 Peeling químico se refiere a aplicación de una sustancia - normalmente un ácido - que puede actuar en distintas capas de la piel, a depender del tipo y de cómo aplica el médico. El post tratamiento será mas o menos intenso según sea la profunidad que alcanze el peeling.
 

@@ -3,11 +3,11 @@ layout: post
 title: "Tratamientos médico estéticos con resultados a corto plazo y largo
   plazo:  las ventajas de cada uno"
 date: 16-11-2021
-published: false
+published: true
 ---
 Hay tratamientos que al menos 80% del resultado final es visible al momento, como puede ser la limpieza profunda con Aquapure o el empleo del relleno de ácido hialurónico. 
 
-Si tienes un evento y deseas tener una piel más bonita y más uniforme, o con una apariencia descansada, un peeling superficial y la toxina botulínica también ya te va a ser notable el resultado dentro de alguns días. 
+Si tienes un evento y deseas tener una piel más bonita y más uniforme, o con una apariencia descansada, un peeling superficial y el neuromodulador para arrugas de expresión también ya te va a ser notable el resultado dentro de alguns días. 
 Sin embargo, cuando queremos tratar flacidez, disminuir grasa localizada y tensar la piel con tecnologías que estimulan tu próprio colágeno, necesitamos tiempo para ver los efectos, ya que esta producción tarda de 1 a 3 meses. Así que, en muchos casos, hay que tener paciencia pues el efecto final no es inmediato. 
 
 A la vez que los resultados para algunos tratamientos tarden mas, normalmente son también más duraderos. El resultados de la aplicación de HIFU Ultraformer para flacidez suele durar un año y el bioestimulador Sculptra hasta dos años. La duración de ácido hialurónico depende de la localización y el tipo empleado, con una durabilidad de 6 a 18 meses. 

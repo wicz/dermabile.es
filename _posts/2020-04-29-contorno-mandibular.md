@@ -1,8 +1,9 @@
 ---
 layout: post
-slug: redefinicion-del-contorno-mandibular
 title: "Redefinición del Contorno Mandibular"
 image: /assets/images/uploads/girl-blue-eyes.jpg
+date: 2020-04-29
+published: true
 ---
 
 ## ¿Por qué perdemos la definición del contorno mandibular?
@@ -25,12 +26,11 @@ contorno.
 
 Hay muchos tratamientos a depender del caso de cada paciente. El uso de ácido
 hialurónico es muy utilizado a la hora de reponer volumen en mentón, ángulo de
-la mandíbula o hacer el perfilado mandibular. También es posible aplicar [toxina
-botulínica]({% post_url 2019-06-07-toxina-botulinica %}) para relajar la musculatura depresora del la zona inferior de la cara
+la mandíbula o hacer el perfilado mandibular. También es posible aplicar [neuromoduladores]({% post_url 2019-06-07-toxina-botulinica %}) para relajar la musculatura depresora del la zona inferior de la cara
 y algunas bandas musculares del cuello tanto para tratar cuanto para prevenir la
 pérdida del contorno facial (técnica de Nefertiti). 
 
-Hay tecnologías como la radiofrecuencia y el [ultrasonido]({% post_url 2019-07-30-ultherapy %}) que trabajan a nivel
+Hay tecnologías como la radiofrecuencia y el [Ultraformer](/tratamientos/lifting-facial/) que trabajan a nivel
 profundo calentando el colágeno de la piel y fibras musculares para tensar
 (efecto lifting facial sin cirugía) y también definir más el contorno. Se puede
 combinar técnicas, lo que potencializa los resultados en muchos casos. 

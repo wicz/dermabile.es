@@ -11,7 +11,7 @@ Aprovecha que pasó la época de fin de año y que estamos **motivados** para ha
 
 **Peeling químicos**: Los peeling químicos ayudan a tratar manchas y granos, exfoliar la piel, aportar luminosidad, dejar el tono más uniforme y mejorar la apariencia de los poros. Se realizan de 2-3 sesiones. 
 
-**Toxina botulínica**: Relajar la musculatura y minimizar las arrugas de expresión, subir la cola de la ceja, abrir la mirada, dar uma apariencia de descanso y frescor. Se realiza comumente de 1-2 vezes al año, máximo de 4 sesiones anuales. 
+**Neuromodulador para arrugas de expresión**: Relajar la musculatura y minimizar las arrugas de expresión, subir la cola de la ceja, abrir la mirada, dar uma apariencia de descanso y frescor. Se realiza comumente de 1-2 vezes al año, máximo de 4 sesiones anuales. 
 
 **Relleno con ácido hialurónico**: uno de los más demandados es el tratamiento con ácido hialurónico para rellenar las arrugas, mejorar el contorno y reponer volumen facial. Se puede aplicar por etapas, normalmente de 1-4ml por sesión con mantenimiento anual. 
 

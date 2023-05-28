@@ -3,7 +3,7 @@ layout: post
 title: "Laser para cicatrices: ¿Cómo funciona y cuáles son los beneficios?"
 image: /assets/images/uploads/co2-laser-skin-resurfacing-1.jpg
 date: 11-05-2023
-published: false
+published: true
 ---
 # Laser para cicatrices: ¿Cómo funciona y cuáles son los beneficios?
 

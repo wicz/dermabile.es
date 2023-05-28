@@ -44,7 +44,7 @@ sociales es importante consultar y considerar tratamiento.
 
 Hay distintos tipos de tratamiento que pueden ser utilizados y suelen ser de
 ayuda. Inicialmente, se puede intentar antitranspirantes fuertes. Una frecuente
-opción es el uso de toxina botulínica (el Botox). Sí, es la misma medicación que
+opción es el uso de neuromoduladores. Sí, es la misma medicación que
 se usa para suavizar arrugas, sólo que para hiperhidrosis la toxina actúa sobre
 la actividad de las glándulas sudoríparas, disminuyéndola. Hay medicaciones que
 también pueden ser utilizadas y algunas tecnologías para destruir las glándulas
@@ -52,10 +52,10 @@ sudoríparas.  En casos graves se puede recomendar cirugía para extraer las
 glándulas sudoríparas o desconectar los nervios responsables de la
 sobreproducción de sudor. 
 
-## ¿Cómo se trata la hiperhidrosis con Botox?
+## ¿Cómo se trata la hiperhidrosis con neuromoduladores?
 
-Uno de los posibles tratamientos es el uso de toxina botulínica. Es un
-tratamiento que se realiza con una microaguja después de aplicar una crema
+Uno de los posibles tratamientos es el uso de neuromoduladores. Es una
+medicación que se aplica con una microaguja después de aplicar una crema
 anestésica en la piel. Con poca molestia y en 20 minutos ya puedes volver a sus
 actividades diarias, sin grandes cuidados post-tratamientos. El efecto es
 temporario y dura alrededor de 8 meses. Por eso, idealmente se hace durante el

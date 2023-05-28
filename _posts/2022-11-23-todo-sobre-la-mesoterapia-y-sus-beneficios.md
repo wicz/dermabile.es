@@ -43,7 +43,7 @@ La mesoterapia con cócteles de vitaminas, antioxidantes y ácido hilurónico es
 
 ## ¿Qué activos se usan en mesoterapia?
 
-Un cóctel típico de mesoterapia generalmente puede contener más de 50 ingredientes activos para nutrir, reparar y rejuvenecer la piel. Definitivamente vale la pena si tienes un evento y quieres dar a la piel un frescor rápido, además de poder combinarse con otras técnicas como puede ser el laser, los rellenos de hialurónico o la toxina botulínica. 
+Un cóctel típico de mesoterapia generalmente puede contener más de 50 ingredientes activos para nutrir, reparar y rejuvenecer la piel. Definitivamente vale la pena si tienes un evento y quieres dar a la piel un frescor rápido, además de poder combinarse con otras técnicas como puede ser el laser, los rellenos de hialurónico o los neuromoduladores para arrugas de expresión.
 
 ## La mesoterapia es un tratamiento con múltiples beneficios
 

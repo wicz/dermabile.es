@@ -2,7 +2,7 @@
 layout: post
 title: "La síndrome del sobrellenado facial: cómo evitar y corregir este problema"
 date: 16-11-2021
-published: false
+published: true
 ---
 ¿Has escuchado sobre la síndrome del sobrellenado facial (facial overfilled syndrome)? Seguramente ya has visto a alguna persona con este problema. La sndrome del sobrellenado facial se caracteriza por una desproporción de volumen en algunas zonas de la cara. Se debe por la aplicación de productos de relleno de manera incorrecta o excesiva, dando una apariencia distorsionada y no natural.
 

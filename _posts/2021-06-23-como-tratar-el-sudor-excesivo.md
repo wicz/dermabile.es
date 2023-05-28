@@ -7,7 +7,7 @@ published: true
 ---
 La sudoración excesiva localizada en manos, pies, axilas, también llamada HIPERHIDROSIS focal, aporta importante perjuicio en la CALIDAD DE VIDA de las personas, afectando a la salud física y emocional.
 
-*Uno de los posibles tratamientos es el uso de TOXINA BOTULÍNICA (también conocido como Botox) para disminuir la actividad de las glándulas sudoríparas*.
+*Uno de los posibles tratamientos es el uso de medicación neuromoduladora para disminuir la actividad de las glándulas sudoríparas*.
 
 Es un tratamiento que se realiza con una microaguja después de aplicar una crema anestésica en la piel. Con poca molestia y en 20 minutos ya puedes volver a sus actividades diarias, sin grandes cuidados pós tratamientos.
 

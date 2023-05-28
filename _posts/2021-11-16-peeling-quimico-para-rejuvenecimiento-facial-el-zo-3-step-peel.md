@@ -2,7 +2,7 @@
 layout: post
 title: "Peeling químico para rejuvenecimiento facial: el ZO 3-step peel"
 date: 16-11-2021
-published: false
+published: true
 ---
 El ZO 3-step peel es un peeling químico inovador, realizado en consulta médica, combinado con una rutina cosmética para mejorar los signos de envejecimiento y las hiperpigmentaciones. 
 

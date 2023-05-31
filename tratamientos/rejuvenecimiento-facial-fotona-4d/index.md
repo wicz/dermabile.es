@@ -1,0 +1,237 @@
+---
+layout: default
+title: Rejuvenecimiento facial con Fotona 4D
+description: |
+  Rejuvenecimiento facial con láser no invasivos TimeWalker Fotona 4D en 
+  Barcelona. 
+---
+
+<div class="relative bg-white overflow-hidden">
+  <div class="max-w-7xl mx-auto">
+    <div class="relative z-10 mb-8 bg-white lg:w-full">
+      <svg class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+        <polygon points="50,0 100,0 50,100 0,100"></polygon>
+      </svg>
+
+      <div class="relative pt-6 px-4 sm:px-6 lg:px-8">
+        <nav class="relative flex items-baseline" aria-label="Global">
+          <div class="flex-grow">
+            <img class="h-8 w-auto sm:h-10" src="/assets/images/dermabile-brand-logo.svg">
+          </div>
+          <div class="uppercase tracking-wide text-iron">Medicina Estética</div>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+    <div class="text-center">
+      <h1 class="text-2xl md:text-5xl tracking-tight font-extrabold text-gray-900 my-4">
+        <span class="block xl:inline">
+          <span class="text-apricot">Reducción de arrugas</span> y rejuvenecimiento facial con <span class="text-rose">láser no invasivo</span>. Sin inyectables y con <span class="text-peach">rápida recuperación</span>.
+        </span>
+      </h1>
+      <p class="prose md:prose-lg mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl mx-auto md:mt-5 md:text-xl">
+        Combinando dos tipos de láseres, erbio y neodimio, TimeWalker Fotona es capaz de trabajar en las estructuras conectivas más profundas, mediales y superficiales de la piel, mientras se tratan a la vez diversas imperfecciones cutáneas.
+      </p>
+      <div class="my-8 flex justify-center">
+        <div class="rounded-full border-rose border-2 shadow">
+          <button class="w-full flex items-center justify-center
+            px-8 py-2 font-medium rounded-full
+            text-rose bg-white md:text-lg hover:text-white hover:bg-rose"
+            onclick="checkout({ contents: [{ id: 'fotona', quantity: 1 }] }, true)">
+            Pedir cita
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-5xl sm:px-2 lg:px-4 mb-8">
+    <div class="mx-auto max-w-2xl px-4 lg:max-w-none">
+      <div class="space-y-16 border-t border-gray-200 pt-10 sm:pt-16">
+        <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8">
+          <div class="mt-6 lg:col-span-5 lg:row-start-1 lg:mt-0 xl:col-span-4 lg:col-start-1">
+            <h3 class="text-lg font-medium text-gray-900">
+              Rejuvenecimiento periocular
+            </h3>
+            <p class="mt-2 text-gray-500">
+              SmoothEye® de Fotona reduce las arrugas alrededor de los ojos con un abordaje no invasivo. Este modo no ablativo se aplica para estimular el remodelado y la contracción del colágeno. Estira significativamente la piel flácida y envejecida de los párpados y de la región periocular con la máxima comodidad para el paciente.
+            </p>
+          </div>
+          <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-6 xl:col-start-5">
+            <div class="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
+              <img src="eyes.jpg" alt="" class="object-cover object-center">
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8">
+          <div class="mt-6 lg:col-span-5 lg:row-start-1 lg:mt-0 xl:col-span-4 lg:col-start-8 xl:col-start-9">
+            <h3 class="text-lg font-medium text-gray-900">
+              Resurfacing cutáneo
+            </h3>
+            <p class="mt-2 text-gray-500">
+              Los tratamientos de resurfacing y rejuvenecimiento de la piel pueden realizarse en modo ablativo o no ablativo. El efecto de calentamiento profundo del haz láser Nd:YAG ayuda a rejuvenecer y estimular la piel, mientras que el haz del láser Er:YAG ayuda al cuerpo a formar una piel nueva y más firme.
+            </p>
+          </div>
+          <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-1">
+            <div class="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
+              <img src="skin-resurfacing.jpg" alt="" class="object-cover object-center opacity-90">
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8">
+          <div class="mt-6 lg:col-span-5 lg:row-start-1 lg:mt-0 xl:col-span-4 lg:col-start-1">
+            <h3 class="text-lg font-medium text-gray-900">
+              Labios más gruesos y regulares
+            </h3>
+            <p class="mt-2 text-gray-500">
+              Estimulación del remodelado de colágeno e inicio de nuevas síntesis de colágeno. Sin agujas, sin inactividad. Al contrario de lo que ocurre con los rellenos inyectables, el tratamiento LipLase® no es invasivo ni hay nada artificial. Los pacientes desarrollan su propio colágeno en los labios.
+            </p>
+          </div>
+          <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-6 xl:col-start-5">
+            <div class="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
+              <img src="lips.jpg" alt="" class="object-cover object-center">
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8">
+          <div class="mt-6 lg:col-span-5 lg:row-start-1 lg:mt-0 xl:col-span-4 lg:col-start-8 xl:col-start-9">
+            <h3 class="text-lg font-medium text-gray-900">
+              Acné y cicatrices
+            </h3>
+            <p class="mt-2 text-gray-500">
+              El láser de neodimio penetra en la piel para tratar las glándulas sebáceas hiperactivas y reducir el riesgo de que se vuelva a desarrollar el acné. El láser de erbio proporciona la profundidad de penetración necesaria para mejorar la textura de la piel con cicatrices.
+            </p>
+          </div>
+          <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-1">
+            <div class="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
+              <img src="scars.jpg" alt="" class="object-cover object-center">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div aria-hidden="true" class="relative">
+    <img src="fotona.jpg" alt="" class="h-80 w-full object-cover object-center">
+    <div class="absolute inset-0 bg-gradient-to-t from-white"></div>
+  </div>
+
+  <div class="mx-auto max-w-5xl px-6 py-16 sm:py-24 lg:px-8">
+    <h2 class="text-2xl font-bold leading-10 tracking-tight
+    text-gray-900">Preguntas frecuentes</h2>
+    <div class="mt-16">
+      <dl class="space-y-16 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-3 lg:gap-x-10">
+        <div>
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            ¿Hay algún efecto secundario o tiempo de inactividad?
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">
+            No hay tiempo de inactividad asociado con este tratamiento y puede volver a sus actividades habituales de inmediato.
+          </dd>
+        </div>
+        <div>
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+          ¿Cuánto duran los resultados del tratamiento?
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">
+            Incluso después de completar la serie de tratamientos, continuará viendo mejoras continuas durante 9 a 10 meses debido a la regeneración de colágeno y elastina.
+          </dd>
+        </div>
+        <div>
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            ¿Cuántas sesiones son necesarias?
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">
+            El número de sesiones dependerá del tipo así como de la intensidad del tratamiento, pudiendo ser necesarias de 1 a 3 sesiones en la mayoría de los casos.
+          </dd>
+        </div>
+        <div>
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            ¿Es doloroso?
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">
+            Fotona 4D es un tratamiento láser no invasivo que suele ser un procedimiento indoloro. Sin embargo, sentirá una sensación de picor leve y cálido durante el tratamiento y un ligero enrojecimiento que desaparecerá en unas pocas horas.
+          </dd>
+        </div>
+        <div>
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            ¿Cuánto dura el tratamiento?
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">
+            El procedimiento tiene una duración de una hora. Poco después del tratamiento se puede observar un frescor y una tersura inmediatos en el rostro, pero el efecto completo se desarrolla gradualmente durante un período de 2 a 3 meses.
+          </dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+
+
+<div class="px-6 py-12 lg:px-8 bg-gray-50">
+  <div class="text-center text-xl mb-8">
+    Para saber más, contacta con nosotros
+  </div>
+
+  <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4">
+    <a href="https://wa.me/34931770530" class="px-6 py-3 border
+             border-transparent text-lg font-medium text-center
+      rounded-md shadow-sm text-white bg-green-500 
+      focus:outline-none my-2 md:my-0"
+      onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] })"
+    >
+      <i class="fab fa-whatsapp mr-2"></i> 931 770 530
+    </a>
+    <a href="tel:931770530" class="px-6 py-3 text-center
+      border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none my-2 md:my-0"
+      onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] })"
+    >
+      <i class="fal fa-phone-office mr-2"></i> 931 770 530
+    </a>
+    <button class="px-6 py-3
+      border border-transparent text-lg font-medium rounded-md shadow-sm
+      text-white bg-rose focus:outline-none my-2 md:my-0"
+      onclick="checkout({ contents: [{ id: 'fotona', quantity: 1 }] }, true)"
+    >
+      <i class="fas fa-comments mr-2"></i> Chat
+    </button>
+  </div>
+</div>
+
+<div class="pt-12 bg-coal text-white pb-28">
+  <div class="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-semibold text-rose uppercase
+        tracking-wide">Nuestro diferencial</h2>
+    </div>
+    <dl class="md:grid md:grid-cols-2 md:px-8">
+      <img class="w-64 h-64 mx-auto object-cover object-top shadow-inner rounded-full mb-8" src="/assets/images/vanessa.jpg" alt="">
+      <div class="prose md:prose-lg text-white">
+        <p>
+          En Dermábile todos los protocolos médicos son diseñados y realizados
+          por la Dra. Vanessa Martins, además del seguimiento del tratamiento,
+          garantizando atención y soporte a los pacientes antes, durante, y
+          después de los procedimientos.
+        </p>
+        <p>
+          Juntamente con el Fotona, nuestros protocolos multi-tratamientos
+          de asociación con otras tecnologías proporcionan resultados superiores,
+          con más seguridad y aspectos naturales
+        </p>
+      </div>
+    </dl>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+

@@ -94,7 +94,7 @@ title: Tratamientos
                 <div class="prose prose-lg mt-4">
                   Tratamiento y prevención de flacidez a través de la
                   estimulación de la producción de colágeno
-                  con Sculptra®, Radiesse®, Prophilo® facial y
+                  con Sculptra®, Radiesse®, Profhilo® facial y
                   corporal.
                 </div>
               </a>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dermábile se lanza como una Clínica de Medicina Estética centrada en el
-  paciente y comprometida con la Excelencia y la Amabilidad
+title: "Dermábile: una Clínica de Medicina Estética exclusiva comprometida con
+  la excelencia y la amabilidad"
 image: /assets/images/uploads/dermabile.jpg
 date: 01-11-2020
 published: true

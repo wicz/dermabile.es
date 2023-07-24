@@ -5,6 +5,7 @@ image: /assets/images/uploads/women-diff-skins.jpg
 date: 03-05-2021
 published: true
 ---
+Es importante conocer tu tipo de piel para poder escoger adecuadamente la rutina de skincare. Te explicamos algunas características que te pueden ayudar a determinar tu tipo de piel:
 
 ## Normal
 

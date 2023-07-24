@@ -5,9 +5,7 @@ image: /assets/images/uploads/poros.jpg
 date: 24-07-2023
 published: true
 ---
-# **¿Por qué aparecen los poros y cómo tratarlos?**
-
-Introducción: Los poros abiertos y dilatados son una preocupación común para muchas personas. Estas pequeñas aberturas en la piel pueden parecer antiestéticas y a menudo conducen a problemas como puntos negros y acné. En este blog, exploraremos las causas detrás de la aparición de los poros y proporcionaremos consejos útiles para tratarlos y mantener una piel más suave y radiante.
+Los poros abiertos y dilatados son una preocupación común para muchas personas. Estas pequeñas aberturas en la piel pueden parecer antiestéticas y a menudo conducen a problemas como puntos negros y acné. En este blog, exploraremos las causas detrás de la aparición de los poros y proporcionaremos consejos útiles para tratarlos y mantener una piel más suave y radiante.
 
 ## ¿Qué son los poros y por qué aparecen abiertos?
 

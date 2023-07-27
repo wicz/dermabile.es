@@ -7,8 +7,9 @@ published: true
 ---
 El acné es una **afección cutánea común** que afecta a personas de **todas las edades**, pero es especialmente prevalente en adolescentes y adultos jóvenes. A menudo se presenta como brotes de **espinillas, puntos negros y lesiones inflamatorias** en la piel, afectando principalmente la cara, el pecho, la espalda y los hombros. En este artículo, exploraremos las causas, los tipos y los tratamientos médicos disponibles para combatir el acné.
 
-## \
-**Causas del Acné:**
+
+
+## **Causas del Acné:**
 
 El acné se produce cuando los folículos pilosos de la piel se obstruyen con sebo, células muertas de la piel y bacterias. Las principales causas que contribuyen al desarrollo del acné son:
 
@@ -44,8 +45,6 @@ El tratamiento del acné puede variar según la gravedad de la afección y la re
 * **Hidrodermabrasión:** la [limpieza de piel profunda](https://www.dermabile.es/tratamientos/limpieza-facial-profunda-aquapure/) con aparotología especial puede ayudar como coadyuvante ya que produce una exfoliación, ayuda a controlar el sebum, retira las impurezas y los puntos negros.
 * **Drenaje y Extracción:** Los dermatólogos pueden drenar y extraer lesiones inflamatorias grandes y dolorosas para aliviar la presión y acelerar la curación.
 * **Dermoexfoliación química**: los [peelings químicos](https://www.dermabile.es/blog/para-que-sirve-un-peeling-quimico) de ácido salicílico o retinol pueden también ser utilizados como coadyuvantes para eliminar células muertas, renovar la piel y controlar el serum.   
-
-
 
 Es importante tener en cuenta que el **tratamiento del acné puede llevar tiempo** y paciencia, y los resultados pueden variar según la persona. Además, mantener una buena higiene facial, con [rutina de skincare ](https://www.dermabile.es/blog/asesoramiento-skincare-como-elegir-el-cosmetico-correcto)para piel grasa, evitar el estrés excesivo y seguir una dieta equilibrada también puede ayudar a mejorar el acné.
 

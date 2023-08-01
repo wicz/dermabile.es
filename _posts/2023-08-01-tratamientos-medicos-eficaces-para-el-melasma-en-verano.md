@@ -23,7 +23,7 @@ Los retinoides, derivados de la vitamina A, son conocidos por sus propiedades pa
 
 Los peelings químicos suaves pueden ser una opción adecuada para tratar el melasma durante el verano. Estos procedimientos exfolian la capa superior de la piel y pueden ayudar a mejorar la apariencia de las manchas oscuras. Los peelings deben ser realizados por profesionales capacitados y evitarse en casos de piel extremadamente sensible.
 
-## Porque escoger la Clínica Dermábile
+## Por qué escoger la Clínica Dermábile
 
 En  Dermábile, Clínica de Medicina Estética en Barcelona, tenemos tecnología puntera y realizamos protocolos **personalizados**  y brindamos una **atención exclusiva**. Si padeces melasma  consulta con nuestra experta Dra Vanessa Martins, dermatóloga brasileña con **más de 10 años de experiencia**. Dra Vanessa Martins es miembro titular de la **Sociedade Brasileira de Dermatologia** desde 2012. 
 

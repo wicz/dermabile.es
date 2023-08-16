@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo Escoger un Profesional para tu Tratamiento de Medicina Estética
+title: Cómo Escoger el Mejor Profesional para tu Tratamiento de Medicina Estética
 image: /assets/images/uploads/img_0026.jpg
 date: 15-08-2023
 published: true

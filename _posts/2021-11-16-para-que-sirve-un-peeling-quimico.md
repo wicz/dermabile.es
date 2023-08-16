@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Para qué sirve un peeling químico?
+image: /assets/images/uploads/face.jpg
 date: 16-11-2021
 published: true
 ---

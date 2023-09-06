@@ -44,4 +44,8 @@ El tabaquismo y el consumo excesivo de alcohol pueden acelerar el envejecimiento
 
 El bienestar emocional también desempeña un papel crucial en cómo te ves y te sientes. La depresión y el estrés crónico pueden acelerar el envejecimiento. Mantén una salud mental óptima buscando apoyo cuando sea necesario y practicando la autoestima y el amor propio.
 
-En conclusión, aunque el envejecimiento es un proceso natural, existen numerosas formas en las que podemos prevenir y retrasar sus signos visibles. Al adoptar un enfoque holístico podemos mantener una apariencia y una sensación más jóvenes a medida que envejecemos.  En Clínica Dermábile, clínica especializada en tratamientos de medicina estética en Barcelona,  abordamos la individualidad y características de cada rostro y ofrecemos soluciones personalizadas para prevenir los signos de envejecimiento, que combinados con una vida sana mantendrán tu jovialidad por más tiempo. Cóntactanos y concreta una cita hoy mismo.
+En conclusión, aunque el envejecimiento es un proceso natural, existen numerosas formas en las que podemos prevenir y retrasar sus signos visibles. Al adoptar un enfoque holístico podemos mantener una apariencia y una sensación más jóvenes a medida que envejecemos. 
+
+ **En Clínica Dermábile, clínica especializada en tratamientos de medicina estética en Barcelona,  abordamos la individualidad y características de cada rostro y ofrecemos soluciones personalizadas para prevenir los signos de envejecimiento, que combinados con una vida sana mantendrán tu jovialidad por más tiempo.** 
+
+Cóntactanos y concreta una cita hoy mismo.

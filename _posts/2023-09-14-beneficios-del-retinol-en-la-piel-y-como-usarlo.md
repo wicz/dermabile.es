@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beneficios del Retinol en la Piel y Cómo Usarlo
+title: Beneficios del Retinol para la Piel y Cómo Usarlo
 image: /assets/images/uploads/retinol.jpg
 date: 14-09-2023
 published: true

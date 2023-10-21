@@ -289,7 +289,7 @@ title: Tratamientos
                   Tratamiento de complicaciones
                 </p>
                 <div class="prose prose-lg mt-4">
-                  Corrección de asimetrias y sobrellenado de ácido hialurónico con hialuronidasa. Tratamiento de hiper e hipopigmentación posinflamatoria y quemaduras.
+                  Corrección de asimetrias y sobrellenado de ácido hialurónico. Tratamiento de hiper e hipopigmentación posinflamatoria y quemaduras.
                 </div>
               </a>
             </div>

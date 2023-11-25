@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Revolución Estética: ¿Qué Tan Bueno es el Láser Youlaser Prime?"
+title: "La Revolución Estética: ¿Qué Tan Bueno es el Láser Híbrido?"
 image: /assets/images/uploads/youlaser-sx_alta-prodotto_c-543x1024.jpg
 date: 22-11-2023
 published: true

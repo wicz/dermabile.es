@@ -200,7 +200,7 @@ title: IPL facial Stellar M22 para manchas y rojeces
                 </blockquote>
                 <figcaption class="mt-6 flex items-center gap-x-4">
                     <div class="font-semibold">
-                    Henar López de Jaime
+                    H. L. de Jaime
                     </div>
                 </figcaption>
               </figure>
@@ -211,7 +211,7 @@ title: IPL facial Stellar M22 para manchas y rojeces
                 </blockquote>
                 <figcaption class="mt-6 flex items-center gap-x-4">
                     <div class="font-semibold">
-                    Maria Angelica Ferreira
+                    M. A. Ferreira
                     </div>
                 </figcaption>
               </figure>
@@ -225,7 +225,7 @@ title: IPL facial Stellar M22 para manchas y rojeces
                 </blockquote>
                 <figcaption class="mt-6 flex items-center gap-x-4">
                     <div class="font-semibold">
-                    Lia Gambale
+                    L. Gambale
                     </div>
                 </figcaption>
               </figure>

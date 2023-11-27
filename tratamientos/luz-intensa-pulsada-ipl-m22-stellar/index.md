@@ -317,6 +317,10 @@ title: IPL facial Stellar M22 para manchas y rojeces
         </dt>
         <dd class="mt-2" x-bind:class="{ hidden: !open }">
           <p class="prose md:prose-lg text-gray-500">
+            Los precios del tratamiento varían según el área específica del
+            cuerpo que se trate y la cantidad de sesiones necesarias. Las
+            sesiones pueden oscilar desde unos cientos de euros hasta valores
+            más elevados, dependiendo de los factores mencionados.
           </p>
         </dd>
       </div>
@@ -324,7 +328,7 @@ title: IPL facial Stellar M22 para manchas y rojeces
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              ¿IPL vs Láser?
+              ¿Cuál es la diferencia entre IPL y láser?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -335,6 +339,14 @@ title: IPL facial Stellar M22 para manchas y rojeces
         </dt>
         <dd class="mt-2" x-bind:class="{ hidden: !open }">
           <p class="prose md:prose-lg text-gray-500">
+            Ambas tecnologías se utilizan para tratamientos similares, pero la
+            elección entre luz pulsada y láser dependerá de la condición
+            específica a tratar. 
+            La IPL es el tratamiento gold standard para
+            fotoenvejecimiento ya que la piel presenta manchas, capilares rotos
+            y pérdida de colágeno, pero no produce microcanales como puede
+            hacerlo un láser. Para cambios de textura o remoción de verrugas un
+            láser estaría más bien indicado.
           </p>
         </dd>
       </div>
@@ -353,6 +365,13 @@ title: IPL facial Stellar M22 para manchas y rojeces
         </dt>
         <dd class="mt-2" x-bind:class="{ hidden: !open }">
           <p class="prose md:prose-lg text-gray-500">
+            Aunque la IPL pueda ser una opción en algunos casos de melasma,
+            generalmente no se considera un tratamiento de primera línea.
+            Existen varias razones para la preferencia por otras opciones como
+            respuesta variable, riesgo de empeoramiento, necesidad de múltiples
+            sesiones, etc. Es fundamental que las personas con melasma busquen
+            la orientación de un dermatólogo para determinar el enfoque de
+            tratamiento más adecuado según su situación específica.
           </p>
         </dd>
       </div>

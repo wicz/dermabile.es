@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Limpieza facial profunda
+title: IPL facial Stellar M22 para manchas y rojeces
 ---
 
 <div class="relative bg-white overflow-hidden">
@@ -22,22 +22,26 @@ title: Limpieza facial profunda
       <main class="mt-10 mx-auto max-w-2xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
         <div class="text-center xl:text-left">
           <h1 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-5xl">
-            Tratamiento de 
-            <span class="block text-rose xl:inline">manchas y rojeces</span>
-            con luz intensa pulsada 
+            Luce una piel 
+            <span class="text-rose">uniforme</span>,
+            <span class="text-rose">sana</span>
+            y de apariencia 
+            <span class="text-rose">más joven</span>.
           </h1>
           <p class="prose md:prose-lg mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-            Luce una piel uniforme, sana y de apariencia más joven con la
+            Elimina las huellas de los años y manchas del sol, y consigue un
+            rejuvenecimiento global del rostro, cuello, escote y manos con la
             plataforma más moderna del mercado &mdash; Stellar M22 de Lumenis
           </p>
-          <div class="mt-5 sm:mt-8 sm:flex sm:justify-center xl:justify-start">
-            <div class="rounded-md shadow">
-              <a href="#faq" class="w-full flex items-center justify-center
-                px-8 py-3 border border-transparent font-medium rounded-md
-                text-white bg-rose md:py-4 md:text-lg md:px-10">
+          <div class="mt-5 sm:mt-8 flex justify-center xl:justify-start gap-4">
+              <a href="#faq" class="px-6 py-3 text-lg font-medium rounded-md shadow-sm text-white bg-rose">
                 Saber más
               </a>
-            </div>
+            <button class="px-6 py-3 text-lg font-medium rounded-md shadow-sm text-white bg-green-500"
+              onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] }, true)"
+            >
+              Pedir cita
+            </button>
           </div>
         </div>
       </main>
@@ -54,48 +58,105 @@ title: Limpieza facial profunda
     <div class="max-w-3xl mb-12">
       <h2 class="font-semibold text-rose uppercase
         tracking-wide">TECNOLOGÍA VERSÁTIL</h2>
-      <h2 class="text-3xl font-extrabold text-coal">
+      <h2 class="text-3xl font-extrabold text-coal mt-4">
         Actúa en diferentes dianas en la misma sesión
       </h2>
     </div>
-    <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-16">
-      <div>
-        <div class="mt-2">
-          <dt class="text-2xl mb-4 leading-6 font-medium text-rose">
-            Manchas
-          </dt>
-          <dd class="prose md:prose-lg mt-2 text-iron">
-            La energía es dirigida contra la melanina de las
-            hiperpigmentaciones, aclarando y uniformizando el tono de la
-            piel.
-          </dd>
-        </div>
+
+    <div class="lg:flex lg:gap-x-2" x-data="{ img: 1 }">
+      <div class="lg:w-2/6 lg:flex-shrink-0 flex flex-col justify-evenly
+      xl:my-16">
+        <article class="group mb-8">
+          <img
+            src="hand.webp"
+            class="lg:hidden h-80 w-full mb-4"
+          />
+
+          <div class="lg:pr-12 relative">
+            <i class="fal fa-chevron-right absolute right-0 top-1/2 text-gray-400 mr-4 hidden lg:inline"></i>
+            <a href="#img-1" x-on:click="img = 1">
+              <div class="absolute inset-x-0 -top-px bottom-0"></div>
+              <h3 class="text-2xl mb-2 leading-6 font-medium text-rose"
+              x-bind:class="{ 'lg:font-extrabold': img == 1 }">
+                Manchas
+              </h3>
+            </a>
+
+            <p class="prose mt-2 text-iron">
+              Combate las manchas de acné, y sobretodo del sol, aclarando y
+              uniformizando el tono de la piel.
+            </p>
+          </div>
+        </article>
+
+        <article class="group mb-8">
+          <img
+            src="face.webp"
+            class="lg:hidden h-80 w-full mb-4"
+          />
+
+          <div class="lg:pr-12 relative">
+            <i class="fal fa-chevron-right absolute right-0 top-1/2 text-gray-400 mr-4 hidden lg:inline"></i>
+            <a href="#img-2" x-on:click="img = 2">
+              <div class="absolute inset-x-0 -top-px bottom-0"></div>
+              <h3 class="text-2xl mb-2 leading-6 font-medium text-rose"
+              x-bind:class="{ 'lg:font-extrabold': img == 2 }">
+                Rosacea
+              </h3>
+            </a>
+
+            <p class="prose mt-2 text-iron">
+              Suaviza rojeces, principalmente la rosacea, venitas faciales y
+              también marcas de acné.
+            </p>
+          </div>
+        </article>
+
+        <article class="group">
+          <img
+            src="neck.webp"
+            class="lg:hidden h-80 w-full mb-4"
+          />
+
+          <div class="lg:pr-12 relative">
+            <i class="fal fa-chevron-right absolute right-0 top-1/2 text-gray-400 mr-4 hidden lg:inline"></i>
+            <a href="#img-3" x-on:click="img = 3">
+              <div class="absolute inset-x-0 -top-px bottom-0"></div>
+              <h3 class="text-2xl mb-2 leading-6 font-medium text-rose"
+              x-bind:class="{ 'lg:font-extrabold': img == 3 }">
+                Textura
+              </h3>
+            </a>
+
+            <p class="prose mt-2 text-iron">
+              Estimula la producción de colágeno con mejoría global de la calidad
+              de la piel y poros, aparentando una piel más joven.
+            </p>
+          </div>
+        </article>
       </div>
 
-      <div>
-        <div class="mt-2">
-          <dt class="text-2xl mb-4 leading-6 font-medium text-rose">
-            Rojeces
-          </dt>
-          <dd class="prose md:prose-lg mt-2 text-iron">
-            La plataforma tiene filtros específicos para el color rojo, tratando
-            las venitas faciales y también rosacea y marcas de acné.
-          </dd>
-        </div>
+      <div class="hidden lg:block">
+        <img
+          src="hand.webp"
+          class="w-full object-fit"
+          style="height:435px;"
+          x-show="img == 1"
+        />
+        <img
+          src="face.webp"
+          class="w-full object-fit"
+          style="height:435px;"
+          x-show="img == 2"
+        />
+        <img
+          src="neck.webp"
+          class="w-full object-fit"
+          style="height:435px;"
+          x-show="img == 3"
+        />
       </div>
-
-      <div>
-        <div class="mt-2">
-          <dt class="text-2xl mb-4 leading-6 font-medium text-rose">
-            Textura
-          </dt>
-          <dd class="prose md:prose-lg mt-2 text-iron">
-            Mediante generación de calor es capaz de estimular producción de
-            colágeno con mejoría global de la calidad de la piel y poros.
-          </dd>
-        </div>
-      </div>
-    </dl>
+    </div>
   </div>
 </div>
 
@@ -105,7 +166,7 @@ title: Limpieza facial profunda
       <h2 class="font-semibold text-rose uppercase
         tracking-wide">Nuestro diferencial</h2>
     </div>
-    <dl class="md:grid md:grid-cols-2 md:px-8">
+    <dl class="lg:grid lg:grid-cols-2 lg:px-8">
       <img class="w-64 h-64 mx-auto object-cover object-top shadow-inner rounded-full mb-8" src="/assets/images/vanessa.jpg" alt="">
       <div class="prose md:prose-lg text-white">
         <p>
@@ -117,7 +178,7 @@ title: Limpieza facial profunda
         <p>
           Juntamente con el M22, nuestros protocolos multi-tratamientos
           de asociación con peelings proporcionan resultados superiores,
-          con más seguridad y aspectos naturales
+          con más seguridad y aspectos naturales.
         </p>
       </div>
     </dl>
@@ -135,7 +196,7 @@ title: Limpieza facial profunda
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              Qué es la luz intensa pulsada?
+              ¿Qué es la luz intensa pulsada?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -158,7 +219,7 @@ title: Limpieza facial profunda
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              En qué zonas del cuerpo se puede tratar con IPL?
+              ¿En qué zonas del cuerpo se puede tratar con IPL?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -178,7 +239,7 @@ title: Limpieza facial profunda
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              Necesito alguna preparación de la piel para realizar luz pulsada?
+              ¿Necesito alguna preparación de la piel para realizar luz pulsada?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -199,7 +260,7 @@ title: Limpieza facial profunda
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              Cuántas sesiones son necesarias? Cuánto tardan las sesiones?
+              ¿Cuántas sesiones son necesarias? Cuánto tardan las sesiones?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -223,7 +284,7 @@ title: Limpieza facial profunda
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              Cuáles son los cuidados post tratamiento?
+              ¿Cuáles son los cuidados post tratamiento?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -241,6 +302,60 @@ title: Limpieza facial profunda
           </p>
         </dd>
       </div>
+      <div class="pt-4" x-data="{ open: false }">
+        <dt class="prose md:prose-xl">
+          <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
+            <span class="font-medium text-gray-900">
+              ¿Cuáles son los precios del tratamiento?
+            </span>
+            <span class="ml-6 h-7 flex items-center">
+              <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </span>
+          </button>
+        </dt>
+        <dd class="mt-2" x-bind:class="{ hidden: !open }">
+          <p class="prose md:prose-lg text-gray-500">
+          </p>
+        </dd>
+      </div>
+      <div class="pt-4" x-data="{ open: false }">
+        <dt class="prose md:prose-xl">
+          <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
+            <span class="font-medium text-gray-900">
+              ¿IPL vs Láser?
+            </span>
+            <span class="ml-6 h-7 flex items-center">
+              <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </span>
+          </button>
+        </dt>
+        <dd class="mt-2" x-bind:class="{ hidden: !open }">
+          <p class="prose md:prose-lg text-gray-500">
+          </p>
+        </dd>
+      </div>
+      <div class="pt-4" x-data="{ open: false }">
+        <dt class="prose md:prose-xl">
+          <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
+            <span class="font-medium text-gray-900">
+              ¿IPL para melasma?
+            </span>
+            <span class="ml-6 h-7 flex items-center">
+              <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </span>
+          </button>
+        </dt>
+        <dd class="mt-2" x-bind:class="{ hidden: !open }">
+          <p class="prose md:prose-lg text-gray-500">
+          </p>
+        </dd>
+      </div>
     </dl>
   </div>
 </div>
@@ -250,7 +365,7 @@ title: Limpieza facial profunda
     Para saber más, contacta con nosotros
   </div>
 
-  <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4">
+  <div class="flex flex-col md:flex-row md:justify-around max-w-lg mx-auto mt-4 px-4 md:px-0">
     <a href="https://wa.me/34931770530" class="px-6 py-3 border
              border-transparent text-lg font-medium text-center
       rounded-md shadow-sm text-white bg-green-500 

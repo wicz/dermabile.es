@@ -185,6 +185,56 @@ title: IPL facial Stellar M22 para manchas y rojeces
   </div>
 </div>
 
+<div class="py-12 bg-gray-50 relative">
+  <div class="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-semibold text-rose uppercase
+        tracking-wide" id="faq">Opiniones</h2>
+    </div>
+    <div class="mx-auto grid grid-cols-1 gap-8 text-gray-900 sm:grid-cols-2 lg:grid-cols-3">
+              <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200">
+                <blockquote class="text-gray-900 text-sm leading-6">
+                  No he hecho más que asombrarme de lo buenas que son, un trato
+                  extremadamente profesional y agradable, acompañado de unos
+                  resultados alucinantes.
+                </blockquote>
+                <figcaption class="mt-6 flex items-center gap-x-4">
+                    <div class="font-semibold">
+                    Henar López de Jaime
+                    </div>
+                </figcaption>
+              </figure>
+
+              <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200">
+                <blockquote class="text-gray-900 text-sm leading-6">
+                  Me ha encantando el resultado y también el cuidado durante las sesiones!
+                </blockquote>
+                <figcaption class="mt-6 flex items-center gap-x-4">
+                    <div class="font-semibold">
+                    Maria Angelica Ferreira
+                    </div>
+                </figcaption>
+              </figure>
+
+              <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200 sm:col-span-2 lg:col-span-1">
+                <blockquote class="text-gray-900 text-sm leading-6">
+                  Estoy haciendo el tratamiento con luz pulsada. Me encanta el
+                  resultado y todo el cuidado y preocupación con que la Dra
+                  Vanessa y su asistente Anna han tenido después de cada sesión.
+                  Muy recomendable!
+                </blockquote>
+                <figcaption class="mt-6 flex items-center gap-x-4">
+                    <div class="font-semibold">
+                    Lia Gambale
+                    </div>
+                </figcaption>
+              </figure>
+
+
+    </div>
+  </div>
+</div>
+
 <div class="py-12">
   <div class="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
     <div class="max-w-3xl mb-12">

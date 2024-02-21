@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fisiopatología del Acné en Adultos: Comprendiendo sus Causas y Tratamiento"
+image: /assets/images/uploads/brote-de-acne.jpg
 date: 21-02-2024
 published: false
 ---

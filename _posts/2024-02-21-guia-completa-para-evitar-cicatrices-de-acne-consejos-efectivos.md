@@ -2,7 +2,7 @@
 layout: post
 title: "Guía Completa para Evitar Cicatrices de Acné: Consejos Efectivos"
 image: /assets/images/uploads/woman-doctor-hands-chin.jpg
-date: 21-02-2024
+date: 30-01-2024
 published: true
 ---
 Las cicatrices de acné pueden ser un recordatorio persistente y molesto de los brotes pasados. Afortunadamente, hay medidas que puedes tomar para prevenir su formación y minimizar su apariencia. En esta guía, exploraremos estrategias efectivas para evitar cicatrices de acné y mantener una piel radiante y saludable.

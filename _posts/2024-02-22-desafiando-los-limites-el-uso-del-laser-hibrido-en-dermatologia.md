@@ -11,7 +11,6 @@ En el campo de la dermatología, la tecnología láser ha revolucionado los enfo
 
 Un verdadero láser híbrido es un dispositivo que  permite  combinar dos  láseres en un solo disparo, o combinar de manera paralela, normalmente un láser ablativo fraccionado CO2 y un láser fraccionado no ablativo.  Hay muchas plataformas en el mercado que combinan diferentes longitudes de onda, pero hay pocos que son capaces de disparar de manera sequencial los diferentes láseres. La combinación de diferentes longitudes de onda permite a los médicos adaptar el tratamiento a las necesidades específicas de cada paciente y a una variedad de condiciones cutáneas.
 
-## \
 **Ventajas del Láser Híbrido en Dermatología**
 
 * **Versatilidad**: Al integrar múltiples longitudes de onda, los láseres híbridos pueden tratar una amplia gama de afecciones cutáneas, incluyendo lesiones pigmentada y texturales.

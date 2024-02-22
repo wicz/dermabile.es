@@ -2,7 +2,7 @@
 layout: post
 title: "Fisiopatología del Acné en Adultos: Comprendiendo sus Causas y Tratamiento"
 image: /assets/images/uploads/brote-de-acne.jpg
-date: 21-02-2024
+date: 04-02-2024
 published: true
 ---
 El acné, a menudo asociado con la adolescencia, es una afección cutánea que también puede afectar a adultos, causando angustia y afectando la calidad de vida. Aunque los factores hormonales y genéticos desempeñan un papel importante en su desarrollo, entender la fisiopatología del acné en adultos es crucial para abordar eficazmente esta condición.

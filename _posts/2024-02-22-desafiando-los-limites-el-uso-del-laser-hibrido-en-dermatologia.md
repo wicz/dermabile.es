@@ -24,7 +24,7 @@ Un verdadero láser híbrido es un dispositivo que  permite  combinar dos  l�
 El láser híbrido se ha utilizado con éxito en una variedad de aplicaciones clínicas, incluyendo:
 
 * **Rejuvenecimiento Cutáneo**: Tratamiento de arrugas finas, líneas de expresión y laxitud cutánea mediante la estimulación de la producción de colágeno.
-* **Eliminación de Lesiones Pigmentadas**: Reducción de manchas solares, lentigos solares y melasma mediante la fragmentación selectiva de pigmentos
+* **Eliminación de Lesiones Pigmentadas**: Reducción de manchas solares, lentigos solares mediante la fragmentación selectiva de pigmentos
 * **Remodelación de Cicatrices**: Mejora de la apariencia de cicatrices de acné, quirúrgicas o traumáticas mediante la estimulación del proceso de cicatrización y la remodelación del colágeno.
 
 ## **Consideraciones de Seguridad y Efectos Secundarios**

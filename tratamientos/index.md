@@ -114,7 +114,7 @@ title: Tratamientos
                   Limpieza facial
                 </p>
                 <div class="prose prose-lg mt-4">
-                  Limpieza profunda por hidrodermabrasión, asociada con serum
+                  Limpieza profunda por hidrodermabrasión, asociada con sérum
                   antioxidantes para rejuvenecimiento, acné, rosácea, y manchas.
                 </div>
               </a>
@@ -174,7 +174,7 @@ title: Tratamientos
                   Tratamiento capilar
                 </p>
                 <div class="prose prose-lg mt-4">
-                  Tratamiento médico para calvicie y pérdida de pelo, y
+                  Tratamiento médico para calvicie y pérdida de pelo, e
                   infiltración de medicación, vitaminas y terapia láser.
                 </div>
               </a>

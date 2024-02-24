@@ -157,7 +157,7 @@ description: Lifting facial sin cirugía con Ultraformer en Barcelona
         </dt>
         <dd class="mt-2 prose md:prose-lg text-gray-500">
           Incorporación inmediata a las actividades habituales, con mínimos
-          cuidados pos tratamiento.
+          cuidados postratamiento.
         </dd>
       </div>
 
@@ -230,7 +230,7 @@ description: Lifting facial sin cirugía con Ultraformer en Barcelona
             ultrasonido focalizado de alta intensidad (HIFU). La energía del
             HIFU  es capaz de penetrar la piel y llegar a capas profundas,
             calentando las fibras de colágeno y produciendo puntos de
-            microcoagulación. Eso hace con que estas fibras de colágeno estén
+            microcoagulación. Eso hace que estas fibras de colágeno estén
             más tersas y gruesas, produciendo un efecto de mayor firmeza de la
             piel. 
           </p>
@@ -273,8 +273,8 @@ description: Lifting facial sin cirugía con Ultraformer en Barcelona
         <dd class="mt-2" x-bind:class="{ hidden: !open }">
           <p class="prose md:prose-lg text-gray-500">
             Se puede experimentar un dolor mínimo o una ligera molestia en el
-            área tratado, aunque las sensaciones desaparecen rápidamente
-            inmediatamente después del tratamiento.
+            área tratada, aunque las sensaciones desaparecen rápidamente
+            después del tratamiento.
           </p>
         </dd>
       </div>
@@ -388,7 +388,7 @@ description: Lifting facial sin cirugía con Ultraformer en Barcelona
             El Ultraformer pertenece a las nuevas generaciones de HIFU, con
             estudios evaluando su eficacia y seguridad.  Distinto de otras
             tecnologías como láser o radiofrecuencia, el aparato actúa más
-            profundamente, de tal manera que podemos actuar en todas as capas de
+            profundamente, de tal manera que podemos actuar en todas las capas de
             piel, pero también llegar hasta la superficie del músculo conocida
             como SMAS. También  se observa menos molestia (menos dolor, más
             tolerable) comparado a otras marcas. 

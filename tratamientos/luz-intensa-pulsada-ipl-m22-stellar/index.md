@@ -269,7 +269,7 @@ title: IPL facial Stellar M22 para manchas y rojeces
         <dt class="prose md:prose-xl">
           <button type="button" class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" x-on:click="open = !open">
             <span class="font-medium text-gray-900">
-              ¿En qué zonas del cuerpo se puede tratar con IPL?
+              ¿Qué zonas del cuerpo se puede tratar con IPL?
             </span>
             <span class="ml-6 h-7 flex items-center">
               <svg x-bind:class="open ? '-rotate-180' : 'rotate-0'" class="rotate-0 h-6 w-6 transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">

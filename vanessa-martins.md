@@ -56,8 +56,8 @@ title: Dra. Vanessa Martins
     </div>
     <div class="prose prose-lg xl:prose-xl antialiased">
       <p>
-        Su formación también abarca la terapia del cabello como pierda abrupta,
-        pérdida de brillo y fuerza y calvicie.
+        Su formación también abarca la terapia del cabello como de la pérdida abrupta,
+        de brillo y fuerza, y de diferentes tipos de calvicie.
       </p>
       <p>
         Presenta extensa formación en rejuvenecimiento y armonización facial,

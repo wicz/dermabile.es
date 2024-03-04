@@ -4,6 +4,7 @@ title: "Redefinición del Contorno Mandibular"
 image: /assets/images/uploads/girl-blue-eyes.jpg
 date: 2020-04-29
 published: true
+slug: redefinicion-del-contorno-mandibular
 ---
 
 ## ¿Por qué perdemos la definición del contorno mandibular?

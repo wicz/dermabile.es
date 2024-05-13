@@ -2,7 +2,7 @@
 layout: post
 title: "Explorando los Criterios de Belleza y la Simetría Facial: Más Allá de la
   Superficialidad"
-image: /assets/images/uploads/women-diff-skins.jpg
+image: /assets/images/uploads/mujerbonita.jpeg
 date: 13-05-2024
 published: true
 ---

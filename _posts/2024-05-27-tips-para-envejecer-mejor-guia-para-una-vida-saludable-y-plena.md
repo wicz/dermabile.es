@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips para Envejecer Mejor: Guía para una Vida Saludable y Plena"
-image: /assets/images/uploads/bigode-chines.jpg
+image: /assets/images/uploads/doctor-patient-visit.jpg
 date: 27-05-2024
 published: true
 ---

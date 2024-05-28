@@ -47,15 +47,13 @@ Evite irritar la piel usando productos que le producen picor o quemor. La inflam
 
 Evite depilarse con cera o productos que irritan o inflaman la piel. Busque orientación con su médico sobre métodos de depilación para su caso. 
 
-¿Se puede usar maquillaje si tengo melasma?
+## ¿Se puede usar maquillaje si tengo melasma?
 
 Se puede e incluso es recomendable. El maquillaje cubre y uniformiza el color de piel disimulando las manchas,   lo que mejora la calidad de vida y ayuda  a proteger la piel de la luz solar.  A pesar de que  muchos productos  contienen  protección solar añadida,   no sustituye el uso de protección solar. Aplique primero el protector solar, después el maquillaje. 
 
 ## ¿Qué esperar de los tratamientos para el melasma? ¿Cuándo se notan los resultados?
 
 Los resultados pueden tardar de semanas a meses para aparecer. La respuesta es muy individual con pacientes observando mejoría importante tras apenas un mes. Sin embargo es muy frecuente que una respuesta eficaz tarde meses y que los pacientes noten empeoramiento importante durante el verano.  Por lo tanto el tratamiento de mantenimiento es muy importante.  Algunos tipos de melasma con el pigmento más profundo son más difíciles de tratar. La recuperación de los procedimientos médicos como peeling y tecnologías suele ser de 1 a 2 semanas.
-
-
 
 ## ¿Hay algún tratamiento oral para el melasma?
 

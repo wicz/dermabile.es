@@ -16,4 +16,4 @@ La clínica ofrece una gama de servicios, que incluyen neuromoduladores para las
 
 “La idea detrás de Dermábile ha sido un sueño de muchos años de crear una clínica que mantenga la esencia de cuidar a los pacientes y tratarlos como las personas que son”, dijo la fundadora de Dermábile. "Creemos que cada paciente merece una atención personalizada y compasiva, y estamos dedicados a brindar esa atención con excelencia y amabilidad".
 
-**Dermábile ahora está aceptando nuevos pacientes y se encuentra en Barcelona, España**. Para obtener más información, visite su sitio web en [www.dermabile.es](http://www.dermabile.es/) o llame a +34 931 770 530.
+**Dermábile ahora está aceptando nuevos pacientes y se encuentra en Sant Gervasi, Barcelona, España**. Para obtener más información, visite su sitio web en [www.dermabile.es](http://www.dermabile.es/) o llame a +34 931 770 530.

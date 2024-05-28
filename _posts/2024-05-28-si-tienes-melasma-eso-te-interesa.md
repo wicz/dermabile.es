@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Si tienes melasma, eso te interesa!
+title: Si Tienes Melasma, Eso te Interesa!
 image: /assets/images/uploads/mulherbonita.jpg
 date: 28-05-2024
 published: true

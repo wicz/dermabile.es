@@ -5,7 +5,7 @@ image: /assets/images/uploads/mulherbonita.jpg
 date: 28-05-2024
 published: true
 ---
-## ¿Qué es el melasma? 
+## ¿Qué es el melasma?
 
 También es conocido como cloasma, máscara del embarazo o paño, es un problema de piel común que produce manchas marrones o marrones-grises en la piel, por lo general en la cara. Es más común en mujeres, frecuentemente ocurriendo durante el embarazo, pero también puede aparecer en hombres. Las personas morenas o con facilidad para broncearse son más propensas al melasma.  Aunque es un padecimiento que puede asociarse al embarazo y la anticoncepción oral, es un problema crónico y recurrente que puede durar décadas, y que afecta mucho la calidad de vida del paciente. 
 
@@ -27,6 +27,6 @@ El médico diagnostica el  melasma examinando al paciente. No existe ninguna pr
 
 **¿El melasma tiene cura?**
 
-No hay cura hasta el momento, pero hay muchas opciones de tratamiento para mejorar su apariencia y los tratamientos normalmente aclaran las manchas. Librarse completamente de este problema es muy complicado ya que es una afección crónica.  El melasma causado por el embarazo puede desaparecer en aproximadamente un año, pero también puede ser un padecimiento duradero y necesitar tratamiento. Hay que ser consciente de la dificultad de aclarar las manchas comparado a la facilidad de volverse a pigmentar.
+No hay cura hasta el momento, pero [hay muchas opciones de tratamiento ](https://www.dermabile.es/blog/todo-lo-que-necesitas-saber-sobre-como-tratar-el-melasma)para mejorar su apariencia y los tratamientos normalmente aclaran las manchas. Librarse completamente de este problema es muy complicado ya que es una afección crónica.  El melasma causado por el embarazo puede desaparecer en aproximadamente un año, pero también puede ser un padecimiento duradero y necesitar tratamiento. Hay que ser consciente de la dificultad de aclarar las manchas comparado a la facilidad de volverse a pigmentar.
 
 En Clínica Dermábile, clínica de Medicina Estética en Sarriá-Sant Gervasi en Barcelona,  **somos expertos en tratamientos de manchas** como el melasma, con 10 años de experiencia y con tecnologías y tratamientos punteros. No sufras más con tus manchas y concreta una cita ahora mismo.

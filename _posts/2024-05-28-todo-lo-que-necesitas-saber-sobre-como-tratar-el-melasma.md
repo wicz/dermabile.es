@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todo lo que necesitas saber sobre cómo tratar el melasma
+title: Todo lo que Necesitas Saber Sobre cómo Tratar el Melasma
 image: /assets/images/uploads/mulher-com-melasma-na-pele.jpg
 date: 26-05-2024
 published: true

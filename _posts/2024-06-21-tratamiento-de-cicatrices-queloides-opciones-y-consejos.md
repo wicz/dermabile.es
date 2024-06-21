@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Tratamiento de Cicatrices Queloides: Opciones y Consejos"
+title: " Tratamiento de Cicatrices Hipertróficas y Queloides: Opciones y Consejos"
 image: /assets/images/uploads/keloid-scar.jpg
 date: 21-06-2024
 published: true

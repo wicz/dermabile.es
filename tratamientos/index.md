@@ -24,13 +24,14 @@ title: Tratamientos
     <div class="relative max-w-screen-xl mx-auto">
       <div class="max-w-lg mx-auto grid gap-8 lg:grid-cols-3 lg:max-w-none">
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/laser.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Láser fraccionado
                 </p>
@@ -42,13 +43,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/ipl.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos/luz-intensa-pulsada-ipl-m22-stellar" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Luz Intensa Pulsada (IPL)
                 </p>
@@ -61,13 +63,15 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/lifting.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos/lifting-facial" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Lifting facial
                 </p>
@@ -81,13 +85,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/bio.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
+              <a href="/tratamientos/bioestimuladores-de-colageno" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Bioestimuladores de colágeno
                 </p>
@@ -103,13 +108,14 @@ title: Tratamientos
         </div>
 
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/cleaning.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos/limpieza-facial-profunda-aquapure" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Limpieza facial
                 </p>
@@ -122,13 +128,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/botox.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Neuromoduladores
                 </p>
@@ -142,13 +149,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/filler.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Rellenos con ácido hialurónico
                 </p>
@@ -163,13 +171,14 @@ title: Tratamientos
         </div>
 
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/hair.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Tratamiento capilar
                 </p>
@@ -182,13 +191,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/mesotherapy.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Mesoterapia facial y corporal
                 </p>
@@ -201,13 +211,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/cream.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Asesoriamento Skincare 
                 </p>
@@ -220,13 +231,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/dermaroller.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Microagujamiento
                 </p>
@@ -239,13 +251,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/peeling.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Peelings químicos
                 </p>
@@ -258,13 +271,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/rash.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                 Dermatología
                 </p>
@@ -278,13 +292,14 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/help.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <a href="/tratamientos" class="block mt-2">
+                <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Tratamiento de complicaciones
                 </p>
@@ -296,7 +311,7 @@ title: Tratamientos
           </div>
         </div>
 
-        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden">
+        <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/dermabile-logo.svg" alt="">
           </div>

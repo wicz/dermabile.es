@@ -2,7 +2,7 @@
 layout: post
 title: "Tratamiento de Ojeras con Relleno de Ácido Hialurónico: Todo lo que
   necesitas saber"
-image: /assets/images/uploads/mulher-com-melasma-na-pele.jpg
+image: /assets/images/uploads/tratamiento-estetico-de-ojeras-768x511.jpg
 date: 19-07-2024
 published: true
 ---

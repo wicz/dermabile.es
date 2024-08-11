@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Rejuvenecimiento facial con Fotona 4D
+title: Rejuvenecimiento facial con Youlaser Prime
 description: |
-  Rejuvenecimiento facial con láser no invasivos TimeWalker Fotona 4D en 
+  Rejuvenecimiento facial con láser híbrido Youlaser Prime en 
   Barcelona. 
 ---
 
@@ -32,14 +32,17 @@ description: |
         </span>
       </h1>
       <p class="prose md:prose-lg mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl mx-auto md:mt-5 md:text-xl">
-        Combinando dos tipos de láseres, erbio y neodimio, TimeWalker Fotona es capaz de trabajar en las estructuras conectivas más profundas, mediales y superficiales de la piel, mientras se tratan a la vez diversas imperfecciones cutáneas.
+        Combinando dos tipos de láseres fraccionados, CO2 y 1550nm, Youlaser
+        Prime es capaz de trabajar en las capas cutáneas más profundas, mediales
+        y superficiales de la piel, mientras se tratan a la vez diversas
+        imperfecciones.
       </p>
       <div class="my-8 flex justify-center">
         <div class="rounded-full border-rose border-2 shadow">
           <button class="w-full flex items-center justify-center
             px-8 py-2 font-medium rounded-full
             text-rose bg-white md:text-lg hover:text-white hover:bg-rose"
-            onclick="checkout({ contents: [{ id: 'fotona', quantity: 1 }] }, true)">
+            onclick="checkout({ contents: [{ id: 'youlaser', quantity: 1 }] }, true)">
             Pedir cita
           </button>
         </div>
@@ -56,7 +59,11 @@ description: |
               Rejuvenecimiento periocular
             </h3>
             <p class="mt-2 text-gray-500">
-              SmoothEye® de Fotona reduce las arrugas alrededor de los ojos con un abordaje no invasivo. Este modo no ablativo se aplica para estimular el remodelado y la contracción del colágeno. Estira significativamente la piel flácida y envejecida de los párpados y de la región periocular con la máxima comodidad para el paciente.
+              Youlaser Prime reduce las arrugas alrededor de los
+              ojos con un abordaje no invasivo. El modo híbrido se aplica
+              para estimular el remodelado y la contracción del colágeno. Estira
+              significativamente la piel flácida y envejecida de los párpados y
+              de la región periocular con la máxima comodidad para el paciente.
             </p>
           </div>
           <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-6 xl:col-start-5">
@@ -72,7 +79,11 @@ description: |
               Resurfacing cutáneo
             </h3>
             <p class="mt-2 text-gray-500">
-              Los tratamientos de resurfacing y rejuvenecimiento de la piel pueden realizarse en modo ablativo o no ablativo. El efecto de calentamiento profundo del haz láser Nd:YAG ayuda a rejuvenecer y estimular la piel, mientras que el haz del láser Er:YAG ayuda al cuerpo a formar una piel nueva y más firme.
+              Los tratamientos de resurfacing y rejuvenecimiento de la piel
+              pueden realizarse en modo ablativ, no ablativo y combinado. El
+              efecto de calentamiento profundo del haz del láser 1550nm ayuda a
+              rejuvenecer y estimular la piel, mientras que el haz del láser CO2
+              ayuda al cuerpo a formar una piel nueva y más firme.
             </p>
           </div>
           <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-1">
@@ -88,8 +99,12 @@ description: |
               Labios más gruesos y regulares
             </h3>
             <p class="mt-2 text-gray-500">
-              Estimulación del remodelado de colágeno e inicio de nuevas síntesis de colágeno. Sin agujas, sin inactividad. Al contrario de lo que ocurre con los rellenos inyectables, el tratamiento LipLase® no es invasivo ni hay nada artificial. Los pacientes desarrollan su propio colágeno en los labios.
-            </p>
+              Estimulación del remodelado de colágeno e inicio de nuevas
+              síntesis de colágeno. Sin agujas, con reducida inactividad. Al
+              contrario de lo que ocurre con los rellenos inyectables, el
+              tratamiento con Youlaser prime no es invasivo ni hay nada
+              artificial. Los pacientes desarrollan su propio colágeno en los
+              labios.</p>
           </div>
           <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-6 xl:col-start-5">
             <div class="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
@@ -104,7 +119,11 @@ description: |
               Acné y cicatrices
             </h3>
             <p class="mt-2 text-gray-500">
-              El láser de neodimio penetra en la piel para tratar las glándulas sebáceas hiperactivas y reducir el riesgo de que se vuelva a desarrollar el acné. El láser de erbio proporciona la profundidad de penetración necesaria para mejorar la textura de la piel con cicatrices.
+              El láser de CO2 proporciona la profundidad de penetración
+              necesaria para mejorar la textura de la piel con cicatrices. Ya el
+              láser 1550nm penetra en la piel para tratar las glándulas sebáceas
+              hiperactivas y reducir el riesgo de que se vuelva a desarrollar el
+              acné. 
             </p>
           </div>
           <div class="flex-auto lg:col-span-7 lg:row-start-1 xl:col-span-8 lg:col-start-1">
@@ -118,7 +137,7 @@ description: |
   </div>
 
   <div aria-hidden="true" class="relative">
-    <img src="fotona.jpg" alt="" class="h-80 w-full object-cover object-center">
+    <img src="youlaser.jpg" alt="quanta youlaser prime" class="w-full object-cover object-center" style="height:400px;">
     <div class="absolute inset-0 bg-gradient-to-t from-white"></div>
   </div>
 
@@ -132,7 +151,9 @@ description: |
             ¿Hay algún efecto secundario o tiempo de inactividad?
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">
-            No hay tiempo de inactividad asociado con este tratamiento y puede volver a sus actividades habituales de inmediato.
+            Depende del tipo del tratamiento y grado del problema del paciente.
+            En ocasiones que necesiten tratamientos profundos, el período de
+            inactividad puede ser de 4 a 7 días.
           </dd>
         </div>
         <div>
@@ -140,7 +161,9 @@ description: |
           ¿Cuánto duran los resultados del tratamiento?
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">
-            Incluso después de completar la serie de tratamientos, continuará viendo mejoras continuas durante 9 a 10 meses debido a la regeneración de colágeno y elastina.
+            Incluso después de completar la serie de tratamientos, continuará
+            viendo mejoras continuas durante 9 a 12 meses debido a la
+            regeneración de colágeno y elastina.
           </dd>
         </div>
         <div>
@@ -148,7 +171,9 @@ description: |
             ¿Cuántas sesiones son necesarias?
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">
-            El número de sesiones dependerá del tipo así como de la intensidad del tratamiento, pudiendo ser necesarias de 1 a 3 sesiones en la mayoría de los casos.
+            El número de sesiones dependerá del tipo así como de la intensidad
+            del tratamiento, pudiendo ser necesarias de 1 a 3 sesiones en la
+            mayoría de los casos.
           </dd>
         </div>
         <div>
@@ -156,7 +181,10 @@ description: |
             ¿Es doloroso?
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">
-            Fotona 4D es un tratamiento láser no invasivo que suele ser un procedimiento indoloro. Sin embargo, sentirá una sensación de picor leve y cálido durante el tratamiento y un ligero enrojecimiento que desaparecerá en unas pocas horas.
+            Depende del tratamiento y de la sensibilidad del paciente. Puede ser
+            desde indoloro hasta  una sensación de picor leve y cálido durante
+            el tratamiento y un ligero enrojecimiento que desaparecerá en unas
+            pocas horas.
           </dd>
         </div>
         <div>
@@ -164,7 +192,10 @@ description: |
             ¿Cuánto dura el tratamiento?
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">
-            El procedimiento tiene una duración de una hora. Poco después del tratamiento se puede observar un frescor y una tersura inmediatos en el rostro, pero el efecto completo se desarrolla gradualmente durante un período de 2 a 3 meses.
+            El procedimiento tiene una duración de una hora. Poco después del
+            tratamiento se puede observar un frescor y una tersura inmediatos en
+            el rostro, pero el efecto completo se desarrolla gradualmente
+            durante un período de 2 a 3 meses.
           </dd>
         </div>
       </dl>
@@ -182,23 +213,102 @@ description: |
              border-transparent text-lg font-medium text-center
       rounded-md shadow-sm text-white bg-green-500 
       focus:outline-none my-2 md:my-0"
-      onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] })"
+      onclick="checkout({ contents: [{ id: 'youlaser', quantity: 1 }] })"
     >
       <i class="fab fa-whatsapp mr-2"></i> 931 770 530
     </a>
     <a href="tel:931770530" class="px-6 py-3 text-center
       border border-transparent text-lg font-medium rounded-md shadow-sm text-black bg-gray-300 focus:outline-none my-2 md:my-0"
-      onclick="checkout({ contents: [{ id: 'm22', quantity: 1 }] })"
+      onclick="checkout({ contents: [{ id: 'youlaser', quantity: 1 }] })"
     >
       <i class="fal fa-phone-office mr-2"></i> 931 770 530
     </a>
     <button class="px-6 py-3
       border border-transparent text-lg font-medium rounded-md shadow-sm
       text-white bg-rose focus:outline-none my-2 md:my-0"
-      onclick="checkout({ contents: [{ id: 'fotona', quantity: 1 }] }, true)"
+      onclick="checkout({ contents: [{ id: 'youlaser', quantity: 1 }] }, true)"
     >
       <i class="fas fa-comments mr-2"></i> Chat
     </button>
+  </div>
+</div>
+
+<div class="py-12 relative">
+  <div class="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+    <div class="max-w-3xl mb-12">
+      <h2 class="font-semibold text-rose uppercase tracking-wide" id="faq">Opiniones</h2>
+    </div>
+    <div class="mx-auto grid grid-cols-1 gap-8 text-gray-900 sm:grid-cols-2 lg:grid-cols-3">
+      <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200">
+        <div class="flex gap-x-1 text-yellow-500 mb-4 text-sm">
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+        </div>
+        <blockquote class="text-gray-900 text-sm leading-6">
+          Localización 10/10, consulta completa y linda (aparatos,
+          recepción, sala de procedimientos) y lo más importante, el trato
+          y servicio, es increíble la sensibilidad, profesionalismo y
+          cuidado tanto de Dr Vanesa como también de Ana, su mano derecha
+          que nos ayuda desde citarnos, apoyar en los procedimientos y
+          hacernos seguimiento pos consulta. Recomiendo 100%.
+        </blockquote>
+        <figcaption class="mt-6 flex justify-end gap-x-4">
+          <div class="font-semibold">
+            Ana V. B.
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200">
+        <div class="flex gap-x-1 text-yellow-500 mb-4 text-sm">
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+        </div>
+        <blockquote class="text-gray-900 text-sm leading-6">
+          The doctor is extremely competent and really help me solve my problem
+          in a safe and attentive way and the staff of the center was extremely
+          kind and available also for follow-ups and additional checks. I would
+          highly recommend the doctor, the staff, and the treatments they use
+          because they are state of the arts, highly professional and with a
+          great human touch.
+        </blockquote>
+        <figcaption class="mt-6 flex justify-end gap-x-4">
+          <div class="font-semibold">
+            Irene P.
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure class="rounded-md bg-white p-6 shadow ring-1 ring-gray-200">
+        <div class="flex gap-x-1 text-yellow-500 mb-4 text-sm">
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+          <i class="fa fa-star"></i>
+        </div>
+        <blockquote class="text-gray-900 text-sm leading-6">
+          Lo mejor de este centro es que te aconsejan que es lo que realmente
+          te va bien con la harmonía de tu anatomía facial. He visitado otras
+          clínicas estéticas que por vender me han destrozado la cara. La Dra
+          Martins, con cariño y empatía me ha tratado de manera holística y ahora
+          puedo decir que me siento mejor conmigo mismo (a nivel físico y
+          emocional). Lo recomiendo sin lugar a duda :)
+        </blockquote>
+        <figcaption class="mt-6 flex justify-end gap-x-4">
+          <div class="font-semibold">
+            Ricardo B. N.
+          </div>
+        </figcaption>
+      </figure>
+
+    </div>
   </div>
 </div>
 
@@ -218,9 +328,9 @@ description: |
           después de los procedimientos.
         </p>
         <p>
-          Juntamente con el Fotona, nuestros protocolos multi-tratamientos
-          de asociación con otras tecnologías proporcionan resultados superiores,
-          con más seguridad y aspectos naturales
+          Juntamente con el Youlaser Prime, nuestros protocolos
+          multi-tratamientos de asociación con otras tecnologías proporcionan
+          resultados superiores, con más seguridad y aspectos naturales
         </p>
       </div>
     </dl>

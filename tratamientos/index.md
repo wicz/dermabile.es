@@ -23,14 +23,13 @@ title: Tratamientos
   <div class="relative px-4 sm:px-6 lg:px-8">
     <div class="relative max-w-screen-xl mx-auto">
       <div class="max-w-lg mx-auto grid gap-8 lg:grid-cols-3 lg:max-w-none">
-
         <div class="flex flex-col rounded-lg shadow bg-white overflow-hidden relative">
           <div class="flex-shrink-0 py-8">
             <img class="w-36 h-36 block mx-auto" src="/assets/images/icons/laser.svg" alt="">
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
+              <a href="/tratamientos/rejuvenecimiento-facial-youlaser-prime" class="block mt-2">
                 <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Láser fraccionado

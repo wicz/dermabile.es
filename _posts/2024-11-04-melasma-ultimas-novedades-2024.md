@@ -5,7 +5,7 @@ image: /assets/images/uploads/blonde-mirror-skin.jpg
 date: 04-11-2024
 published: true
 ---
-Es melasma es un problema de piel que produce una **hiperpigmnatación facial refrataria y recidivante**. Presenta una **predisposición genética**, que más oscura sea la piel y más mezcla genetica, mayor la predisposición a ese problema.  El diagnóstico es  clínico, apoyado con uso de la luz de Wood y dermatoscopia. 
+Es melasma es un problema de piel que produce una **hiperpigmentación facial refrataria y recidivante**. Presenta una **predisposición genética**, que más oscura sea la piel y más mezcla genetica, mayor la predisposición a ese problema.  El diagnóstico es  clínico, apoyado con uso de la luz de Wood y dermatoscopia. 
 
 Se considera **un tipo de fotoenvejecimiento**, asociado a estrés oxidativo,  y a **factores hormonales** y que también **puede estar relacionado con otros problemas de salud**, como de las glándulas tiroideas y suprarrenales.
 

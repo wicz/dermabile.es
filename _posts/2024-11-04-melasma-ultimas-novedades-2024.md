@@ -13,7 +13,7 @@ El **pilar del tratamiento es la fotoprotección efectiva** (que debe abarcar la
 
 El tratamiento puede ser tópico y oral, **se puede combinar procedimientos** de consultorio como la  quimioexfoliación (peelings químicos), microneedling y láser. 
 
-La estrategia de tratamiento debe ser cíclica, y planificadas a corto, mediano y largo plazo, ya que no existe un tratamiento curativo y evitar la recidiva es lo más complicado. **El objetivo es evitar nueva pigmentación, disminuir el color y area de mancha e unificar el tono para facilitar el camuflaje.** 
+El **tratamiento debe ser cíclico**, y la estrategia planificada a corto, mediano y largo plazo, ya que no existe un tratamiento curativo y evitar la recidiva es lo más complicado. **El objetivo es evitar nueva pigmentación, disminuir el color y area de mancha e unificar el tono para facilitar el camuflaje.** 
 
 **El protector solar debe ser con tinte**, para también proteger de la luz visible,  ya que los protectores solares con color son infinitamente mejores para las pacientes con melasma, especialmente porque evita la recaida del melasma durante el verano. En pieles oscuras siempre está indicado aplicar los protectores solares que protejan de la luz visible. 
 

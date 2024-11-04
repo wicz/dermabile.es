@@ -7,7 +7,7 @@ published: true
 ---
 El melasma es un problema de piel que produce una **hiperpigmentación facial refrataria y recidivante**. Presenta una **predisposición genética**, que más oscura sea la piel y más mezcla genetica, mayor la predisposición a ese problema.  El diagnóstico es  clínico, apoyado con uso de la luz de Wood y dermatoscopia. 
 
-Se considera **un tipo de fotoenvejecimiento**, asociado a estrés oxidativo,  y a **factores hormonales** y que también **puede estar relacionado con otros problemas de salud**, como de las glándulas tiroideas y suprarrenales.
+Se considera **un tipo de fotoenvejecimiento**, asociado a estrés oxidativo y a **factores hormonales**, también **puede estar relacionado con otros problemas de salud**, como de las glándulas tiroideas y suprarrenales.
 
 El **pilar del tratamiento es la fotoprotección efectiva** (que debe abarcar la ultravioleta y la luz visible). Si el paciente no esta dispuesto a evitar el sol no es un buen candidato a recibir otros tratamientos ya que tendrá escasa respuesta.
 

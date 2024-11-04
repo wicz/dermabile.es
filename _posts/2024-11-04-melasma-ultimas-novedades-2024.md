@@ -11,7 +11,7 @@ Se considera **un tipo de fotoenvejecimiento**, asociado a estrés oxidativo y a
 
 El **pilar del tratamiento es la fotoprotección efectiva** (que debe abarcar la ultravioleta y la luz visible). Si el paciente no esta dispuesto a evitar el sol no es un buen candidato a recibir otros tratamientos ya que tendrá escasa respuesta.
 
-El tratamiento puede ser tópico y oral, **se puede combinar procedimientos** de consultorio como la  quimioexfoliacion (peelings químicos), microneedling y laser. 
+El tratamiento puede ser tópico y oral, **se puede combinar procedimientos** de consultorio como la  quimioexfoliación (peelings químicos), microneedling y laser. 
 
 La estrategia de tratamiento debe ser cíclica, y planificadas a corto, mediano y largo plazo, ya que no existe un tratamiento curativo y evitar la recidiva es lo más complicado. **El objetivo es evitar nueva pigmentación, disminuir el color y area de mancha e unificar el tono para facilitar el camuflaje.** 
 

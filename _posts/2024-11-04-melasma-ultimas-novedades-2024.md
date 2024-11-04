@@ -11,7 +11,7 @@ Se considera **un tipo de fotoenvejecimiento**, asociado a estrés oxidativo y a
 
 El **pilar del tratamiento es la fotoprotección efectiva** (que debe abarcar la ultravioleta y la luz visible). Si el paciente no esta dispuesto a evitar el sol no es un buen candidato a recibir otros tratamientos ya que tendrá escasa respuesta.
 
-El tratamiento puede ser tópico y oral, **se puede combinar procedimientos** de consultorio como la  quimioexfoliación (peelings químicos), microneedling y laser. 
+El tratamiento puede ser tópico y oral, **se puede combinar procedimientos** de consultorio como la  quimioexfoliación (peelings químicos), microneedling y láser. 
 
 La estrategia de tratamiento debe ser cíclica, y planificadas a corto, mediano y largo plazo, ya que no existe un tratamiento curativo y evitar la recidiva es lo más complicado. **El objetivo es evitar nueva pigmentación, disminuir el color y area de mancha e unificar el tono para facilitar el camuflaje.** 
 
@@ -24,8 +24,8 @@ Actualmente hay una tendencia a asociar tratamientos ya que **no tenemos hasta l
 
 Algunas sustancias orales actualmente más avaladas son el uso de melatonina, ácido tranexámico, y Polipodium leucotomus.El ácido tranexámico posee efectos antialérgicos y antiinflamatorios, e inhibe la formación de pigmento.  Se usa de 4 a 24 semanas, 2 vez al dia. No es curativo tampoco y **presenta como contraindicaciones: antecedentes de trombosis o alteración a coagulación, tabaquismo, embarazo y lactancia**. A pesar de eficaz en algunos casos presenta recurrencia a los 3 meses de retirada en general. Solemos usar más en verano para  evitar recurrencia. 
 
-El antioxidante más estudiado es el polipodium leucotomus que se usa em combinación con fotoprotector tópico.  La melatonina es una hormona que tiene poderes antioxidantes que puede ser recomendada por 3 meses.  Otros como procianidina, superoxido dismutasa oral también pueden ser empleados. 
+El antioxidante más estudiado es el polipodium leucotomus que se usa em combinación con fotoprotector tópico.  La melatonina es una hormona que tiene poderes antioxidantes que puede ser recomendada por al menos 3 meses.  Otros como procianidina, superoxido dismutasa oral también pueden ser empleados. 
 
-Los láseres pueden ser usados,  especialmente el laser toning, el NDyag 1064nm y el picosegundos pero tampoco representan un milagro o cura.
+Los láseres pueden ser usados,  especialmente el láser toning, el NDyag 1064nm y el picosegundos pero tampoco representan un milagro o cura.
 
 **Paciencia, persistencia y constancia suelen ser la clave** para una respuesta y mantenimiento satisfactorios. En Clínica Dermábile, clínica de Medicina Estética en Barcelona, **somos expertos** en asociar tratamientos médicos y procedimientos para el melasma. Si quieres saber más, **contáctanos hoy mismo** y estaremos encantados de poder ayudarte.

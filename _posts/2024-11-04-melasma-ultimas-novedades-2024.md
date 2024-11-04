@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MELASMA -  últimas novedades 2024
+title: MELASMA 2024  ¿Cuáles son las últimas novedades?
 image: /assets/images/uploads/blonde-mirror-skin.jpg
 date: 04-11-2024
 published: true

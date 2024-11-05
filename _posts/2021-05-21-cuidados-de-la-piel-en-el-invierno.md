@@ -11,6 +11,8 @@ published: true
 
 **No usar agua muy caliente** y ni ducharte por largo rato: El agua caliente y duchas largas resecan más todavía la piel. Intenta ser rápido, use un **jabón tipo syndet** y **aplica hidratante corporal** luego tras la ducha, luego al secar la piel.
 
-**Evita aire muy caliente** al secar el pelo: Las #dermatitis, especialmente la seborreica, tende a empeora en invierno. Un cosejo útil es secar el pelo usando el aire frío siempre que posible para no irritar y resecar más la piel del cuero cabelludo. 
+**Evita aire muy caliente** al secar el pelo: Las #dermatitis, especialmente la seborreica, tende a empeora en invierno. Un consejo útil es secar el pelo usando el aire frío siempre que posible para no irritar y resecar más la piel del cuero cabelludo. 
 
 No descuida el **uso de protector solar**: si estás expuesto a luz solar directa usa el protector solar diariamente. Es el mejor antiedad que existe.
+
+Si necesitas una rutina especifica o te aparecen rojeces e irritaciones en la piel, consulta tu dermatólogo.

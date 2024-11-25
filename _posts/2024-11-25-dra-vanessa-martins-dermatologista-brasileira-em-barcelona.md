@@ -5,7 +5,7 @@ image: /assets/images/uploads/dsc02682-copy.jpg
 date: 25-11-2024
 published: true
 ---
-Se você está buscando um **médico dermatologista brasileiro** em Barcelona, você está no lugar certo. 
+## 🇧🇷 Se você está buscando um **médico dermatologista brasileiro** em Barcelona, você está no lugar certo. 
 
 Dra Vanessa Martins é **médica especialista em Dermatologia** pela Universidade Federal de Santa Catarina. Além de residência médica en Dermatologia,  possui diversas posgraduações realizadas en centros de prestígio, tanto em Dermatologia quanto em Medicina Estética. É **PhD em Dermatologia** pela Universidade de Barcelona e membro da Sociedade Brasileira de Dermatologia e de diversas sociedades médicas internacionais. Atende principalmente homens e mulheres que desejam **tratar problemas de pele e do cabelo**, ou prevenir e **tratar o envelhecimento** facial.
 
@@ -13,7 +13,9 @@ Sua filosofia se centra  no **cuidado contínuo e global** **da pele**, tratand
 
 Dra Vanessa Martins, dermatologista brasileira, atende exclusivamente na **Clínica Dermábile**, localizada no bairro nobre de Sarrià-Sant Gervasi,  em Barcelona. Atualmente está aceitando novos pacientes. Você pode **contactar através do número +34 931770530**, tanto para chamadas quanto por WhatsApp. 
 
-Si buscas un dermatólogo brasileño en Barcelona,  ​​estás en el lugar indicado. 
+
+
+## 🇪🇸Si buscas un dermatólogo brasileño en Barcelona,  ​​estás en el lugar indicado. 
 
 \
 La Dra. Vanessa Martins es **médica especialista en Dermatología** por la Universidad Federal de Santa Catarina. Además de su residencia médica en Dermatología, cuenta con varios posgrados realizados en centros de prestigio, tanto en Dermatología como en Medicina Estética. Es **doctora en Dermatología** por la Universidad de Barcelona y es miembro de la Sociedad Brasileña de Dermatología y de varias sociedades médicas internacionales. Atiende principalmente a hombres y mujeres que desean **tratar problemas de la piel y el cabello**, o prevenir y tratar el **envejecimiento facial**.

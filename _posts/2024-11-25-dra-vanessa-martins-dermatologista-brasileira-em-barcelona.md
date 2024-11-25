@@ -5,7 +5,7 @@ image: /assets/images/uploads/dsc02682-copy.jpg
 date: 25-11-2024
 published: true
 ---
-## 🇧🇷 Se você está buscando um **médico dermatologista brasileiro** em Barcelona, você está no lugar certo. 
+## Se você está buscando um **médico dermatologista brasileiro** em Barcelona, você está no lugar certo. 
 
 Dra Vanessa Martins é **médica especialista em Dermatologia** pela Universidade Federal de Santa Catarina. Além de residência médica en Dermatologia,  possui diversas posgraduações realizadas en centros de prestígio, tanto em Dermatologia quanto em Medicina Estética. É **PhD em Dermatologia** pela Universidade de Barcelona e membro da Sociedade Brasileira de Dermatologia e de diversas sociedades médicas internacionais. Atende principalmente homens e mulheres que desejam **tratar problemas de pele e do cabelo**, ou prevenir e **tratar o envelhecimento** facial.
 

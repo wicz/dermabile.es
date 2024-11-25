@@ -13,10 +13,6 @@ Sua filosofia se centra  no **cuidado contínuo e global** **da pele**, tratand
 
 Dra Vanessa Martins, dermatologista brasileira, atende exclusivamente na **Clínica Dermábile**, localizada no bairro nobre de Sarrià-Sant Gervasi,  em Barcelona. Atualmente está aceitando novos pacientes. Você pode **contactar através do número +34 931770530**, tanto para chamadas quanto por WhatsApp. 
 
-
-
-
-
 Si buscas un dermatólogo brasileño en Barcelona,  ​​estás en el lugar indicado. 
 
 \

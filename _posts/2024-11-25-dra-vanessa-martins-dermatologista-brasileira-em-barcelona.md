@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dra Vanessa Martins - Dermatologista brasileira em Barcelona
+title: " 🇧🇷 Dra Vanessa Martins - Dermatologista brasileira em Barcelona"
 image: /assets/images/uploads/dsc02682-copy.jpg
 date: 25-11-2024
 published: true

@@ -50,7 +50,6 @@ El Aura 3D Imaging System no solo mejora la experiencia clínica, sino que tambi
 
 ![Análisis de las manchas de la piel con Aura 3D](/assets/images/uploads/img_6485.jpg "Análisis de las manchas de la piel con Aura 3D")
 
-## \
 **¿Cómo puede ayudarte Aura 3D en tu tratamiento?**
 
 Si estás considerando procedimientos como rejuvenecimiento facial, tratamientos para manchas, o mejoras en la textura de la piel, Aura 3D Imaging System es el primer paso para garantizar éxito. Este sistema permite que el equipo médico desarrolle un plan completamente personalizado, maximizando los resultados y reduciendo riesgos.

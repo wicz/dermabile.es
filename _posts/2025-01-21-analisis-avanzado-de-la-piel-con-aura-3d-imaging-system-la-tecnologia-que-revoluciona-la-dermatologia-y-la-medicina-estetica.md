@@ -28,7 +28,7 @@ El Aura 3D Imaging System no es solo un análisis superficial; su capacidad para
 
 ![Análisis de las arrugas y su nivel de gravedad](/assets/images/uploads/img_6486.jpg "Análisis de las arrugas y su nivel de gravedad con Aura 3D")
 
-## **¿Por qué elegimos Aura 3D Imaging System en Clínica Dermábile?**
+## **¿Por qué elegimos Aura 3D en Clínica Dermábile?**
 
 En Clínica Dermábile, nuestra misión es ofrecer soluciones innovadoras que aumenten la precisión diagnóstica y personalización de tratamientos. Hemos optado por incorporar Aura 3D Imaging System porque entendemos que cada piel es única y requiere un enfoque altamente personalizado. Este sistema nos permite:
 

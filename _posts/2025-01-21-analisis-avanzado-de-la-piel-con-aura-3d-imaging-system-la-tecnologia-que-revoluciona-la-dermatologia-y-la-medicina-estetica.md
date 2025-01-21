@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Análisis avanzado de la piel con Aura 3D Imaging System: La tecnología
-  que revoluciona la Dermatología y la Medicina estética"
+  que revoluciona la evaluación de la piel"
 image: /assets/images/uploads/img_6487.jpg
 date: 21-01-2025
 published: true
@@ -10,7 +10,7 @@ En la búsqueda de una piel más radiante, joven y saludable, muchas personas se
 
 ## **¿Qué es el Aura 3D Imaging System?**
 
-El Aura 3D Imaging System es una tecnología de última generación diseñada para el análisis avanzado de la piel. Este sistema utiliza mltiples cámaras de alta resolución y algoritmos de inteligencia artificial para capturar imágenes tridimensionales de tu rostro, permitiendo evaluar en detalle aspectos clave como:
+El Aura 3D Imaging System es una tecnología de última generación diseñada para el análisis avanzado de la piel. Este sistema utiliza múltiples cámaras de alta resolución y algoritmos de inteligencia artificial para capturar imágenes tridimensionales de tu rostro, permitiendo evaluar en detalle aspectos clave como:
 
 * **Arrugas y líneas de expresión.**
 * **Hiperpigmentación y manchas solares.**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Análisis avanzado de la piel con Aura 3D Imaging System: La tecnología
-  que revoluciona la evaluación de la piel"
+  que revoluciona la evaluación facial"
 image: /assets/images/uploads/img_6487.jpg
 date: 21-01-2025
 published: true

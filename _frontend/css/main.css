@@ -1,0 +1,87 @@
+@import "tailwindcss" source("../../");
+@import "@/css/quincy.css";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-rose: #f09491;
+  --color-apricot: #ffbe9f;
+  --color-iron: #53565a;
+  --color-coal: #25282a;
+  --color-peach: #ffb3ab;
+  --color-cool-gray: #d9d9d6;
+  --color-black: #25282a;
+
+  --font-lato: "Lato", serif;
+  --font-quincy: "Quincy", serif;
+}
+
+.klaro {
+  --notice-right: auto;
+  --notice-left: 20px;
+  --green1: #f09491;
+  --blue1: #f09491;
+  --font-size: 1rem;
+}
+
+#klaro .klaro .cookie-modal .cm-btn.cm-btn-info {
+  background-color: transparent;
+  color: #333;
+}
+
+#klaro .klaro .cookie-modal .cm-bg {
+  background: #000e;
+}
+
+#klaro .klaro .cookie-modal .cm-modal .cm-footer .cm-powered-by {
+  display: none;
+}
+
+#klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-ok {
+  justify-content: left;
+}
+
+#klaro .klaro .cookie-modal .cm-modal .cm-header {
+  padding: 2em;
+}
+
+#klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-learn-more {
+  flex-grow: 0;
+}
+
+@media (width >= theme(--breakpoint-lg)) {
+  #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-ok {
+    justify-content: right;
+  }
+
+  #klaro .klaro .cookie-notice:not(.cookie-modal-notice) .cn-body .cn-learn-more {
+    flex-grow: 1;
+  }
+}
+
+.legal h1,
+.legal h2 {
+  @apply
+    font-quincy
+}
+
+article.prose {
+  @apply
+    text-gray-900
+}
+
+article.prose a {
+  color: #dc807d;
+  border-color: #f09491;
+  @apply
+    border-b-2
+    no-underline
+}
+
+article.prose em {
+  background-color: #ffdad7;
+  @apply
+    py-1
+    px-2
+    not-italic
+    text-black
+}

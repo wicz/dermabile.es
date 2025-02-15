@@ -63,7 +63,7 @@ layout: page
 </div>
 
 <div class="bg-black">
- <div class="max-w-screen-2xl mx-auto h-96 lg:h-200">
+ <div class="max-w-screen-2xl mx-auto h-96 lg:h-160">
   <img class="w-full h-full object-cover"
       src="/assets/images/lobby-1.jpg" alt="">
   </div>

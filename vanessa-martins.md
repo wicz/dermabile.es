@@ -7,8 +7,8 @@ title: Dra. Vanessa Martins
 
 <div class="bg-black text-white mb-12 pt-12 lg:pt-0 lg:mb-24 relative">
   <div class="absolute h-full w-full overflow-hidden hidden xl:block">
-    <div class="absolute right-0 bottom-0 bg-graphic">
-      <img src="/assets/images/dermabile-logo-alt.svg" class="w-1280">
+    <div class="absolute right-0 bottom-0 -mr-200 -mb-224">
+      <img src="/assets/images/dermabile-logo-alt.svg" class="w-320">
     </div>
   </div>
   <div class="lg:mx-auto lg:max-w-screen-2xl lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-12 xl:gap-16 lg:items-start">

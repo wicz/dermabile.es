@@ -6,7 +6,7 @@ title: Contacto
 <div class="bg-rose relative">
   <div class="absolute h-full w-full overflow-hidden hidden md:block">
     <div class="absolute -bottom-1/2 md:-left-full xl:-left-2/3 2xl:-left-1/2">
-      <img src="/assets/images/graphic-white.svg" class="w-1280">
+      <img src="/assets/images/graphic-white.svg" class="w-320">
     </div>
   </div>
   <div class="py-12 px-4 md:py-24 md:max-w-screen-md md:mx-auto relative z-10">
@@ -80,7 +80,7 @@ title: Contacto
   </div>
 </div>
 
-<div class="h-96 lg:h-200">
+<div class="h-96 lg:h-160">
   <img class="w-full h-full object-cover"
       src="/assets/images/map.jpg" alt="">
 </div>

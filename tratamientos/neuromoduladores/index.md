@@ -282,7 +282,7 @@ estética, como el <span class="font-semibold">control de la sudoración
   </div>
 </section>
 
-<section class="bg-white p-8 py-12 md:px-40 text-black rounded-[4rem] -mt-14
+<section class="bg-white p-8 py-12 md:px-20 lg:px-40 text-black rounded-[4rem] -mt-14
    md:flex md:items-start lg:items-center
   gap-x-8 space-y-8 relative z-1">
   <img src="/tratamientos/neuromoduladores/39.webp" class="md:w-1/3 max-w-70 ring-2 ring-rose rounded-full shrink-0">
@@ -307,14 +307,14 @@ estética, como el <span class="font-semibold">control de la sudoración
 </section>
 
   <section class="lg:bg-[url(/tratamientos/neuromoduladores/40.webp)] bg-cover lg:h-180 xl:h-220 -mt-14 pt-30
-    px-20">
-    <div class="w-1/2 text-black">
-      <h2 class="font-semibold text-6xl font-quincy mb-4">
+    px-8 md:px-20 bg-rose pb-20">
+    <div class="lg:w-1/2 text-black">
+      <h2 class="font-semibold text-4xl lg:text-6xl font-quincy mb-4">
         ¡Contáctanos!
       </h2>
       <div class="font-semibold">¿Quieres saber más o necesitas
         asesoramiento?</div>
-      <ul class="space-y-8 my-8 w-3/4">
+      <ul class="space-y-4 my-8 lg:w-3/4">
         <li class="border-2 border-black p-3 flex gap-x-4 items-center
           rounded-md">
           <i class="fa fa-comments"></i>
@@ -340,16 +340,18 @@ estética, como el <span class="font-semibold">control de la sudoración
           </div>
         </li>
       </ul>
-      <a href="https://wa.me/34931770530" class="w-full sm:w-auto rounded-full px-8 py-3 outline-2
-        outline-black uppercase
-        hover:text-white hover:outline-white hover:bg-rose font-semibold mr-2"
-        onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
-        WhatsApp</a>
-      <button class="w-full sm:w-auto rounded-full px-8 py-3 outline-2
-        outline-black uppercase
-        hover:text-white hover:outline-white hover:bg-rose font-semibold"
-        onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
-        Chat online</button>
+      <div class="flex flex-col sm:flex-row gap-x-2 gap-y-4">
+        <a href="https://wa.me/34931770530" class="w-full block lg:inline lg:w-auto rounded-full px-8 py-3 outline-2
+          outline-black uppercase text-center
+          hover:text-white hover:outline-white hover:bg-rose font-semibold"
+          onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
+          WhatsApp</a>
+        <button class="w-full lg:w-auto rounded-full px-8 py-3 outline-2
+          outline-black uppercase
+          hover:text-white hover:outline-white hover:bg-rose font-semibold"
+          onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
+          Chat online</button>
+        </div>
     </div>
   </section>
 </div>

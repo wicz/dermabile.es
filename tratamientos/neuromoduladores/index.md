@@ -72,7 +72,7 @@ estética, como el <span class="font-semibold">control de la sudoración
     <div>
       <img src="/tratamientos/neuromoduladores/face.svg" class="size-10 lg:size-14">
       <h3 class="text-rose my-4 font-semibold text-lg">Resultados naturales</h3>
-      <div>Relajan los músculos sin alterar la expresividad facial. </div>
+      <div>Relajan los músculos manteniendo la expresividad facial. </div>
     </div>
     <div>
       <img src="/tratamientos/neuromoduladores/timer.svg" class="size-10 lg:size-14">
@@ -82,14 +82,14 @@ estética, como el <span class="font-semibold">control de la sudoración
     <div>
       <img src="/tratamientos/neuromoduladores/cross.svg" class="size-10 lg:size-14">
       <h3 class="text-rose my-4 font-semibold text-lg">Aplicaciones terapéuticas</h3>
-      <div>Ayudan en casos de hiperhidrosis, bruxismo, sonrisa gingival y migrañas.</div>
+      <div>Ayudan en casos de hiperhidrosis, bruxismo y sonrisa gingival.</div>
     </div>
   </div>
 </section>
 
 <section class="bg-black p-8 pb-12 md:px-20 text-white rounded-[4rem]">
   <h2 class="text-4xl font-quincy mb-12 font-semibold text-center
-    md:text-left mt-8">Descubre los <span class="text-peach">resultados reales</span></h2>
+    md:text-left mt-8">Descubre nuestros <span class="text-peach">resultados reales</span></h2>
   <div class="grid md:grid-cols-2 gap-x-4">
     <div class="text-center">
     <img src="/assets/images/uploads/l-antes.jpg" class="rounded-lg ring-2
@@ -254,7 +254,6 @@ estética, como el <span class="font-semibold">control de la sudoración
            <ul class="list-disc ml-8">
             <li>Tocar o masajear la zona tratada durante 24 horas.</li>
             <li>Ejercicio físico intenso o exposición al calor las primeras 24 horas.</li>
-            <li>Acostarte en las primeras 4 horas posteriores al tratamiento.</li>
            </ul>
         </div>
       </li>
@@ -272,9 +271,11 @@ estética, como el <span class="font-semibold">control de la sudoración
           ¿Hay efectos secundarios?
         </div>
         <div class="leading-6">
-          El tratamiento es seguro y bien tolerado. Puede haber efectos leves y
-          temporales, como enrojecimiento, pequeñas marcas o una ligera
-          inflamación, que desaparecen rápidamente.
+          El tratamiento es seguro y bien tolerado. Sin embargo, es un medicamento
+          que debe ser aplicado por médico habilitado en un centro médico
+          autorizado. Generalmente los efectos son leves y temporales, como
+          enrojecimiento, pequeños morados o una ligera inflamación, que
+          desaparecen rápidamente.
         </div>
       </li>
     </ul>
@@ -288,9 +289,9 @@ estética, como el <span class="font-semibold">control de la sudoración
   <div class="grow prose prose-lg text-black text-justify">
     <p>
       En Dermábile, cada protocolo médico <span class="font-semibold">es diseñado y llevado a cabo personalmente
-      por la Dra. Vanessa Martins</span> , quien se dedica a ofrecer un
+      por la Dra. Vanessa Martins</span>, quien se dedica a ofrecer un
     <span class="font-semibold">enfoque integral y
-      personalizado para cada paciente</span> . Nos comprometemos a brindarte un
+      personalizado para cada paciente</span>. Nos comprometemos a brindarte un
       acompañamiento constante antes, durante y después de cada tratamiento,
       asegurando que te sientas respaldado en todo momento.
     </p>
@@ -316,18 +317,18 @@ estética, como el <span class="font-semibold">control de la sudoración
       <ul class="space-y-8 my-8 w-3/4">
         <li class="border-2 border-black p-3 flex gap-x-4 items-center
           rounded-md">
-          <i class="fa fa-phone"></i>
+          <i class="fa fa-comments"></i>
           <div>
-            <div class="font-semibold">Teléfono (Llamadas y WhastApp)</div>
-            <div>931 77 05 30</div>
+            <div class="font-semibold">Teléfono</div>
+            <a href="tel:931770530">930 770 530</a>
           </div>
         </li>
         <li class="border-2 border-black p-3 flex gap-x-4 items-center
           rounded-md">
-          <i class="fa fa-envelope"></i>
+          <i class="fa fa-map-marker"></i>
           <div>
-            <div class="font-semibold">Correo electrónico</div>
-            <div>hola@dermabile.es</div>
+            <div class="font-semibold">Donde estamos</div>
+            <div>Calle Laforja, 55, 08021 Barcelona</div>
           </div>
         </li>
         <li class="border-2 border-black p-3 flex gap-x-4 items-center
@@ -339,11 +340,16 @@ estética, como el <span class="font-semibold">control de la sudoración
           </div>
         </li>
       </ul>
+      <a href="https://wa.me/34931770530" class="w-full sm:w-auto rounded-full px-8 py-3 outline-2
+        outline-black uppercase
+        hover:text-white hover:outline-white hover:bg-rose font-semibold mr-2"
+        onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
+        WhatsApp</a>
       <button class="w-full sm:w-auto rounded-full px-8 py-3 outline-2
         outline-black uppercase
         hover:text-white hover:outline-white hover:bg-rose font-semibold"
         onclick="checkout({ contents: [{ id: 'botox', quantity: 1 }] }, true)">
-        Abrir chat</button>
+        Chat online</button>
     </div>
   </section>
 </div>

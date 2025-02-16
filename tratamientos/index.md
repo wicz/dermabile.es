@@ -133,7 +133,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
+              <a href="/tratamientos/suavizar-arrugas-con-toxina-botulinica-botox" class="block mt-2">
                 <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Neuromoduladores

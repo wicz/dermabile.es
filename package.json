@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "NODE_ENV=production npx postcss assets/css/main.css -o assets/css/compiled.css"
+    "build": "npx vite build"
   },
   "author": "",
   "license": "UNLICENSED",

@@ -9,8 +9,7 @@ En un mundo donde el lujo se mide en exclusividad, excelencia y atención al det
 
 En **Clínica Dermábile**, entendemos que la belleza es un lujo que merece ser tratado con la mayor delicadeza. Nuestra clínica boutique en Barcelona ha sido diseñada para ofrecer una experiencia de medicina estética de alto nivel, donde cada paciente recibe un trato exclusivo, a la altura de sus expectativas.
 
-## \
-**Un Espacio Diseñado para la Exclusividad**
+## **Un Espacio Diseñado para la Exclusividad**
 
 Desde el momento en que se cruza nuestra puerta, se percibe un ambiente de sofisticación y serenidad. Materiales nobles, una paleta de colores cuidadosamente seleccionada y un diseño interior pensado para transmitir armonía convierten nuestra clínica en un refugio de bienestar.
 
@@ -18,8 +17,7 @@ Cada detalle ha sido meticulosamente elegido para reflejar el lujo discreto que 
 
 La [Clínica Dermábile](https://www.dermabile.es/la-clinica) está ubicada en zona alta de Barcelona, en el prestigioso barrio de Sarrià-Sant Gervasi, con fácil acceso por transporte público. 
 
-## \
-**Atención Personalizada y Discreta**
+## **Atención Personalizada y Discreta**
 
 El lujo no solo está en los espacios, sino en la atención. En Dermábile, cada paciente recibe un acompañamiento completamente personalizado, desde la primera consulta hasta el postratamiento. Sabemos que cada rostro es único y, por ello, nuestros tratamientos son diseñados a medida, considerando la armonía facial, las necesidades específicas y los deseos de cada persona.
 
@@ -29,13 +27,11 @@ Disponemos de horarios alternativos y exclusivos para garantizar una experiencia
 
 Además, reconocemos la importancia de brindar un servicio de primer nivel a pacientes internacionales. Para ello, ofrecemos atención en varios idiomas y asistencia personalizada para quienes viajan desde el extranjero en busca de tratamientos de vanguardia. Nuestro equipo está preparado para coordinar cada detalle, desde la consulta hasta la recuperación, asegurando una estancia placentera y sin contratiempos.
 
-## \
-**Expertos en Belleza y Rejuvenecimiento Facial**
+## **Expertos en Belleza y Rejuvenecimiento Facial**
 
 La excelencia médica es un pilar fundamental en nuestra clínica boutique. Contamos con un [equipo](https://www.dermabile.es/vanessa-martins) altamente cualificado y en constante formación en las técnicas más avanzadas de rejuvenecimiento facial. Utilizamos solo productos y tecnologías de vanguardia, objetivando resultados naturales, elegantes y duraderos. 
 
-## \
-**Tratamientos a Medida con Resultados Sofisticados**
+## **Tratamientos a Medida con Resultados Sofisticados**
 
 Nuestras pacientes buscan algo más que tratamientos convencionales: desean resultados sutiles que realcen su belleza sin alterar su esencia. En Dermábile, aplicamos un enfoque holístico en cada procedimiento, logrando efectos que se integran perfectamente con la fisonomía y estilo de vida de cada persona.
 
@@ -45,8 +41,7 @@ En Clínica Dermábile, creemos que el lujo no significa inalcanzable o costoso,
 
 Cada tratamiento es diseñado estratégicamente para ofrecer resultados duraderos y eficientes, maximizando la inversión en bienestar y belleza. La excelencia no es exclusiva de unos pocos, sino un compromiso con quienes valoran la atención médica de calidad y buscan lo mejor dentro de sus posibilidades.
 
-## \
-**Un Lujo que se Siente y se Vive**
+## **Un Lujo que se Siente y se Vive**
 
 En Clínica Dermábile, entendemos el lujo como una experiencia integral: un trato exclusivo, un ambiente sofisticado, atención personalizada y resultados impecables. Es la combinación perfecta de ciencia y arte en medicina estética, diseñada para aquellas personas que valoran lo mejor y exigen lo excepcional, y avalado por centenas de pacientes que nos valoran como clínica 5 estrellas.
 

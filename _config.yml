@@ -28,8 +28,10 @@ exclude:
   - vendor
   - bin
   - package*
-  - .tags*
-  - "*.config.js"
+  - .tags
+  - .tags.temp
+  - .tags.lock
+  - vite.config.ts
 
 include:
   - _redirects

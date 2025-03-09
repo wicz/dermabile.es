@@ -154,7 +154,7 @@ title: Tratamientos
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <a href="/tratamientos" class="block mt-2">
+              <a href="/tratamientos/rellenos-con-acido-hialuronico" class="block mt-2">
                 <div class="absolute inset-x-0 -top-px bottom-0"></div>
                 <p class="text-2xl font-semibold font-quincy">
                   Rellenos con ácido hialurónico

@@ -19,7 +19,7 @@ permalink: /tratamientos/rellenos-con-acido-hialuronico
   </div>
   <div class=" md:inline lg:hidden md:absolute right-20 top-30 w-1/2 md:w-1/3 h-auto
     mx-auto">
-    <img src="/tratamientos/neuromoduladores/37.webp">
+    <img src="/tratamientos/rellenos-acido-hialuronico/43.webp">
   </div>
 </div>
 

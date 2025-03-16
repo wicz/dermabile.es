@@ -24,7 +24,7 @@ Dependiendo del problema a tratar y zona, se recomiendan **entre 3 y 8 sesiones*
 
 ### ¿IPL es mejor que el láser?
 
-La IPL y el láser tienen aplicaciones distintas, pero a la vez **se complementan**. Mientras que la [luz pulsada intensa](https://www.dermabile.es/tratamientos/luz-intensa-pulsada-ipl-m22-stellar/) trata múltiples problemas en una sola sesión,  especialmente el tono, el láser suele enfocarse en objetivos específicos, como puede ser la textura. **En Clínica Dermábile evaluamos cada caso** para recomendar la mejor opción según las necesidades del paciente.
+La IPL y el láser tienen aplicaciones distintas, pero a la vez **se complementan**. Mientras que la [luz pulsada intensa](https://www.dermabile.es/tratamientos/luz-intensa-pulsada-ipl-m22-stellar/) trata múltiples problemas en una sola sesión,  especialmente el tono, el [láser](https://www.dermabile.es/tratamientos/rejuvenecimiento-facial-youlaser-prime/) suele enfocarse en objetivos específicos, como puede ser la textura. **En Clínica Dermábile evaluamos cada caso** para recomendar la mejor opción según las necesidades del paciente.
 
 ### ¿Se puede realizar IPL en verano?
 

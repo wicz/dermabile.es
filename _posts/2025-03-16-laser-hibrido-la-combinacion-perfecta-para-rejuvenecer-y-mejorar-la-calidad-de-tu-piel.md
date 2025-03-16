@@ -2,7 +2,7 @@
 layout: post
 title: "Láser híbrido: la combinación perfecta para rejuvenecer y mejorar la
   calidad de tu piel"
-image: /assets/images/uploads/laser-co2.jpg
+image: /assets/images/uploads/laser-youlaser-prime.jpg
 date: 11-03-2025
 published: true
 ---

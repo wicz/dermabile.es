@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luz pulsada intensa (IPL): la clave para una piel luminosa y uniforme"
-image: /assets/images/uploads/luz-pulsada.jpg
+image: /assets/images/uploads/luz-pulsada-2.jpg
 date: 13-03-2025
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Láser CO2 Fraccionado: La Revolución para Rejuvenecer tu Piel de Forma
   Natural"
-image: /assets/images/uploads/piel-sana.jpg
+image: /assets/images/uploads/mujer-guapa.jpg
 date: 16-03-2025
 published: true
 ---

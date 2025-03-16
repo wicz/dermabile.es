@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Lujo de la Medicina Estética: La Diferencia de una Clínica Boutique"
-image: /assets/images/uploads/girl-blue-eyes.jpg
+image: /assets/images/uploads/laser-co2.jpg
 date: 16-02-2025
 published: true
 ---

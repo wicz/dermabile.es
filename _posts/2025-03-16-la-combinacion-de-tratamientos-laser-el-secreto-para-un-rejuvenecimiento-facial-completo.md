@@ -34,7 +34,7 @@ Perfecto para: **pieles con signos de envejecimiento avanzado, manchas y pérdi
 Perfecto para: **pieles con signos de fotoenvejecimiento, arrugas finas y falta de luminosidad.**
 
 * **Láser híbrido**: Combina ablación suave con estimulación profunda de colágeno, logrando un efecto tensor.
-* **IPL**: Atenúa manchas y mejora la calidad de la piel a nivel superficial. Beneficio: Rejuvenecimiento progresivo con resultados visibles desde la primera sesión.
+* [**IPL**:](https://www.dermabile.es/blog/luz-pulsada-intensa-ipl-la-clave-para-una-piel-luminosa-y-uniforme) Atenúa manchas y mejora la calidad de la piel a nivel superficial. Beneficio: Rejuvenecimiento progresivo con resultados visibles desde la primera sesión.
 
 ### **Láser ablativo CO2 fraccionado + Láser fraccionado no ablativo**
 
@@ -56,7 +56,7 @@ El número de sesiones varía según la combinación elegida y las necesidades d
 
 ### ¿Cuál es el tiempo de recuperación?
 
-Dependerá del tipo de láser utilizado. Algunos tratamientos, como IPL, tienen una recuperación mínima, mientras que el **láser CO2 fraccionado** puede requerir hasta 7 días.
+Dependerá del tipo de láser utilizado. Algunos tratamientos, como [IPL](https://www.dermabile.es/blog/luz-pulsada-intensa-ipl-la-clave-para-una-piel-luminosa-y-uniforme), tienen una recuperación mínima, mientras que el **láser CO2 fraccionado** puede requerir hasta 7 días.
 
 ## **Rejuvenece tu piel con un plan personalizado en Clínica Dermábile**
 

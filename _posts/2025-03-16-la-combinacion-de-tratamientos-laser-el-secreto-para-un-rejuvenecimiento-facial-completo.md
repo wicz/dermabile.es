@@ -33,7 +33,7 @@ Perfecto para: **pieles con signos de envejecimiento avanzado, manchas y pérdi
 
 Perfecto para: **pieles con signos de fotoenvejecimiento, arrugas finas y falta de luminosidad.**
 
-* **Láser híbrido**: Combina ablación suave con estimulación profunda de colágeno, logrando un efecto tensor.
+* **[Láser híbrido](https://www.dermabile.es/blog/desafiando-los-limites-el-uso-del-laser-hibrido-en-dermatologia)**: Combina ablación suave con estimulación profunda de colágeno, logrando un efecto tensor.
 * [**IPL**:](https://www.dermabile.es/blog/luz-pulsada-intensa-ipl-la-clave-para-una-piel-luminosa-y-uniforme) Atenúa manchas y mejora la calidad de la piel a nivel superficial. Beneficio: Rejuvenecimiento progresivo con resultados visibles desde la primera sesión.
 
 ### **Láser ablativo CO2 fraccionado + Láser fraccionado no ablativo**

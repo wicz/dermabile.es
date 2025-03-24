@@ -3,7 +3,7 @@ layout: post
 title: "Gerenciar el envejecimiento: cómo envejecer mejor con ayuda de la
   tecnología láser"
 image: /assets/images/uploads/woman-2303361.jpg
-date: 25-03-2025
+date: 24-03-2025
 published: true
 ---
 Envejecer es un proceso natural, pero no significa que debamos resignarnos a la pérdida de firmeza, las manchas o la aparición de arrugas profundas. Hoy en día, la medicina estética nos permite **gerenciar el envejecimiento** de manera inteligente, manteniendo una piel saludable, luminosa y firme a lo largo del tiempo.

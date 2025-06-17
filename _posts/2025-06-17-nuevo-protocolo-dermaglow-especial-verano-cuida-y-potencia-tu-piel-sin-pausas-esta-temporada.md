@@ -10,8 +10,6 @@ En Clínica Dermábile, entendemos que el verano no es excusa para dejar de cuid
 
 Este protocolo combina **tecnología avanzada y activos dermatológicos seguros** para la temporada estival, ideal tanto para **preparar la piel antes del verano** como para mantenerla saludable durante los meses de calor. ¡Te contamos en qué consiste!
 
-
-
 ## ¿Qué incluye el protocolo Dermaglow Verano?
 
 ### 1. **Limpieza profunda con Aquapure + Cooling**
@@ -28,7 +26,7 @@ El ultrasonido focalizado de alta intensidad (HIFU) Ultraformer en su versión s
 
 ### 4. **Aplicación de vitaminas y antioxidantes**
 
-Una **infusión personalizada de vitaminas (como C y E) y antioxidantes** esenciales para proteger la piel de los radicales libres, prevenir el daño solar y promover una apariencia radiante.
+Una **infusión personalizada de solución premium de mesoterapia con vitaminas (como C y E) y antioxidantes,** esenciales para proteger la piel de los radicales libres, prevenir el daño solar y promover una apariencia radiante.
 
 ### 5. **Luz LED antiinflamatoria**
 
@@ -37,8 +35,6 @@ Este paso incluye la aplicación de **luz LED azul o roja**, según el tipo de 
 ### 6. **Máscara Algae Peel-Off refrescante y calmante**
 
 Finalizamos con una **máscara profesional de algas** que **hidrata en profundidad, calma la piel y sella los activos aplicados**. Deja una sensación de frescor inmediata y una apariencia jugosa y luminosa.
-
-
 
 ## Compatible con el verano, pensado para tu piel
 
@@ -49,13 +45,9 @@ El **Protocolo Dermaglow Verano** ha sido diseñado especialmente para respeta
 * **Hidratar, proteger y mejorar la textura cutánea**
 * **Ver resultados visibles desde la primera sesión**
 
-
-
 ## ✈️ ¿Visitas Barcelona este verano?
 
 Si estás de paso por Barcelona y quieres **vivir una experiencia estética en una [clínica de referencia](https://www.dermabile.es/la-clinica)**, este protocolo es ideal para ti. Combinamos resultados visibles con cero downtime, para que puedas **disfrutar de la ciudad, seguir con tu itinerario turístico y cuidar tu piel al mismo tiempo**. Una opción perfecta si buscas un tratamiento seguro, eficaz y sin efectos secundarios visibles.
-
-
 
 ## 📅 ¡Plazas limitadas!
 

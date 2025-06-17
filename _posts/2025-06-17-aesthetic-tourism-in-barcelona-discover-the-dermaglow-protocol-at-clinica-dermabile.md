@@ -2,7 +2,7 @@
 layout: post
 title: "Aesthetic Tourism in Barcelona: Discover the Dermaglow Protocol at
   Clínica Dermábile"
-image: /assets/images/uploads/hifu-ultraformer-derma-bile-clinic.png
+image: /assets/images/uploads/hifu-ultraformer-cli-nica-derma-bile-barcelona.png
 date: 15-06-2025
 published: true
 ---

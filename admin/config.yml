@@ -1,13 +1,17 @@
 backend:
   name: git-gateway
   branch: master
+
 media_folder: "assets/images/uploads"
+
 slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "-"
+
 editor:
   preview: false
+
 collections:
   - name: "blog"
     label: "Blog"
@@ -21,3 +25,14 @@ collections:
       - { label: "Date", name: "date", widget: "date", format: "DD-MM-YYYY" }
       - { label: "Published", name: "published", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "services"
+    label: "Tratamientos"
+    folder: "tratamientos/"
+    create: true
+    nested:
+      depth: 10
+      summary: "{{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+      - { label: "Title", name: "title", widget: "string" }

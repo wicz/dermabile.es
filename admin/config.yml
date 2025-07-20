@@ -30,9 +30,9 @@ collections:
     label: "Tratamientos"
     folder: "tratamientos/"
     create: true
-    nested:
-      depth: 10
-      summary: "{{title}}"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
       - { label: "Title", name: "title", widget: "string" }

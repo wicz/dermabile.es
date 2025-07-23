@@ -36,4 +36,6 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "treatment" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Background image", name: "bg_image", widget: "image", allow_multiple: false, required: true }
       - { label: "Image", name: "image", widget: "image", allow_multiple: false, required: true }
+      - { label: "Heading", name: "heading", widget: "markdown" }

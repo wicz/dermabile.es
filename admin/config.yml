@@ -34,5 +34,6 @@ collections:
     media_folder: ""
     public_folder: ""
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "treatment" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", allow_multiple: false, required: true }

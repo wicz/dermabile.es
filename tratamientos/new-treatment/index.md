@@ -1,5 +1,6 @@
 ---
 layout: treatment
+service_slug: new tx
 title: New Treatment
 hero_image: fsm.jpg
 intro_image: screenshot-2025-07-11-at-10-53-36-user-roles-stripe-documentation.png
@@ -8,12 +9,11 @@ heading: >
   hialurónico</span>: Reposición de <span class="font-semibold
   text-peach">volumen</span> y <span class="text-rose font-semibold">contorno
   facial</span>.
-intro: >
+intro: |
   <h2 class="text-rose text-4xl font-quincy mb-8">
     ¿<span class="font-semibold">Qué es</span> el ácido hialurónico y
     <span class="font-semibold">para qué se utiliza</span>?
-  </h2>
-  <div class="prose lg:prose-lg text-justify">
+  </h2> <div class="prose lg:prose-lg text-justify">
     <p>
       El ácido hialurónico es una <span class="font-semibold"> sustancia
       natural presente en nuestro cuerpo</span>, cuya principal función es

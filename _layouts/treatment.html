@@ -46,27 +46,7 @@ layout: default
 
   {% include reviews.html %}
 
-  <section class="bg-apricot p-8 pb-12 lg:px-40 text-black rounded-t-[4rem] lg:grid
-    lg:grid-cols-8 gap-x-16">
-    <div class="lg:col-span-3">
-    <h2 class="text-4xl font-quincy mb-12 font-semibold text-center
-      lg:text-left mt-8">Preguntas frecuentes</h2>
-    <div class="hidden lg:block leading-6">
-      <p class="mb-2">Entendemos que al considerar un tratamiento es natural tener dudas.</p>
-      Por eso, <span class="font-semibold">hemos recopilado las preguntas más comunes para ofrecerte toda la información que necesitas y ayudarte a tomar la mejor decisión para el cuidado de tu piel</span>.
-    </div>
-    </div>
-    <div class="col-span-5">
-      <ul class="divide-y divide-coal divide-dotted mb-12 text-justify">
-        {% for it in page.faq %}
-          <li class="py-4">
-            <div class="font-semibold text-lg mb-4">{{ it.item.question }}</div>
-            <div class="leading-6">{{ it.item.answer }}</div>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </section>
+  {% include treatment/faq.html items=page.faq %}
 
   {% include tx_footer.html %}
 </div>

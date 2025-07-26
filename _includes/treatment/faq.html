@@ -10,7 +10,7 @@
   </div>
   <div class="col-span-5">
     <ul class="divide-y divide-coal divide-dotted mb-12 text-justify">
-      {% for it in items %}
+      {% for it in page.faq %}
         <li class="py-4">
           <div class="font-semibold text-lg mb-4">{{ it.item.question }}</div>
           <div class="leading-6">{{ it.item.answer }}</div>

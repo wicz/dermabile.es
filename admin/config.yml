@@ -26,20 +26,28 @@ collections:
       - { label: "Published", name: "published", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "services"
-    label: "Tratamientos"
-    folder: "tratamientos/"
+  - name: services
+    folder: tratamientos/
     create: true
     path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
+    media_folder:
+    public_folder:
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "treatment" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Background image", name: "bg_image", widget: "image", allow_multiple: false, required: true }
-      - { label: "Image", name: "image", widget: "image", allow_multiple: false, required: true }
-      - { label: "Heading", name: "heading", widget: "markdown" }
-      - { label: "Intro", name: "intro", widget: "markdown" }
+      - name: layout
+        widget: hidden
+        default: treatment
+      - name: title
+        widget: string
+      - name: hero_image
+        widget: image
+        allow_multiple: false
+      - name: intro_image
+        widget: image
+        allow_multiple: false
+      - name: heading
+        widget: markdown
+      - name: intro
+        widget: markdown
       - name: benefits
         widget: list
         min: 3

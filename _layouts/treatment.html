@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="max-w-7xl mx-auto">
-  <div class="max-lg:bg-none! bg-cover lg:h-180 xl:h-220 relative" style="background-image:url({{ page.dir }}{{ page.bg_image }});">
+  <div class="max-lg:bg-none! bg-cover lg:h-180 xl:h-220 relative" style="background-image:url({{ page.dir }}{{ page.hero_image }});">
     <div class="lg:absolute rounded-xl bg-white color-black font-quincy text-4xl
       p-8 md:py-15 md:px-10 top-1/4 xl:top-1/3 lg:left-10 md:w-[40%] lg:shadow-md">
       <img class="h-8 w-auto sm:h-10 mb-10 md:mb-20" src="/assets/images/dermabile-brand-logo.svg">
@@ -11,7 +11,7 @@ layout: default
     </div>
     <div class=" md:inline lg:hidden md:absolute right-20 top-30 w-1/2 md:w-1/3 h-auto
       mx-auto">
-      <img src="{{ page.image }}">
+      <img src="{{ page.intro_image }}">
     </div>
   </div>
 
@@ -19,7 +19,7 @@ layout: default
     <div class="lg:flex flex-row-reverse items-center">
       {{ page.intro }}
       <div class="text-center">
-        <img src="{{ page.image }}" class="w-[80%] h-auto mx-auto hidden lg:inline">
+        <img src="{{ page.intro_image }}" class="w-[80%] h-auto mx-auto hidden lg:inline">
       </div>
     </div>
   </section>

@@ -1,6 +1,6 @@
 ---
 layout: treatment
-service_slug: new tx
+service_slug: new-tx
 title: New Treatment
 hero_image: fsm.jpg
 intro_image: screenshot-2025-07-11-at-10-53-36-user-roles-stripe-documentation.png

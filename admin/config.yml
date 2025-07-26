@@ -39,3 +39,19 @@ collections:
       - { label: "Background image", name: "bg_image", widget: "image", allow_multiple: false, required: true }
       - { label: "Image", name: "image", widget: "image", allow_multiple: false, required: true }
       - { label: "Heading", name: "heading", widget: "markdown" }
+      - { label: "Intro", name: "intro", widget: "markdown" }
+      - name: benefits
+        widget: list
+        min: 3
+        max: 4
+        field:
+          - name: item
+            widget: object
+            fields:
+              - name: icon
+                widget: image
+                allow_multiple: false
+              - name: title
+                widget: string
+              - name: description
+                widget: string

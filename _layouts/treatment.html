@@ -17,6 +17,7 @@ layout: default
 
   <section class="p-8 md:py-20 md:px-15 xl:px-35">
     <div class="lg:flex flex-row-reverse items-center">
+      {{ page.intro }}
       <div>
         <h2 class="text-rose text-4xl font-quincy mb-8">
           ¿<span class="font-semibold">Qué es</span> el ácido hialurónico y
@@ -59,26 +60,13 @@ layout: default
       Beneficios
     </h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 space-y-8 gap-x-8">
-      <div>
-        <img src="/tratamientos/rellenos-acido-hialuronico/face.svg" class="size-10 lg:size-14">
-        <h3 class="text-rose my-4 font-semibold text-lg">Reposición de volumen y contorno facial</h3>
-        <div>Recupera la proyección los pómulos, armoniza el perfil facial y mejora la definición del contorno mandibular.</div>
-      </div>
-      <div>
-        <img src="/tratamientos/rellenos-acido-hialuronico/wrinkles.svg" class="size-10 lg:size-14">
-        <h3 class="text-rose my-4 font-semibold text-lg">Corrección de imperfecciones y arrugas</h3>
-        <div>Ameniza el hundimiento y cansancio en ojeras. Suaviza surcos y líneas de marioneta.</div>
-      </div>
-      <div>
-        <img src="/tratamientos/rellenos-acido-hialuronico/lips.svg" class="size-10 lg:size-14">
-        <h3 class="text-rose my-4 font-semibold text-lg">Mejora de rasgos específicos en labios y nariz</h3>
-        <div>Volumen, perfilado y hidratación de labios. Corrección de la nariz, como caballete o punta caída, sin cirugía.</div>
-      </div>
-      <div>
-        <img src="/tratamientos/rellenos-acido-hialuronico/hydrate.svg" class="size-10 lg:size-14">
-        <h3 class="text-rose my-4 font-semibold text-lg">Hidratación y redensificación sin voluminizar</h3>
-        <div>Aporta luminosidad, mejora la textura de la piel y restaura la hidratación desde el interior.</div>
-      </div>
+      {% for it in page.benefits %}
+        <div>
+          <img src="{{ it.item.icon }}" class="size-10 lg:size-14">
+          <h3 class="text-rose my-4 font-semibold text-lg">{{ it.item.title }}</h3>
+          <div>{{ it.item.description }}</div>
+        </div>
+      {% endfor %}
     </div>
   </section>
 

@@ -57,7 +57,7 @@ collections:
       - name: service_slug
         widget: string
         pattern:
-          - /[a-z-]+/
+          - "[a-z-]+"
           - "kebab-case: one word replaced spaces with hyphens"
       - name: title
         widget: string

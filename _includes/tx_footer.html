@@ -60,12 +60,12 @@
       <a href="https://wa.me/34931770530" class="w-full block lg:inline lg:w-auto rounded-full px-8 py-3 outline-2
         outline-black uppercase text-center
         hover:text-white hover:outline-white hover:bg-rose font-semibold"
-        onclick="checkout({ contents: [{ id: 'relleno-ah', quantity: 1 }] }, true)">
+        onclick="checkout({ contents: [{ id: '{{ page.service_slug }}', quantity: 1 }] }, true)">
         WhatsApp</a>
       <button class="w-full lg:w-auto rounded-full px-8 py-3 outline-2
         outline-black uppercase
         hover:text-white hover:outline-white hover:bg-rose font-semibold"
-        onclick="checkout({ contents: [{ id: 'relleno-ah', quantity: 1 }] }, true)">
+        onclick="checkout({ contents: [{ id: '{{ page.service_slug }}', quantity: 1 }] }, true)">
         Chat online</button>
       </div>
   </div>

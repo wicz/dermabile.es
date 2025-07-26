@@ -2,10 +2,10 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "assets/images/uploads"
+media_folder: assets/images/uploads
 
 slug:
-  encoding: "ascii"
+  encoding: ascii
   clean_accents: true
   sanitize_replacement: "-"
 
@@ -13,18 +13,29 @@ editor:
   preview: false
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "_posts/"
+  - name: blog
+    label: Blog
+    folder: _posts/
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", allow_multiple: false, required: false }
-      - { label: "Date", name: "date", widget: "date", format: "DD-MM-YYYY" }
-      - { label: "Published", name: "published", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - name: layout
+        widget: hidden
+        default: post
+      - name: title
+        widget: string
+      - name: image
+        widget: image
+        allow_multiple: false
+        required: false
+      - name: date
+        widget: date
+        format: DD-MM-YYYY
+      - name: published
+        widget: boolean
+        default: false
+      - name: body
+        widget: markdown
 
   - name: services
     label: Tratamientos
@@ -37,6 +48,9 @@ collections:
       - name: layout
         widget: hidden
         default: treatment
+      - name: service_slug
+        widget: string
+        pattern: "[a-z_]+"
       - name: title
         widget: string
       - name: hero_image

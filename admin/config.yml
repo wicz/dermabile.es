@@ -50,7 +50,9 @@ collections:
         default: treatment
       - name: service_slug
         widget: string
-        pattern: "[a-z_]+"
+        pattern:
+          - "[a-z-]+"
+          - "kebab-case: one word. replace spaces with hyphens"
       - name: title
         widget: string
       - name: hero_image

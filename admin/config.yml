@@ -12,6 +12,11 @@ slug:
 editor:
   preview: false
 
+i18n:
+  structure: multiple_files
+  locales: [es, en, pt]
+  default_locale: es
+
 collections:
   - name: blog
     label: Blog
@@ -44,6 +49,7 @@ collections:
     path: "{{slug}}/index"
     media_folder:
     public_folder:
+    i18n: true
     fields:
       - name: layout
         widget: hidden
@@ -67,8 +73,6 @@ collections:
         widget: markdown
       - name: benefits
         widget: list
-        min: 3
-        max: 4
         field:
           name: item
           widget: object

@@ -137,53 +137,12 @@ layout: default
     </div>
     <div class="col-span-5">
       <ul class="divide-y divide-coal divide-dotted mb-12 text-justify">
-        <li class="py-4">
-          <div class="font-semibold text-lg mb-4">¿Es doloroso el tratamiento? </div>
-          <div class="leading-6">
-            No suele ser doloroso. Utilizamos agujas finas o cánulas, y si es
-            necesario, aplicamos anestesia tópica para mayor confort.
-          </div>
-        </li>
-        <li class="py-4">
-          <div class="font-semibold text-lg mb-4">
-            ¿Cuánto duran los resultados?
-          </div>
-          <div class="leading-6">
-            La duración varía según el área tratada y el metabolismo de cada
-            persona, pero los resultados suelen mantenerse entre 6 y 18 meses.
-          </div>
-        </li>
-        <li class="py-4">
-          <div class="font-semibold text-lg mb-4">
-            ¿Cuáles son los cuidados después del tratamiento?
-          </div>
-          <div class="leading-6">
-             <ul class="list-disc ml-8">
-               <li>Evita el ejercicio intenso y la exposición al calor (saunas, baños calientes) durante las primeras 24-48 horas.</li>
-               <li>No masajes ni presiones las áreas tratadas.</li>
-               <li>Hidrata tu piel y utiliza protector solar para maximizar los resultados.</li>
-             </ul>
-          </div>
-        </li>
-        <li class="py-4">
-          <div class="font-semibold text-lg mb-4">
-            ¿Hay algún efecto secundario?
-          </div>
-          <div class="leading-6">
-            El tratamiento es seguro, pero podrías experimentar efectos leves y
-            temporales como enrojecimiento, inflamación o pequeños hematomas, que
-            desaparecen en pocos días.
-          </div>
-        </li>
-        <li class="py-4">
-          <div class="font-semibold text-lg mb-4">
-            ¿Cuántas sesiones necesito?
-          </div>
-          <div class="leading-6">
-            Generalmente, con una sesión es suficiente, aunque algunos casos
-            podrían requerir retoques o tratamientos complementarios.
-          </div>
-        </li>
+        {% for it in page.faq %}
+          <li class="py-4">
+            <div class="font-semibold text-lg mb-4">{{ it.item.question }}</div>
+            <div class="leading-6">{{ it.item.answer }}</div>
+          </li>
+        {% endfor %}
       </ul>
     </div>
   </section>

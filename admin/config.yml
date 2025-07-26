@@ -55,3 +55,13 @@ collections:
               widget: string
             - name: description
               widget: string
+      - name: faq
+        widget: list
+        field:
+          name: item
+          widget: object
+          fields:
+            - name: question
+              widget: string
+            - name: answer
+              widget: markdown

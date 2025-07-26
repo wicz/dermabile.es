@@ -48,4 +48,8 @@ benefits:
       icon: fsm.jpg
       title: "And finally benefit #3"
       description: Oh looks A-mazing!
+faq:
+  - item:
+      question: q
+      answer: a
 ---

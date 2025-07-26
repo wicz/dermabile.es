@@ -47,8 +47,8 @@ collections:
     folder: tratamientos/
     create: true
     path: "{{slug}}/index"
-    media_folder:
-    public_folder:
+    media_folder: ""
+    public_folder: ""
     i18n: true
     fields:
       - name: layout

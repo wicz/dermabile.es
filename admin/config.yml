@@ -42,43 +42,6 @@ collections:
       - name: body
         widget: markdown
 
-  - name: top
-    label: Top pages
-    folder: _sections/top/
-    i18n: true
-    fields:
-      - name: layout
-        widget: select
-        options: [section, section_dark]
-        i18n: duplicate
-      - name: title
-        widget: string
-        i18n: true
-      - name: permalink
-        widget: string
-        i18n: true
-      - name: body
-        widget: markdown
-        buttons: []
-        modes: [raw]
-        i18n: true
-
-  - name: legal
-    label: Legal
-    folder: _sections/legal/
-    i18n: true
-    fields:
-      - name: layout
-        widget: hidden
-        default: page
-        i18n: duplicate
-      - name: title
-        widget: string
-        i18n: true
-      - name: permalink
-        widget: string
-        i18n: true
-
   - name: services
     label: Services
     folder: _sections/services/
@@ -147,3 +110,46 @@ collections:
             - name: answer
               widget: markdown
               i18n: true
+
+  - name: top
+    label: Top pages
+    folder: _sections/top/
+    i18n: true
+    fields:
+      - name: layout
+        widget: select
+        options: [section, section_dark]
+        i18n: duplicate
+      - name: title
+        widget: string
+        i18n: true
+      - name: permalink
+        widget: string
+        i18n: true
+      - name: body
+        widget: markdown
+        buttons: []
+        modes: [raw]
+        i18n: true
+
+
+  - name: legal
+    label: Legal
+    folder: _sections/legal/
+    i18n: true
+    fields:
+      - name: layout
+        widget: hidden
+        default: section
+        i18n: duplicate
+      - name: title
+        widget: string
+        i18n: true
+      - name: permalink
+        widget: string
+        i18n: true
+      - name: body
+        widget: markdown
+        buttons: []
+        modes: [raw]
+        i18n: true

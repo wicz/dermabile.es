@@ -2,7 +2,7 @@
 layout: section
 title: Política de Privacidad
 permalink: /legal/politica-de-privacidad
-body: |
+---
 <div class="prose prose-xl mx-auto px-4 mt-8 mb-24 legal" markdown="1">
 # Política de Privacidad
 
@@ -11,10 +11,10 @@ body: |
 De conformidad con estas normativas, informamos que la utilización de nuestra web puede requerir que se faciliten ciertos datos personales a través de formularios de contacto, o mediante el envío de emails, y que éstos serán objeto de tratamiento por “Dermábile”, Responsable del tratamiento, cuyos datos son:
 
 * Denominación Social: Vanessa Priscilla Martins Da Silva
-* NIE: Y2980595Q 
+* NIE: Y2980595Q
 * Domicilio Social: Calle Laforja, 55, Local 2 – 08021, Barcelona
 * Teléfono: 931 770 530
-* Email: legal﹫dermabile.es 
+* Email: legal﹫dermabile.es
 
 ## Obtención y Tratamiento de Datos Personales
 
@@ -84,4 +84,3 @@ La información suministrada por el cliente tendrá, en todo caso, la considerac
 
 Esta política de privacidad y de protección de datos ha sido redactada por ExpertosLOPD®, empresa de protección de datos, a día 27 de octubre de 2020, y podrá variar en función de los cambios de normativa y jurisprudencia que se vayan produciendo, siendo responsabilidad del titular de los datos la lectura del documento actualizado, en orden a conocer sus derechos y obligaciones al respecto en cada momento.
 </div>
----

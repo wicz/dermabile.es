@@ -2,7 +2,7 @@
 layout: section
 title: Aviso Legal
 permalink: /legal/aviso-legal
-body: |
+---
 <div class="prose prose-xl mx-auto px-4 mt-8 mb-24 legal" markdown="1">
 # Aviso Legal
 
@@ -16,8 +16,8 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 * Domicilio Social: Calle Laforja, 55, Local 2 – 08021, Barcelona
 * Actividad: Medicina Estética
 * Teléfono: 931 770 530
-* Email: legal﹫dermabile.es 
-* Nombre de Dominio: www.dermabile.es 
+* Email: legal﹫dermabile.es
+* Nombre de Dominio: www.dermabile.es
 * Registro de Tratamientos conforme al RGPD: Clientes/Proveedores, Listas de Correo, Videovigilancia, Historial Clínico y Usuarios Web.
 * Colegiado número: 50889
 
@@ -64,4 +64,3 @@ En todo caso, “Dermábile” manifiesta que procederá a la retirada inmediata
 
 La relación entre Responsable y Usuario se rige en todos y cada uno de sus extremos por la ley española, a la que se someten expresamente ambas partes. El idioma de redacción e interpretación de este aviso legal es el español. Para la resolución de todas las controversias o cuestiones relacionadas con el presente sitio web o las actividades en él desarrolladas, “Dermábile” y Usuario acuerdan someterse a los Juzgados y Tribunales del domicilio del Usuario.
 </div>
----

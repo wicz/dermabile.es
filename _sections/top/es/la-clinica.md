@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page_dark
+title: La clínica
+permalink: /la-clinica
 ---
-
-{% include header_dark.html %}
 
 <div class="bg-black relative overflow-hidden">
   <div class="max-w-screen-2xl mx-auto relative">
@@ -184,5 +184,3 @@ layout: default
     </div>
   </div>
 </section>
-
-{% include footer.html %}

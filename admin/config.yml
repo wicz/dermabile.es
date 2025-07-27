@@ -42,6 +42,22 @@ collections:
       - name: body
         widget: markdown
 
+  - name: top
+    label: Top pages
+    folder: _sections/top/
+    i18n: true
+    fields:
+      - name: layout
+        widget: select
+        options: [page, page_dark]
+        i18n: duplicate
+      - name: title
+        widget: string
+        i18n: true
+      - name: permalink
+        widget: string
+        i18n: true
+
   - name: services
     label: Services
     folder: _sections/services/

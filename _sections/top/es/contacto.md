@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contacto
+permalink: /contacto
 ---
 
 <div class="bg-rose relative">

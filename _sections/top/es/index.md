@@ -1,5 +1,7 @@
 ---
 layout: page
+title: ""
+permalink: /
 ---
 
 <div class="relative max-w-screen-2xl mx-auto">

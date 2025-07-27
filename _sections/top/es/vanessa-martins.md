@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page_dark
 title: Dra. Vanessa Martins
+permalink: /vanessa-martins
 ---
-
-{% include header_dark.html %}
 
 <div class="bg-black text-white mb-12 pt-12 lg:pt-0 lg:mb-24 relative">
   <div class="absolute h-full w-full overflow-hidden hidden xl:block">
@@ -147,5 +146,3 @@ title: Dra. Vanessa Martins
     </div>
   </div>
 </div>
-
-{% include footer.html %}

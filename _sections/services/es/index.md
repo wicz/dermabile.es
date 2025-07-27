@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tratamientos
+permalink: /tratamientos
 ---
 
 <div class="bg-black relative overflow-hidden">

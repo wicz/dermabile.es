@@ -35,3 +35,7 @@ exclude:
 
 include:
   - _redirects
+
+collections:
+  sections:
+    output: true

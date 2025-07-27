@@ -13,13 +13,13 @@ editor:
   preview: false
 
 i18n:
-  structure: multiple_files
+  structure: multiple_folders
   locales: [es, en, pt]
   default_locale: es
 
 collections:
   - name: blog
-    label: Blog
+    label: Blog posts
     folder: _posts/
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -43,12 +43,10 @@ collections:
         widget: markdown
 
   - name: services
-    label: Tratamientos
-    folder: tratamientos/
+    label: Services
+    folder: _sections/services/
     create: true
     path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
     i18n: true
     fields:
       - name: layout
@@ -60,6 +58,8 @@ collections:
           - "[a-z-]+"
           - "kebab-case: one word replaced spaces with hyphens"
       - name: title
+        widget: string
+      - name: permalink
         widget: string
       - name: hero_image
         widget: image

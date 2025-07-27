@@ -48,49 +48,67 @@ collections:
     create: true
     path: "{{slug}}/index"
     i18n: true
+    media_folder: assets/images/uploads
     fields:
       - name: layout
         widget: hidden
         default: treatment
+        i18n: duplicate
       - name: service_slug
         widget: string
+        i18n: duplicate
         pattern:
           - "[a-z-]+"
           - "kebab-case: one word replaced spaces with hyphens"
       - name: title
         widget: string
+        i18n: true
       - name: permalink
         widget: string
+        i18n: true
       - name: hero_image
         widget: image
         allow_multiple: false
+        i18n: duplicate
       - name: intro_image
         widget: image
         allow_multiple: false
+        i18n: duplicate
       - name: heading
         widget: markdown
+        i18n: true
       - name: intro
         widget: markdown
+        i18n: true
       - name: benefits
         widget: list
+        i18n: true
         field:
           name: item
           widget: object
+          i18n: true
           fields:
             - name: icon
               widget: image
+              i18n: duplicate
               allow_multiple: false
             - name: title
               widget: string
+              i18n: true
             - name: description
               widget: string
+              i18n: true
       - name: faq
         widget: list
+        i18n: true
         field:
           name: item
           widget: object
+          i18n: true
           fields:
             - name: question
               widget: string
+              i18n: true
             - name: answer
               widget: markdown
+              i18n: true

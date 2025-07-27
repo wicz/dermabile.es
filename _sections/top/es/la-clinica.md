@@ -1,5 +1,5 @@
 ---
-layout: page_dark
+layout: section_dark
 title: La clínica
 permalink: /la-clinica
 body: |

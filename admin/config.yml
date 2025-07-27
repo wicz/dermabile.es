@@ -49,7 +49,7 @@ collections:
     fields:
       - name: layout
         widget: select
-        options: [page, page_dark]
+        options: [section, section_dark]
         i18n: duplicate
       - name: title
         widget: string

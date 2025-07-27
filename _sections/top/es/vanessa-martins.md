@@ -1,5 +1,5 @@
 ---
-layout: page_dark
+layout: section_dark
 title: Dra. Vanessa Martins
 permalink: /vanessa-martins
 body: |

@@ -46,8 +46,8 @@ collections:
     label: Services
     folder: _sections/services/
     filter:
-      - field: layout
-        value: treatment
+      field: layout
+      value: treatment
     create: true
     i18n: true
     fields:

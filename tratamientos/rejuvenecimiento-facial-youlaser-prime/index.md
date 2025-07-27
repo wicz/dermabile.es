@@ -4,7 +4,7 @@ title: Rejuvenecimiento facial con Youlaser Prime
 description: |
   Rejuvenecimiento facial con láser híbrido Youlaser Prime en
   Barcelona.
-permalink: /tratamientos/rejuvenecimiento-facial-youlaser-prime
+permalink: /tratamientos/rejuvenecimiento-facial-youlaser-prime/
 ---
 
 <div class="relative bg-white overflow-hidden">

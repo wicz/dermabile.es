@@ -46,9 +46,7 @@ collections:
     label: Services
     folder: _sections/services/
     create: true
-    path: "{{slug}}/index"
     i18n: true
-    media_folder: assets/images/uploads
     fields:
       - name: layout
         widget: hidden

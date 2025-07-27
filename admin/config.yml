@@ -34,7 +34,7 @@ collections:
         allow_multiple: false
         required: false
       - name: date
-        widget: date
+        widget: datetime
         format: DD-MM-YYYY
       - name: published
         widget: boolean

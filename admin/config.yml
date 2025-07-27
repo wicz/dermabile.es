@@ -45,6 +45,7 @@ collections:
   - name: services
     label: Services
     folder: _sections/services/
+    media_folder: /assets/services/
     create: true
     i18n: true
     fields:

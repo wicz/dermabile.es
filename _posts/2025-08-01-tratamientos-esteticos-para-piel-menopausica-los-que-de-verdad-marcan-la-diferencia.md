@@ -2,7 +2,7 @@
 layout: post
 title: "Tratamientos estéticos para piel menopáusica: los que de verdad marcan
   la diferencia"
-image: /assets/images/uploads/beautiful-woman-with-glowing-skin-derma-bile-.png
+image: /assets/images/uploads/mujer-guapa.jpg
 date: 01-08-2025
 published: true
 ---

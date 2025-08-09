@@ -62,5 +62,5 @@ En todo caso, “Dermábile” manifiesta que procederá a la retirada inmediata
 
 ## Ley Aplicable y Jurisdicción
 
-La relación entre Responsable y Usuario se rige en todos y cada uno de sus extremos por la ley española, a la que se someten expresamente ambas partes. El idioma de redacción e interpretación de este aviso legal es el español. Para la resolución de todas las controversias o cuestiones relacionadas con el presente sitio web o las actividades en él desarrolladas, “Dermábile” y Usuario acuerdan someterse a los Juzgados y Tribunales del domicilio del Usuario.
+La relación entre Responsable y Usuario se rige en todos y cada uno de sus extremos por la ley española, a la que se someten expresamente ambas partes. El idioma de redacción e interpretación de este aviso legal es el español. Para la resolución de todas las controversias o cuestiones relacionadas con el presente sitio web o las actividades en él desarrolladas, “Dermábile” y Usuario acuerdan someterse a los Juzgados y Tribunales del domicilio social de Dermábile.
 </div>

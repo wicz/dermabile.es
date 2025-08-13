@@ -53,7 +53,5 @@ Sí, especialmente el HIFU y los bioestimuladores, que no son fotosensibilizante
 **¿Sustituye un lifting quirúrgico?**
 No es un sustituto, ya que el lifting quirúrgico ofrece una corrección más profunda y duradera. Sin embargo, el lifting sin cirugía es ideal para quienes buscan resultados visibles, naturales y sin pasar por quirófano, como mantenimiento tras una cirugía.
 
-## **Conclusión y llamada a la acción**
-
 En Clínica Dermábile, el lifting sin cirugía es la opción perfecta para quienes desean un cambio visible pero natural, sin tiempo de recuperación.
 Reserva tu cita en Barcelona y descubre cómo en una sola sesión puedes conseguir un rostro más firme, definido y rejuvenecido.

@@ -2,6 +2,7 @@
 layout: post
 title: "Rejuvenecimiento sin agujas: opciones efectivas para lucir piel radiante
   en agosto"
+image: /assets/images/uploads/hifu-facial-en-barcelona.png
 date: 02-08-2025
 published: true
 ---

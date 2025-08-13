@@ -60,7 +60,5 @@ No. Primero es imprescindible diagnosticar el tipo de mancha para elegir la tecn
 **¿Las cremas despigmentantes funcionan?**
 Pueden mejorar la piel, pero alcanzan su máxima eficacia cuando se combinan con tratamientos médicos supervisados.
 
-## **Conclusión y llamada a la acción**
-
 En Clínica Dermábile creemos que una piel uniforme y luminosa no es cuestión de suerte, sino de cuidados inteligentes y personalizados.
 **Reserva tu valoración médica en Barcelona** y descubre cómo devolver a tu piel la luz y uniformidad que merece, incluso después del verano.

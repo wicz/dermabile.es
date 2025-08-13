@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lifting sin cirugía: resultados reales y sin baja laboral"
+image: /assets/images/uploads/lifting-sin-cirugia-barcelona-clinica-dermabile.png
 date: 05-08-2025
 published: true
 ---

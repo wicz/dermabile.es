@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Lifting sin cirugía?
-image: /assets/images/uploads/ultraformer.jpg
+image: /assets/images/uploads/lifting-sin-cirugia-barcelona-clinica-dermabile.png
 date: 30-06-2021
 published: true
 ---

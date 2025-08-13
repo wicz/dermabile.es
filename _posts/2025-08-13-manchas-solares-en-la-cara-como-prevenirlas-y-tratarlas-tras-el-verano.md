@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manchas solares en la cara: cómo prevenirlas y tratarlas tras el verano"
-image: /assets/images/uploads/hifu-facial-en-barcelona.png
+image: /assets/images/uploads/tratamiento-manchas-faciales-en-barcelona.png
 date: 01-08-2025
 published: true
 ---

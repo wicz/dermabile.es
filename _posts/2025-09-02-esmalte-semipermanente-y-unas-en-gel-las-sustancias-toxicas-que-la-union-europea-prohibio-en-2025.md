@@ -15,8 +15,6 @@ Desde el **1 de septiembre de 2025**, la Unión Europea actualizó la normativa
 
 Estas sustancias se han clasificado como **tóxicas para la reproducción**, y por eso ya no pueden estar presentes en los cosméticos en Europa.
 
-
-
 ## 🌸 ¿Qué significa esto para ti?
 
 A partir del **1 de septiembre de 2025**:
@@ -24,8 +22,6 @@ A partir del **1 de septiembre de 2025**:
 * **Queda prohibido** vender, comercializar o usar en salones esmaltes que contengan TPO o DMPT.
 * Esto incluye también los productos **adquiridos antes de esa fecha**.
 * Los salones y distribuidores deben haber retirado de inmediato cualquier esmalte con estas sustancias.
-
-
 
 ## 🔎 Cómo revisar tus esmaltes en casa
 
@@ -37,15 +33,11 @@ Si tienes esmaltes semipermanentes o de gel, puedes comprobarlos fácilmente:
 
 👉 Si aparece alguno de esos nombres, ese esmalte **ya no es legal ni seguro en Europa**.
 
-
-
 ## 🗑️ Qué hacer si los tienes
 
 * **No los uses más.** Aunque hayas aplicado estos esmaltes antes, el riesgo se asocia a la exposición repetida a largo plazo.
 * **Deséchalos de forma responsable**: llévalos a un **punto limpio** o centro de recogida de residuos químicos/cosméticos.
 * **No los tires a la basura común**, para evitar contaminación.
-
-
 
 ## ✅ Alternativas seguras
 
@@ -58,8 +50,6 @@ Ya existen marcas con fórmulas seguras y adaptadas a la normativa, como:
 * **Nail Creation**
 
 Todas ellas ofrecen esmaltes semipermanentes y de gel **TPO-free y DMPT-free**, con resultados duraderos y seguros.
-
-
 
 ## ❓ Preguntas frecuentes
 
@@ -78,8 +68,6 @@ Debes llevarlos a un **punto limpio** o contenedor de residuos químicos/cosm�
 **5. ¿Hay opciones seguras que den el mismo resultado?**
 Sí. Varias marcas ya ofrecen esmaltes semipermanentes y de gel libres de TPO y DMPT, con acabado profesional y duradero.
 
-
-
 ## 🌼 Nuestro consejo en Clínica Dermábile
 
 La manicura es parte de tu cuidado personal y no debe ser motivo de preocupación.
@@ -89,4 +77,6 @@ La manicura es parte de tu cuidado personal y no debe ser motivo de preocupació
 * Preguntar y estar informada es la mejor forma de cuidar tu salud sin renunciar a tu rutina de belleza.
 
 ✨ **Cuidar tu piel también incluye prestar atención a los productos de belleza que usas cada día.**
+
+
 En Clínica Dermábile te acompañamos con información clara y cuidados dermatológicos para que te sientas segura y saludable.

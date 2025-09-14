@@ -19,7 +19,7 @@ Hoy en día, contamos con varias tecnologías avanzadas para recuperar la lumino
 
 ## IPL, láser CO₂ y láser híbrido: ¿cuál elegir?
 
-### 🔹 Luz pulsada intensa (IPL)
+### 🔹 [Luz pulsada intensa](https://www.dermabile.es/tratamientos/luz-intensa-pulsada-ipl-m22-stellar/) (IPL)
 
 * Ideal para: **manchas superficiales y difusas, rojeces, fotoenvejecimiento inicial**.
 * No invasiva, con mínima recuperación.
@@ -31,7 +31,7 @@ Hoy en día, contamos con varias tecnologías avanzadas para recuperar la lumino
 * Genera microcanales en la piel que estimulan colágeno y renovación celular.
 * Requiere recuperación de 4-7 días. A depender de la intensidad la recuperación completa puede ser más larga. 
 
-### 🔹 Láser híbrido (CO₂ + no ablativo)
+### 🔹 [Láser híbrido ](https://www.dermabile.es/tratamientos/rejuvenecimiento-facial-youlaser-prime/)(CO₂ + no ablativo)
 
 * La última innovación en rejuvenecimiento y tratamiento de manchas.
 * **Combina la potencia del CO₂ ablativo con la seguridad del láser no ablativo**, logrando un efecto profundo y superficial en la misma sesión.
@@ -69,7 +69,7 @@ No necesariamente. Al poder ajustar la intensidad, suele ser más tolerable y co
 
 * IPL: 2-4 sesiones.
 * CO₂: 1-2 sesiones más intensas.
-* Híbrido: normalmente 1-2 sesiones, con resultados visibles más rápido.
+* Híbrido: normalmente 2-3 sesiones, con resultados visibles más rápido.
 
 **¿Se pueden combinar diferentes tipos de láser en la misma sesión?**
 Sí, en muchos casos se pueden **combinar tecnologías como IPL y láser CO₂** para potenciar los resultados:

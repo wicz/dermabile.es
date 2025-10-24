@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manchas y lesiones faciales benignas: cómo tratarlas con IPL y láser CO2"
-image: /assets/images/uploads/queratosis-seborreica-tratamiento-con-la-ser-co2.png
+image: /assets/images/uploads/dermatologist-removing-mole-from-womans-shoulder.jpg
 date: 24-10-2025
 published: true
 ---

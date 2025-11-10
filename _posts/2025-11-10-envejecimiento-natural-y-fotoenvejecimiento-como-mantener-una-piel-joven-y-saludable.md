@@ -6,7 +6,7 @@ image: /assets/images/uploads/envejecimiento-saludable-resultados-naturales-clin
 date: 10-11-2025
 published: true
 ---
-\    Por Dra. Vanessa Martins – Clínica Dermábile, Barcelona
+ Por Dra. Vanessa Martins – Clínica Dermábile, Barcelona
 
 Con el paso del tiempo, la piel cambia de forma natural. Pero no todo el envejecimiento cutáneo tiene la misma causa: existen **dos grandes procesos** que definen la evolución de la piel: el **envejecimiento intrínseco (natural)** y el **fotoenvejecimiento (inducido por el sol)**.
 Comprender la diferencia entre ambos es clave para cuidar, prevenir y tratar la piel de forma inteligente.

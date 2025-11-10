@@ -20,7 +20,7 @@ Aun así, este tipo de envejecimiento es **inevitable pero manejable**, y puede
 
 ### ☀️ Fotoenvejecimiento: el impacto del sol en la juventud cutánea
 
-El **fotoenvejecimiento** es el resultado de la exposición acumulada a la radiación ultravioleta. Según Rittié y Fisher, más del **80% de los signos visibles del envejecimiento facial** están relacionados con el sol.
+El **fotoenvejecimiento** es el resultado de la exposición acumulada a la radiación ultravioleta. Según Rittié y Fisher, **80% de los signos visibles del envejecimiento facial** están relacionados con el sol.
 Los rayos UV degradan las fibras de colágeno y elastina, activan enzimas que dañan la matriz dérmica y generan radicales libres que **aceleran la aparición de arrugas, manchas y flacidez**.
 
 La piel fotoenvejecida suele presentar **tono irregular, textura áspera, poros dilatados y una pérdida notable de luminosidad**, incluso en mujeres jóvenes. La buena noticia es que este tipo de envejecimiento **sí puede prevenirse y tratarse eficazmente**.

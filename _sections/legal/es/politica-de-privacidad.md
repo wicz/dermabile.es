@@ -4,83 +4,127 @@ title: Política de Privacidad
 permalink: /legal/politica-de-privacidad
 ---
 <div class="prose prose-xl mx-auto px-4 mt-8 mb-24 legal" markdown="1">
-# Política de Privacidad
+# Política de Privacidad. Protección de datos de carácter personal según el RGPD
 
-“Dermábile” se encuentra profundamente comprometido con el cumplimiento de la normativa española y europea de protección de datos de carácter personal, y garantiza el cumplimiento íntegro de las obligaciones dispuestas, así como la implementación de las medidas de seguridad dispuestas en el Reglamento General de Protección de Datos (RGPD) (UE) 2016/679, de 27 de abril, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPD y GDD, en adelante LOPD).
+CLÍNICA DERMÁBILE, SLU, en aplicación de la normativa vigente en materia de protección de datos de carácter personal, informa que los datos personales que se recogen a través de los formularios del Sitio web: https://www.dermabile.es, se incluyen en los ficheros automatizados específicos de usuarios de los servicios de CLÍNICA DERMÁBILE, SLU
 
-De conformidad con estas normativas, informamos que la utilización de nuestra web puede requerir que se faciliten ciertos datos personales a través de formularios de contacto, o mediante el envío de emails, y que éstos serán objeto de tratamiento por “Dermábile”, Responsable del tratamiento, cuyos datos son:
+La recogida y tratamiento automatizado de los datos de carácter personal tiene como finalidad el mantenimiento de la relación comercial y el desempeño de tareas de información, formación, asesoramiento y otras actividades propias de CLÍNICA DERMÁBILE, SLU
 
-* Denominación Social: Vanessa Priscilla Martins Da Silva
-* NIE: Y2980595Q
-* Domicilio Social: Calle Laforja, 55, Local 2 – 08021, Barcelona
-* Teléfono: 931 770 530
-* Email: legal﹫dermabile.es
+Estos datos únicamente serán cedidos a aquellas entidades que sean necesarias con el único objetivo de dar cumplimiento a la finalidad anteriormente expuesta.
 
-## Obtención y Tratamiento de Datos Personales
+CLÍNICA DERMÁBILE, SLU adopta las medidas necesarias para garantizar la seguridad, integridad y confidencialidad de los datos conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de los mismos, y derogando la antigua LOPD, la nueva Ley Orgánica 3/2018, de 5 diciembre, de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD).
 
-Un dato personal es cualquier información relativa a una persona: nombre, email, domicilio, teléfono, NIF/NIE... Adicionalmente, cuando un Usuario visita nuestro sitio web, determinada información se almacena automáticamente por motivos técnicos, como la dirección IP asignada por su proveedor de acceso a Internet.
-“Dermábile”, como Responsable del Tratamiento, tiene el deber de informar a los Usuarios de su sitio web acerca de la recogida de datos de carácter personal que pueden llevarse a cabo, bien sea mediante el envío de correo electrónico o al cumplimentar los formularios incluidos en el sitio web.
+El usuario podrá en cualquier momento ejercitar los derechos de acceso, oposición, rectificación, cancelación, limitación y portabilidad reconocidos en el citado Reglamento (UE). El ejercicio de estos derechos puede realizarlo el propio usuario a través de email a: legal@dermabile.es o en la dirección: C/ Laforja, 55, L2, C.P. 08021 (Barcelona), para lo que podremos solicitar documentación que acredite su identidad en caso de resultar necesario.
 
-Se obtendrán únicamente los datos precisos para poder realizar el servicio contratado, o para poder responder adecuadamente a la petición de información realizada por el Usuario. Los datos recabados son identificativos y corresponden a un mínimo razonable para poder llevar a término la actividad realizada. En particular, no se recogen datos especialmente protegidos en ningún momento. En ningún caso se realizará un uso diferente de los datos, que la finalidad para los que han sido recabados.
+Datos de contacto del Delegado de Protección de Datos: GRUPO ATICO34 SL lopd-gdd@atico34.com
 
-## Menores de edad
+El usuario manifiesta que todos los datos facilitados por él son ciertos y correctos, y se compromete a mantenerlos actualizados, comunicando los cambios a CLÍNICA DERMÁBILE, SLU
 
-Solo podrán aportar datos personales en este sitio web las personas mayores de 14 años. Según obliga la LOPD y GDD, en caso de menores de 14 años, será condición obligatoria el consentimiento de sus padres o tutores para que podamos tratar sus datos personales.
+## Finalidad del tratamiento de los datos personales:
 
-Por otra parte, solo podrán contratar nuestros servicios las personas mayores de 18 años. En caso de menores de 18 años, será condición obligatoria el consentimiento de sus padres o tutores legales para que podamos prestar los servicios ofertados, salvo que el menor esté emancipado.
+### ¿Con qué finalidad trataremos tus datos personales?
 
-## Medidas de Seguridad
+En CLÍNICA DERMÁBILE, SLU, trataremos tus datos personales recabados a través del Sitio Web: https://www.dermabile.es, con las siguientes finalidades:
 
-Se informa a los Usuarios de la web de “Dermábile” de que se han adoptado las medidas de seguridad, técnicas y organizativas a nuestro alcance para evitar la pérdida, mal uso, alteración, acceso no autorizado y robo de los datos, y que garantizan así la confidencialidad, integridad y calidad de la información contenida en las mismas, de acuerdo con lo establecido en la normativa vigente en materia de protección de datos. Los datos personales que se recogen en los formularios son objeto de tratamiento, únicamente, por parte del personal de “Dermábile” o de los Encargados del Tratamiento designados.
+  1. Dar cumplimiento de las obligaciones, comerciales, laborales, corporativas y contables de la empresa.
 
-El Sitio Web de “Dermábile” cuenta además con un cifrado SSL, que permite al Usuario el envío seguro de sus datos personales a través de los formularios de contacto del sitio web.
+  2. Prestar sus servicios de acuerdo con las necesidades particulares de los clientes, con el fin de cumplir los contratos suscritos por la misma.
 
-## Veracidad de los datos
+  3. Con propósitos de seguridad o prevención de fraude.
 
-El Usuario manifiesta que todos los datos facilitados por él son ciertos y correctos y se compromete a mantenerlos actualizados. El Usuario responderá de la veracidad de sus datos y será el único responsable de cuantos conflictos o litigios pudieran resultar por la falsedad de los mismos. Es importante que, para que podamos mantener los datos personales actualizados, el Usuario informe a “Dermábile” siempre que haya habido alguna modificación en los mismos.
+  4. Atender, gestionar y responder a las solicitudes de información, consultas o comunicaciones enviadas voluntariamente por el propio usuario a través del chat de contacto.  El chat es atendido exclusivamente por personal humano, por lo que no se utilizan sistemas de respuesta automatizada ni herramientas de inteligencia artificial durante la interacción.
 
-## Cesión de datos
+Te recordamos que puedes oponerte al envío de comunicaciones comerciales por cualquier vía y en cualquier momento, remitiendo un correo electrónico a la dirección anteriormente indicada.
 
-“Dermábile” no cederá ni comunicará a ningún tercero tus datos, excepto en los casos legalmente previstos o cuando la prestación de un servicio implique la necesidad de una relación contractual con un Encargado de Tratamiento. Así, el Usuario acepta que algunos de los datos personales recabados sean facilitados a estos Encargados del Tratamiento (plataformas de pago, gestoría, intermediarios, etc.), cuando sea necesario para la efectiva realización de un servicio contratado o producto adquirido. El Usuario acepta también que, en caso de prestación de servicios, éstos puedan ser, total o parcialmente, subcontratados a otras personas o empresas, que tendrán la consideración de Encargados del Tratamiento, con los que se ha convenido el correspondiente contrato de confidencialidad, o adherido a sus políticas de privacidad, establecidas en sus respectivas páginas web. El Usuario podrá negarse a la cesión de sus datos a los Encargados del Tratamiento, mediante petición escrita, por cualquiera de los medios anteriormente referenciados.
+Los campos de dichos registros son de cumplimentación obligatoria, siendo imposible realizar las finalidades expresadas si no se aportan esos datos.
 
-Además, en aquellos casos en que sea necesario, los datos de Clientes podrán ser cedidos a determinados organismos, en cumplimiento de una obligación legal: Agencia Tributaria Española, entidades bancarias, Inspección de Trabajo, etc.
+### ¿Por cuánto tiempo se conservan los datos personales recabados?
 
-## Ejercicio de Derechos del Usuario
+Los datos personales proporcionados se conservarán mientras se mantenga la relación comercial o no solicites su supresión y durante el plazo por el cuál pudieran derivarse responsabilidades legales por los servicios prestados. Así mismo, conservaremos sus datos mientras no se oponga al tratamiento.
 
-La LOPD y el RGPD conceden a los interesados la posibilidad de ejercer una serie de derechos relacionados con el tratamiento de sus datos personales. Para ello, el Usuario deberá dirigirse, aportando documentación que acredite su identidad (DNI o pasaporte), mediante correo electrónico a legal@dermabile.es, o bien mediante comunicación escrita a la dirección que aparece en nuestro Aviso Legal. Dicha comunicación deberá reflejar la siguiente información: nombre y apellidos del Usuario, el objeto de la solicitud, el domicilio y los datos acreditativos. 
+## Legitimación:
 
-El ejercicio de derechos deberá ser realizado por el propio Usuario. No obstante, podrán ser ejecutados por una persona autorizada como representante legal del Usuario, aportándose la documentación que acredite dicha representación.
+El tratamiento de tus datos se realiza con las siguientes bases jurídicas que legitiman el mismo:
 
-El Usuario podrá solicitar el ejercicio de los derechos siguientes:
+  1. El cumplimiento de obligaciones legales para cumplir con las obligaciones legales, fiscales, contables o administrativas que correspondan a CLÍNICA DERMÁBILE, SLU.
 
-* Derecho a solicitar el acceso a los datos personales.
-* Derecho a solicitar su rectificación (en caso de que sean incorrectos) o supresión.
-* Derecho a solicitar la limitación de su tratamiento, en cuyo caso únicamente serán conservados por “Dermábile” para el ejercicio o la defensa de reclamaciones.
-* Derecho a oponerse al tratamiento: “Dermábile” dejará de tratar sus datos, salvo que por motivos legítimos o el ejercicio o la defensa de posibles reclamaciones se tengan que seguir tratando.
-* Derecho a la portabilidad de los datos: en caso de que quiera que sus datos sean tratados por otra empresa, “Dermábile” le facilitará la portabilidad de sus datos en formato exportable.
+  2. La solicitud de información y/o la contratación de los servicios de CLÍNICA DERMÁBILE, SLU, cuyos términos y condiciones se pondrán a tu disposición en todo caso, de forma previa a una eventual contratación.
 
-En el caso de que se haya otorgado el consentimiento para alguna finalidad específica, el Usuario tiene derecho a retirar el consentimiento en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada.
+  3. El consentimiento libre, específico, informado e inequívoco, en tanto que te informamos poniendo a tu disposición la presente política de privacidad, que tras la lectura de la misma, en caso de estar conforme, puedes aceptar mediante una declaración o una clara acción afirmativa, como el marcado de una casilla dispuesta al efecto.
 
-Nos comprometemos a ejecutar todos estos derechos dentro del plazo legal máximo (1 mes).
-Si un Usuario considera que hay un problema con la forma en que “Dermábile” está manejando sus datos, puede dirigir sus reclamaciones al Responsable de Seguridad o a la autoridad de protección de datos que corresponda, siendo la Agencia Española de Protección de Datos la indicada en el caso de España.
+  4. El interés legítimo para atender la solicitud y/o consulta remitida a través de cualquiera de los canales de contacto habilitados, así como para la prevención de fraudes y la seguridad del sitio web.
 
-## Conservación de los datos
+En caso de que no nos facilites tus datos o lo hagas de forma errónea o incompleta, no podremos atender tu solicitud, resultando del todo imposible proporcionarte la información solicitada o llevar a cabo la contratación de los servicios.
 
-Los datos de carácter personal de los Usuarios que usen el formulario de contacto o que nos envíen un email solicitando información serán tratados durante el tiempo estrictamente necesario para atender a la solicitud de información, o hasta que se revoque el consentimiento otorgado. Por su parte, los datos de Usuarios que se den de alta en el boletín o newsletter serán conservados indefinidamente, hasta que se revoque el consentimiento otorgado.
+### Origen de los datos y forma de obtención
 
-Los datos de carácter personal de los Clientes serán tratados hasta que finalice la relación contractual. El período de conservación de los datos personales será el mínimo necesario, pudiendo mantenerse hasta:
+Los datos personales que tratamos han sido facilitados directamente por usted. En caso de que nos aporte datos pertenecientes a otras personas, usted garantiza que dispone de su consentimiento expreso y que les ha comunicado el contenido de esta Política. Asimismo, nos libera de cualquier responsabilidad derivada del incumplimiento de esta obligación.
 
-* 4 años: Ley sobre Infracciones y Sanciones en el Orden Social (obligaciones en materia de afiliación, altas, bajas, cotización, pago de salarios…); Arts. 66 y sig. Ley General Tributaria (libros de contabilidad…)
-* 5 años: Art. 1964 Código Civil (acciones personales sin plazo especial)
-* 6 años: Art. 30 Código de Comercio (libros de contabilidad, facturas…)
-* 10 años: Art. 25 Ley de Prevención del Blanqueo de Capitales y Financiación del Terrorismo.
-* Sin plazo: datos desagregados y anonimizados.
+### Exactitud de los datos personales
 
-## Confidencialidad
+En caso de que no nos facilites tus datos o lo hagas de forma errónea o incompleta, no podremos atender tu solicitud, resultando del todo imposible proporcionarte la información solicitada o llevar a cabo la contratación de los servicios.
 
-La información suministrada por el cliente tendrá, en todo caso, la consideración de confidencial, sin que pueda ser utilizada para otros fines distintos a los aquí descritos. “Dermábile” se obliga a no divulgar ni revelar información sobre las pretensiones del Usuario, los motivos del asesoramiento solicitado, o la duración de su relación con éste.
+El titular de los datos garantiza que los datos facilitados son veraces, exactos, completos y actualizados. Nos informará de cualquier modificación de los datos facilitados a través de los canales indicados en el encabezado de esta política.
 
-## Validez
+## Destinatarios:
 
-Esta política de privacidad y de protección de datos ha sido redactada por ExpertosLOPD®, empresa de protección de datos, a día 27 de octubre de 2020, y podrá variar en función de los cambios de normativa y jurisprudencia que se vayan produciendo, siendo responsabilidad del titular de los datos la lectura del documento actualizado, en orden a conocer sus derechos y obligaciones al respecto en cada momento.
+Informamos que, como consecuencia del servicio de alojamiento web, los datos podrán ser transferidos al proveedor de servicios ubicados fuera del Espacio Económico Europeo, en concreto a Cloudflare Inc., entidad sita en San Francisco, CA. En este sentido, le informamos que Cloudflare Inc. se encuentra adherida al amparo del acuerdo EU-US Data Privacy Framework (Decisión de adecuación 10 de julio de 2023) y, además, cuenta con cláusulas contractuales tipo adoptadas por la Comisión Europea (Información disponible en: https://www.dataprivacyframework.gov/list). 
+
+Los datos no se comunicarán a ningún tercero adicional, salvo obligación legal.
+
+### Datos recopilados por usuarios de los servicios
+
+En los casos en que el usuario incluya ficheros con datos de carácter personal en los servidores de alojamiento compartido, CLÍNICA DERMÁBILE, SLU no se hace responsable del incumplimiento por parte del usuario del RGPD.
+
+### Derechos propiedad intelectual https://www.dermabile.es
+
+CLÍNICA DERMÁBILE, SLU es titular de todos los derechos de autor, propiedad intelectual, industrial, "know how" y cuantos otros derechos guardan relación con los contenidos del sitio web https://www.dermabile.es y los servicios ofertados en el mismo, así como de los programas necesarios para su implementación y la información relacionada.
+
+No se permite la reproducción, publicación y/o uso no estrictamente privado de los contenidos, totales o parciales, del sitio web https://www.dermabile.es sin el consentimiento previo y por escrito.
+
+### Propiedad intelectual del software
+
+El usuario debe respetar los programas de terceros puestos a su disposición por CLÍNICA DERMÁBILE, SLU, aun siendo gratuitos y/o de disposición pública.
+
+CLÍNICA DERMÁBILE, SLU dispone de los derechos de explotación y propiedad intelectual necesarios del software.
+
+El usuario no adquiere derecho alguno o licencia por el servicio contratado, sobre el software necesario para la prestación del servicio, ni tampoco sobre la información técnica de seguimiento del servicio, excepción hecha de los derechos y licencias necesarios para el cumplimiento de los servicios contratados y únicamente durante la duración de los mismos.
+
+Para toda actuación que exceda del cumplimiento del contrato, el usuario necesitará autorización por escrito por parte de CLÍNICA DERMÁBILE, SLU, quedando prohibido al usuario acceder, modificar, visualizar la configuración, estructura y ficheros de los servidores propiedad de CLÍNICA DERMÁBILE, SLU, asumiendo la responsabilidad civil y penal derivada de cualquier incidencia que se pudiera producir en los servidores y sistemas de seguridad como consecuencia directa de una actuación negligente o maliciosa por su parte.
+
+### Propiedad intelectual de los contenidos alojados
+
+Se prohíbe el uso contrario a la legislación sobre propiedad intelectual de los servicios prestados por CLÍNICA DERMÁBILE, SLU y, en particular de:
+
+  1. La utilización que resulte contraria a las leyes españolas o que infrinja los derechos de terceros.
+
+  2. La publicación o la transmisión de cualquier contenido que, a juicio de CLÍNICA DERMÁBILE, SLU, resulte violento, obsceno, abusivo, ilegal, racial, xenófobo o difamatorio.
+
+  3. Los cracks, números de serie de programas o cualquier otro contenido que vulnere derechos de la propiedad intelectual de terceros.
+
+  4. La recogida y/o utilización de datos personales de otros usuarios sin su consentimiento expreso o contraviniendo lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de los mismos.
+
+  5. La utilización del servidor de correo del dominio y de las direcciones de correo electrónico para el envío de correo masivo no deseado.
+
+El usuario tiene toda la responsabilidad sobre el contenido de su web, la información transmitida y almacenada, los enlaces de hipertexto, las reivindicaciones de terceros y las acciones legales en referencia a propiedad intelectual, derechos de terceros y protección de menores.
+
+El usuario es responsable respecto a las leyes y reglamentos en vigor y las reglas que tienen que ver con el funcionamiento del servicio online, comercio electrónico, derechos de autor, mantenimiento del orden público, así como principios universales de uso de Internet.
+
+El usuario indemnizará a CLÍNICA DERMÁBILE, SLU por los gastos que generara la imputación de CLÍNICA DERMÁBILE, SLU en alguna causa cuya responsabilidad fuera atribuible al usuario, incluidos honorarios y gastos de defensa jurídica, incluso en el caso de una decisión judicial no definitiva.
+
+### Protección de la información alojada
+
+CLÍNICA DERMÁBILE, SLU realiza copias de seguridad de los contenidos alojados en sus servidores, sin embargo no se responsabiliza de la pérdida o el borrado accidental de los datos por parte de los usuarios. De igual manera, no garantiza la reposición total de los datos borrados por los usuarios, ya que los citados datos podrían haber sido suprimidos y/o modificados durante el periodo del tiempo transcurrido desde la última copia de seguridad.
+
+Los servicios ofertados, excepto los servicios específicos de backup, no incluyen la reposición de los contenidos conservados en las copias de seguridad realizadas por CLÍNICA DERMÁBILE, SLU, cuando esta pérdida sea imputable al usuario; en este caso, se determinará una tarifa acorde a la complejidad y volumen de la recuperación, siempre previa aceptación del usuario.
+
+La reposición de datos borrados sólo está incluida en el precio del servicio cuando la pérdida del contenido sea debida a causas atribuibles a CLÍNICA DERMÁBILE, SLU.
+
+### Comunicaciones comerciales
+
+En aplicación de la LSSI. CLÍNICA DERMÁBILE, SLU no enviará comunicaciones publicitarias o promocionales por correo electrónico u otro medio de comunicación electrónica equivalente que previamente no hubieran sido solicitadas o expresamente autorizadas por los destinatarios de las mismas.
+
+En el caso de usuarios con los que exista una relación contractual previa, CLÍNICA DERMÁBILE, SLU sí está autorizado al envío de comunicaciones comerciales referentes a productos o servicios de CLÍNICA DERMÁBILE, SLU que sean similares a los que inicialmente fueron objeto de contratación con el cliente.
+
+En todo caso, el usuario, tras acreditar su identidad, podrá solicitar que no se le haga llegar más información comercial a través de los canales de Atención al Cliente.
 </div>

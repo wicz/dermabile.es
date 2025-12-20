@@ -17,8 +17,11 @@
 .klaro {
   --notice-right: auto;
   --notice-left: 20px;
+  --dark2: #f09491;
+  --dark3: #f09491;
+  --light2: #f09491;
+  --light3: #f09491;
   --green1: #f09491;
-  --blue1: #f09491;
   --font-size: 1rem;
 }
 

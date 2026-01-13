@@ -2,7 +2,7 @@
 layout: post
 title: "Rejuvenecer la piel después de los 30: qué dice la dermatología y qué
   aporta la medicina estética"
-image: /assets/images/uploads/rejuvenecimiento-facial-barcelona.png
+image: /assets/images/uploads/rejuvenecimiento-facial-barcelona.jpg
 date: 13-01-2026
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿¿Cúal es el mejor tratamiento para tensar la piel?
+title: ¿Cúal es el mejor tratamiento para tensar la piel?
 image: /assets/images/uploads/hifu-barcelona-derma-bile.png
 date: 12-02-2026
 published: true

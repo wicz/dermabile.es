@@ -5,9 +5,7 @@ image: /assets/images/uploads/mejor-clinica-dermatologi-a-barcelona.png
 date: 16-02-2026
 published: true
 ---
-# Descubre qué dice la neurociencia sobre la belleza facial, cómo el cerebro procesa la estética y qué implica en medicina estética.
-
-
+### Descubre qué dice la neurociencia sobre la belleza facial, cómo el cerebro procesa la estética y qué implica en medicina estética.
 
 ## Bases neurocognitivas de la percepción facial y estética
 
@@ -101,8 +99,6 @@ Y una dimensión intersubjetiva influida por la sociedad.
 Estas capas se mezclan constantemente.
 
 Y quizá por eso, muchas veces dudamos de nuestra propia valoración estética o nos dejamos influenciar por estándares externos.
-
-
 
 ## Reflexión final
 

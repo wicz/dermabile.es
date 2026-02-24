@@ -5,9 +5,9 @@ image: /assets/images/uploads/rosacea-dermatologia-barcelona.jpg
 date: 21-02-2026
 published: true
 ---
-La rosácea es una enfermedad inflamatoria crónica.
+La rosácea es una enfermedad inflamatoria crónica. Es común confundir rosacea con acné ya que pueden presentar síntomas parecidos. 
 
-Puede manifestarse como:
+La rosacea puede manifestarse como:
 
 * Eritema persistente
 * Brotes tipo acné
@@ -36,7 +36,7 @@ No todas las rojeces son rosácea, y no toda rosácea necesita láser.
 
 Reducir brotes, mejorar calidad de vida y estabilizar la enfermedad.
 
-Es un tratamiento a largo plazo.
+Es un tratamiento a largo plazo y sí que es posible tenerla bajo control.
 
 ### Dermatología en Barcelona con enfoque médico integral
 

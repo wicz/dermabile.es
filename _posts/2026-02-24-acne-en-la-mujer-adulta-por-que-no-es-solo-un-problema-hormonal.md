@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acné en la mujer adulta: por qué no es “solo un problema hormonal”"
-image: /assets/images/uploads/acne-mujer-adulta-tratamiento.jpg
+image: /assets/images/uploads/acne-mujer-adulta.jpg
 date: 24-02-2026
 published: true
 ---

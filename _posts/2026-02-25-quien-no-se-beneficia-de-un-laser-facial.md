@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Quién NO se beneficia de un láser facial?
-image: /assets/images/uploads/laser-treatment-in-dermatology-clinic.png
+image: /assets/images/uploads/laser-co2-barcelona.png
 date: 25-02-2026
 published: true
 ---

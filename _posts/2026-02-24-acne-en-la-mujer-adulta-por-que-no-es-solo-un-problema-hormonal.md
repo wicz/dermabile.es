@@ -48,3 +48,13 @@ El objetivo no es solo “secar granos”, sino restaurar la salud cutánea.
 
 El acné adulto requiere criterio médico, paciencia, persistencia y constancia.
 No todas las pieles necesitan lo mismo, incluso aunque el diagnóstico sea el mismo. Escríbenos para concretar una visita médica.
+
+
+
+## Lecturas relacionadas
+
+1. [Guía completa para evitar cicatrices de acné](https://www.dermabile.es/blog/guia-completa-para-evitar-cicatrices-de-acne-consejos-efectivos)
+
+2. [Fisiopatología del Acné en Adultos: comprendiendo sus causas](https://www.dermabile.es/blog/fisiopatologia-del-acne-en-adultos-comprendiendo-sus-causas-y-tratamiento)
+
+3. [El mejor tratamiento láser para cicatrices de acné](https://www.dermabile.es/blog/el-mejor-tratamiento-con-laser-para-las-cicatrices-de-acne)

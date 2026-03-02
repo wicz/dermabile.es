@@ -101,7 +101,7 @@ Y eso es dermatología.
 
 Puedes leer también:
 
-* Flacidez facial o pérdida de volumen: cómo diferenciarlas
+* [Envejecimiento natural y fotoenvejecimiento: cómo mantener una piel joven y saludable](https://www.dermabile.es/blog/envejecimiento-natural-y-fotoenvejecimiento-como-mantener-una-piel-joven-y-saludable)
 * Señales tempranas de envejecimiento que suelen ignorarse
 * Qué es y qué no es la luz pulsada intensa (IPL)
 

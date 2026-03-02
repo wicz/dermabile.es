@@ -3,7 +3,7 @@ layout: post
 title: "Flacidez facial o pérdida de volumen: cómo diferenciarlas y por qué el
   diagnóstico lo cambia todo"
 image: /assets/images/uploads/mejor-cli-nica-barcelona-tratamientos-faciales.png
-date: 28-02-2026
+date: 01-03-2026
 published: true
 ---
 Cuando una persona consulta por “flacidez facial”, no siempre estamos ante el mismo problema.

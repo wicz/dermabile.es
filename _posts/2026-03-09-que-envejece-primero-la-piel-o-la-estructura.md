@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué envejece primero: la piel o la estructura?"
-image: /assets/images/uploads/hifu-facial-en-barcelona.png
+image: /assets/images/uploads/mujer-guapa.jpg
 date: 09-03-2026
 published: true
 ---

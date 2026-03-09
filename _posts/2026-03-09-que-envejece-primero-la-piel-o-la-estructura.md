@@ -124,7 +124,7 @@ El objetivo no es simplemente tratar los signos visibles del envejecimiento, sin
 Explicamos cómo el paso del tiempo y la inflamación crónica influyen en la pérdida de colágeno y en el envejecimiento de la piel.
 
 **[Flacidez facial o pérdida de volumen: cómo diferenciarlas](https://www.dermabile.es/blog/flacidez-facial-o-perdida-de-volumen-como-diferenciarlas-y-por-que-el-diagnostico-lo-cambia-todo)**
-Un análisis clínico para entender cuándo el problema está en la firmeza de la piel y cuándo en la pérdida de [soporte estructural del rostro.](https://www.dermabile.es/blog/que-envejece-primero-la-piel-o-la-estructura)
+Un análisis clínico para entender cuándo el problema está en la firmeza de la piel y cuándo en la pérdida de soporte estructural del rostro.
 
 **[¿Has perdido peso y ahora tu rostro parece más envejecido?](https://www.dermabile.es/blog/que-envejece-primero-la-piel-o-la-estructura)**
 Por qué una pérdida de peso rápida puede modificar el soporte facial y cambiar la apariencia del rostro.

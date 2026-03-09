@@ -122,5 +122,5 @@ La gestión del envejecimiento no consiste en hacer más tratamientos, sino en h
 ### Lecturas relacionadas
 
 * [Las dos formas en que perdemos colágeno](https://www.dermabile.es/blog/las-dos-formas-en-que-perdemos-colageno-envejecimiento-cronologico-e-inflamatorio)
-* ¿Has perdido peso y ahora tu rostro parece más envejecido?
-* Señales tempranas de envejecimiento que suelen ignorarse
+* [¿Has perdido peso y ahora tu rostro parece más envejecido?](https://www.dermabile.es/blog/has-perdido-peso-y-ahora-tu-rostro-parece-mas-envejecido)
+* [¿Cuál es el mejor tratamiento para tensar la piel?](https://www.dermabile.es/blog/cual-es-el-mejor-tratamiento-para-tensar-la-piel)
